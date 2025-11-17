@@ -24,6 +24,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+
       <link rel="icon" href="/uniqjobs.svg" type="image/svg+xml" />
       <link rel="preconnect" href="https://i.ytimg.com" />
       <link rel="preconnect" href="https://www.youtube-nocookie.com" />

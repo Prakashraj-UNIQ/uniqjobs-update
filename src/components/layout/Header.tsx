@@ -5,7 +5,7 @@ import Link from 'next/link';
 import MobileMenu from './MobileMenu';
 
 export default function Header() {
-    const [isNavOpen, setIsNavOpen] = useState<boolean>(true);
+    const [isNavOpen, setIsNavOpen] = useState<boolean>(false);
     const toggleNav = () => setIsNavOpen((prev) => !prev);
 
     return (
