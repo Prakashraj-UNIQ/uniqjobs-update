@@ -138,7 +138,7 @@ const locations = {
 
   Puducherry: {
     state: "Puducherry",
-    href: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d124910.53336315764!2d79.7344509!3d11.9430254!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5361379bbc3917%3A0xae68d0e221ab47e8!2sUniq%20Technologies%20-%20puducherry!5e0!3m2!1sen!2sin!4v1763185936014!5m2!1sen!2sin",
+    href: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3903.433801264713!2d79.79121087453196!3d11.944438636565991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5361379bbc3917%3A0xae68d0e221ab47e8!2sUniq%20Technologies%20-%20puducherry!5e0!3m2!1sen!2sin!4v1763372391295!5m2!1sen!2sin",
     location:
       "34, Bharathidasan St, Anandha Nagar, Kathirkamam, Puducherry, 605 009.",
     courses: pickRandomCourses(),

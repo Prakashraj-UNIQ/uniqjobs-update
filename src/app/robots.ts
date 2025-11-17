@@ -1,13 +1,12 @@
-import type { MetadataRoute } from "next";
+// app/robots.ts
+import { MetadataRoute } from "next";
 
 export default function robots(): MetadataRoute.Robots {
-  const SITE = "https://uniqjobs.co.in";
-
   return {
     rules: {
       userAgent: "*",
       disallow: "/",
     },
-    sitemap: `${SITE}/sitemap.xml`,
+    sitemap: "https://uniqjobs.co.in/sitemap.xml",
   };
 }

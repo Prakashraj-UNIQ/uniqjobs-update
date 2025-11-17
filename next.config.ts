@@ -12,6 +12,7 @@ const nextConfig: NextConfig = {
     ],
   },
   reactCompiler: true,
+  
 };
 
 // https://uniqjobs.co.in/blog_images/blogFirst.webp
