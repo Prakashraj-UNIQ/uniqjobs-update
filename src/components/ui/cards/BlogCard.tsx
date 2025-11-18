@@ -10,7 +10,7 @@ interface BlogCardProps {
     slug?: string;
 }
 
-const IMG_BASE = "https://uniqjobs.co.in/blog_images/";
+const IMG_BASE = "https://uniqjobs.co.in/blog_images";
 
 function BlogCard({ title, duration, img, slug }: BlogCardProps) {
 
