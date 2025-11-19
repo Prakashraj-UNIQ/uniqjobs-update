@@ -18,7 +18,7 @@ const CourseSection = () => {
     });
 
     return (
-        <div className="bg-[#f2f2f2] py-10 px-2 sm:px-10 lg:px-20">
+        <div id="hero" className="bg-[#f2f2f2] py-10 px-2 sm:px-10 lg:px-20">
             <h2 className="px-4 text-black text-3xl lg:text-5xl text-center fold-primary font-black pb-10">
                 What You’ll <span>Learn with Us?</span>
             </h2>

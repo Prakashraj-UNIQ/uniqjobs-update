@@ -42,7 +42,7 @@ export default function CourseBanner({
     }, [open]);
 
     return (
-        <section className="relative w-full overflow-hidden pt-10 md:pt-0">
+        <section id="hero" className="relative w-full overflow-hidden pt-10 md:pt-0">
             {/* Background */}
             <div className="absolute inset-0 -z-10">
                 {bgImageUrl ? (

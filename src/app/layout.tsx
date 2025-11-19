@@ -7,6 +7,7 @@ import CtaBanner from "@/components/layout/CtaBanner";
 import Footer from "@/components/layout/Footer";
 import { Metadata } from "next";
 import ScrollToTop from "@/components/common/ScrollToTop"
+import GlobalContactTrigger from "@/components/layout/GlobalContactTrigger";
 import Script from "next/script";
 
 const outFit = Outfit({
@@ -55,6 +56,7 @@ export default function RootLayout({
           <ScrollToTop />
         </ThemeProvider>
         {children}
+        <GlobalContactTrigger />
         <CtaBanner />
         <Footer />
 

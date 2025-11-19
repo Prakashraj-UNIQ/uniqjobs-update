@@ -5,7 +5,7 @@ import Link from 'next/link';
 
 export default function Banner() {
     return (
-        <div>
+        <div  id="hero"  >
             <main className="px-2 sm:px-0 pt-20 sm:pt-0 h-[calc(100vh-45px)] sm:h-[calc(100vh-212px)] overflow-hidden relative">
                 {/* Background image */}
                 <div className="absolute inset-0 -z-9">
