@@ -92,7 +92,7 @@
       <nav
         className={`
           hidden xl:flex px-24 justify-start items-center
-          border-b border-gray-900 bg-[#0f0f0f] z-[1000]
+          border-b border-gray-900 bg-[#0f0f0f] z-[50]
           transition-transform duration-300
           ${atTop
             ? "relative translate-y-0"

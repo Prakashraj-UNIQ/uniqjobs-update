@@ -79,13 +79,13 @@ export default function SyllabusSection({ MODULES }: { MODULES: Module[] }) {
                             {/* Vertical guide (optional) */}
                             <span
                                 aria-hidden
-                                className="pointer-events-none absolute left-3 top-0 h-[95%] w-px bg-gradient-to-b from-red-500/70 via-red-500/30 to-transparent z-[60]"
+                                className="pointer-events-none absolute left-3 top-0 h-[95%] w-px bg-gradient-to-b from-red-500/70 via-red-500/30 to-transparent z-46"
                             />
 
                             {MODULES.map((m: Module, idx: number) => (
                                 <li key={m.id} className="relative">
                                     {/* index badge */}
-                                    <span className="absolute -left-[2px] top-3 inline-flex h-6 w-6 items-center justify-center rounded-full bg-red-600 text-[11px] font-bold shadow ring-2 ring-black/30 z-[70]">
+                                    <span className="absolute -left-[2px] top-3 inline-flex h-6 w-6 items-center justify-center rounded-full bg-red-600 text-[11px] font-bold shadow ring-2 ring-black/30 z-48">
                                         {m.id}
                                     </span>
 
