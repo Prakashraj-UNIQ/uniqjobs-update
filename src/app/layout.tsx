@@ -65,6 +65,7 @@ export default function RootLayout({
             src="https://www.facebook.com/tr?id=250283863265561&ev=PageView&noscript=1"
           />
         </noscript>
+        <meta name="google-site-verification" content="mAXpmRzrPAJC52YoePoq9bTX2OUpTJL1oOS69lYmnX0" />
       </body>
     </html>
   );
