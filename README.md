@@ -1,3 +1,3 @@
 # uniq-official
 
-uniq job - uniqjobs.co.in
+# uniq job - uniqjobs.co.in
