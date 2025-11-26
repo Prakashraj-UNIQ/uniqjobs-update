@@ -4,13 +4,7 @@ import { getAllSlugs } from "@/data/course";
 import { COURSE_LOCATIONS, locSlug } from "@/data/courseNav";
 import { listBlogs, listCategories, listTags } from "@/data/blog";
 
-// simple slugify
-const slugify = (str: string) =>
-  str
-    .toLowerCase()
-    .replace(/[^\w\s-]/g, "")
-    .trim()
-    .replace(/\s+/g, "-");
+
 
 const SITE = "https://www.uniqjobs.co.in";
 
@@ -64,38 +58,36 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.8,
   }));
 
-  /* ------------------ CATEGORIES ------------------ */
-  const catRes = await listCategories();
-  const categories = catRes?.data ?? [];
+ /* ------------------ CATEGORIES ------------------ */
+const catRes = await listCategories();
+const categories = catRes?.data ?? [];
 
-  const catUrls = categories.map(
-    (c: string | { name: string; slug?: string }) => {
-      const slug =
-        typeof c === "string" ? slugify(c) : c.slug || slugify(c.name);
+const catUrls = categories.map((c: string | { name: string }) => {
+  const name = typeof c === "string" ? c : c.name;
 
-      return {
-        url: `${SITE}/blogs/category/?category=${encodeURIComponent(slug)}`,
-        lastModified: now,
-        changeFrequency: "weekly" as const,
-        priority: 0.6,
-      };
-    }
-  );
+  return {
+    url: `${SITE}/blogs/category/?category=${encodeURIComponent(name)}`,
+    lastModified: now,
+    changeFrequency: "weekly" as const,
+    priority: 0.6,
+  };
+});
 
-  /* ------------------ TAGS ------------------ */
-  const tagRes = await listTags();
-  const tags = tagRes?.data ?? [];
+/* ------------------ TAGS ------------------ */
+const tagRes = await listTags();
+const tags = tagRes?.data ?? [];
 
-  const tagUrls = tags.map((t: string | { name: string; slug?: string }) => {
-    const slug = typeof t === "string" ? slugify(t) : t.slug || slugify(t.name);
+const tagUrls = tags.map((t: string | { name: string }) => {
+  const name = typeof t === "string" ? t : t.name;
 
-    return {
-      url: `${SITE}/blogs/tags/?tag=${encodeURIComponent(slug)}`,
-      lastModified: now,
-      changeFrequency: "weekly" as const,
-      priority: 0.5,
-    };
-  });
+  return {
+    url: `${SITE}/blogs/tags/?tag=${encodeURIComponent(name)}`,
+    lastModified: now,
+    changeFrequency: "weekly" as const,
+    priority: 0.5,
+  };
+});
+
 
   /* ------------------ FINAL RETURN ------------------ */
   return [
