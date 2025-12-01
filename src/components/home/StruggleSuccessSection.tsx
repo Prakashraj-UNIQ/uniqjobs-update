@@ -2,7 +2,6 @@
 
 import { useEffect, useState } from "react";
 
-// SVG Icons
 const CrossIcon = () => (
   <svg
     width="20"
@@ -54,7 +53,6 @@ export default function StruggleSuccessSection() {
 
   const [visibleIndex, setVisibleIndex] = useState<number>(0);
 
-  // Reveal lines one-by-one
   useEffect(() => {
     let current = 0;
     const interval = setInterval(() => {
@@ -71,7 +69,7 @@ export default function StruggleSuccessSection() {
 
   return (
     <section className="bg-white py-10 sm:py-16 px-4">
-      {/* Heading */}
+
       <h2 className="text-center text-3xl md:text-4xl lg:text-5xl font-black text-gray-900 leading-snug tracking-tight">
         From{" "}
         <span className="text-red-600">Struggle</span> to{" "}
@@ -86,10 +84,8 @@ export default function StruggleSuccessSection() {
         personal guidance, and powerful career support.
       </p>
 
-      {/* Two-column design */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12 max-w-7xl mx-auto">
 
-        {/* LEFT: STRUGGLES */}
         <div className="bg-white border border-gray-200 rounded-2xl shadow-sm p-4 sm:p-8">
           <h3 className="flex items-center gap-2 text-2xl font-bold text-red-600 mb-6">
             Student Struggles
@@ -99,9 +95,8 @@ export default function StruggleSuccessSection() {
             {struggles.map((text, index) => (
               <div
                 key={index}
-                className={`flex items-start gap-3 text-gray-700 text-sm md:text-base transition-all duration-500 ${
-                  index < visibleIndex ? "opacity-100 translate-x-0" : "opacity-0 translate-x-3"
-                }`}
+                className={`flex items-start gap-3 text-gray-700 text-sm md:text-base transition-all duration-500 ${index < visibleIndex ? "opacity-100 translate-x-0" : "opacity-0 translate-x-3"
+                  }`}
               >
                 <CrossIcon />
                 <p>{text}</p>
@@ -110,7 +105,6 @@ export default function StruggleSuccessSection() {
           </div>
         </div>
 
-        {/* RIGHT: SUCCESS */}
         <div className="bg-white border border-gray-200 rounded-2xl shadow-sm p-4 sm:p-8">
           <h3 className="flex items-center gap-2 text-2xl font-bold text-green-600 mb-6">
             Success at UNIQ
@@ -120,9 +114,8 @@ export default function StruggleSuccessSection() {
             {success.map((text, index) => (
               <div
                 key={index}
-                className={`flex items-start gap-3 text-gray-800 text-sm md:text-base transition-all duration-500 ${
-                  index < visibleIndex ? "opacity-100 translate-x-0" : "opacity-0 translate-x-3"
-                }`}
+                className={`flex items-start gap-3 text-gray-800 text-sm md:text-base transition-all duration-500 ${index < visibleIndex ? "opacity-100 translate-x-0" : "opacity-0 translate-x-3"
+                  }`}
               >
                 <CheckIcon />
                 <p>{text}</p>

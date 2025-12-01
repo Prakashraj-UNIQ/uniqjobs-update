@@ -14,9 +14,9 @@ function TimeAgo({ date }: TimeAgoProps) {
                 : new Date(date);
 
         const now = new Date();
-        const diff = Math.floor((now.getTime() - past.getTime()) / 1000); // difference in seconds
+        const diff = Math.floor((now.getTime() - past.getTime()) / 1000);
 
-        if (isNaN(past.getTime())) return ""; // invalid date safety
+        if (isNaN(past.getTime())) return "";
 
         if (diff < 0) return "just now";
         if (diff < 60) return `${diff} seconds ago`;

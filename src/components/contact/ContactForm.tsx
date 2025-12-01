@@ -50,7 +50,7 @@ const ContactForm = () => {
                     "Content-Type": "application/json",
                 },
                 body: JSON.stringify(payload),
-                
+
             });
 
             if (!res.ok) {
@@ -328,7 +328,6 @@ const ContactForm = () => {
                         )}
                     </div>
 
-                    {/* Hidden date field */}
                     <input
                         type="hidden"
 
@@ -338,7 +337,6 @@ const ContactForm = () => {
                 </div>
             </div>
 
-            {/* Status message */}
             {serverMessage && (
                 <div className="pl-8 pb-4">
                     <p

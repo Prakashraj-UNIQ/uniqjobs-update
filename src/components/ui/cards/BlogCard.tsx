@@ -28,7 +28,6 @@ function BlogCard({ title, duration, img, slug }: BlogCardProps) {
                         alt={title || "Blog image"}
                         unoptimized
                     />
-                    {/* quality={100} */}
                     <div className="transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-0" />
                 </div>
                 <div className="px-3 md:px-6 py-4 mb-auto">

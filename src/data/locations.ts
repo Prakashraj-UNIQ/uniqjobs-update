@@ -12,14 +12,12 @@ const allCourses = [
   },
   {
     title: "Dotnet Fullstack Development",
-    subtitle:
-      "Strong demand in banking, healthcare, and ERP sectors",
+    subtitle: "Strong demand in banking, healthcare, and ERP sectors",
     icon: "/svg/courses/dotnet.svg",
   },
   {
     title: "Data Engineering",
-    subtitle:
-      "Moderate job openings across MNCs and product teams",
+    subtitle: "Moderate job openings across MNCs and product teams",
     icon: "/svg/courses/dataEngineering.svg",
   },
   {
@@ -72,8 +70,7 @@ const allCourses = [
   },
   {
     title: "Digital Marketing",
-    subtitle:
-      "Master SEO, SEM, social media marketing, and online campaigns",
+    subtitle: "Master SEO, SEM, social media marketing, and online campaigns",
     icon: "/svg/courses/marketing.svg",
   },
   {
@@ -84,8 +81,7 @@ const allCourses = [
   },
   {
     title: "SQL & UNIX",
-    subtitle:
-      "Master database management, queries, and UNIX shell scripting",
+    subtitle: "Master database management, queries, and UNIX shell scripting",
     icon: "/svg/courses/sqlunix.svg",
   },
 ];

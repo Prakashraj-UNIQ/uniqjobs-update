@@ -12,7 +12,7 @@ const keyWords = ["students review, Non-IT, Freshers, IT career, placements, car
 export const metadata: Metadata = {
   title: seoTitle,
   description: seoDescription,
-  keywords:keyWords,
+  keywords: keyWords,
   alternates: { canonical: seoUrl },
   openGraph: { title: seoTitle, description: seoDescription, url: seoUrl, images: [{ url: seoImg }] },
   twitter: { card: "summary_large_image", title: seoTitle, description: seoDescription, images: [seoImg] },

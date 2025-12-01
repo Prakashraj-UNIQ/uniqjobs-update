@@ -18,10 +18,8 @@ export default function LocationCourses({ data, city }: location) {
         <section className="w-full py-6 sm:py-16 bg-red-50">
             <div className="container mx-auto px-4 text-center">
 
-                {/* Section Title */}
                 <h2 className="text-4xl font-bold mb-12">{`Currently Available Courses in ${city}`}</h2>
 
-                {/* Course Grid */}
                 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 px-2 sm:px-10 xl:px-15">
                     {data?.map((course, index) => (
                         <div
@@ -38,7 +36,7 @@ export default function LocationCourses({ data, city }: location) {
                     ))}
                 </div>
 
-                {/* View All Button */}
+
                 <div className="mt-6 flex justify-center">
                     <Button href="/courses">View All Courses</Button>
                 </div>

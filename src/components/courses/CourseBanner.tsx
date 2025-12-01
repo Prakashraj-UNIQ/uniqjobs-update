@@ -43,7 +43,7 @@ export default function CourseBanner({
 
     return (
         <section id="hero" className="relative w-full overflow-hidden pt-10 md:pt-0">
-            {/* Background */}
+
             <div className="absolute inset-0 -z-10">
                 {bgImageUrl ? (
                     <Image
@@ -56,11 +56,10 @@ export default function CourseBanner({
                 ) : (
                     <div className="h-full w-full bg-gradient-to-br from-indigo-700 via-purple-700 to-fuchsia-600" />
                 )}
-                {/* Soft overlay for readability */}
+
                 <div className="absolute inset-0 bg-black/80" />
             </div>
 
-            {/* Content */}
             <div className="mx-auto flex min-h-[58svh] max-w-7xl flex-col items-center justify-center px-4 py-16 text-center text-white sm:px-6 lg:px-8">
 
 
@@ -73,7 +72,6 @@ export default function CourseBanner({
                     </p>
                 )}
 
-                {/* CTAs */}
                 <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
                     <Link
                         href={applyHref || "/contactus"}
@@ -110,7 +108,6 @@ export default function CourseBanner({
 
                 </div>
 
-                {/* Micro trust row */}
                 <div className="mt-6 flex flex-wrap items-center justify-center gap-4 text-xs text-white/80">
                     <div className="inline-flex items-center gap-1 rounded-full bg-black/20 px-3 py-1">
                         <Star /> <Star /> <Star /> <Star /> <StarHalf />
@@ -127,7 +124,6 @@ export default function CourseBanner({
                 </div>
             </div>
 
-            {/* Modal */}
             {open && (
                 <div
                     role="dialog"
@@ -136,10 +132,8 @@ export default function CourseBanner({
                     className="fixed inset-0 z-50 flex items-center justify-center p-4"
                     onClick={() => setOpen(false)}
                 >
-                    {/* Backdrop */}
                     <div className="absolute inset-0 bg-black/70 backdrop-blur-sm" />
 
-                    {/* Dialog */}
                     <div
                         ref={modalRef}
                         className="relative z-10 w-full max-w-5xl overflow-hidden rounded-lg bg-black shadow-2xl"
@@ -154,7 +148,6 @@ export default function CourseBanner({
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="h-5 w-5"><path d="M6.4 4.98 4.98 6.4 10.59 12l-5.6 5.6L6.4 19.02 12 13.41l5.6 5.6 1.42-1.42L13.41 12l5.6-5.6L17.6 4.98 12 10.59z" /></svg>
                         </button>
 
-                        {/* 16:9 responsive frame */}
                         <div className="relative w-full" style={{ paddingBottom: "56.25%" }}>
                             <iframe
                                 className="absolute left-0 top-0 h-full w-full"

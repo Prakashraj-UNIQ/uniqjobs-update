@@ -23,7 +23,6 @@ const CourseSection = () => {
                 What You’ll <span>Learn with Us?</span>
             </h2>
 
-            {/* Tabs */}
             <div className="flex justify-start items-center mb-6 border-b border-gray-300">
                 <div className="flex space-x-10">
                     {(["popular", "trending", "new"] as Tab[]).map((tab) => (
@@ -31,8 +30,8 @@ const CourseSection = () => {
                             key={tab}
                             onClick={() => setActiveTab(tab)}
                             className={`pb-2 text-lg text-black transition-all ${activeTab === tab
-                                    ? "border-b-4 border-red-600 font-medium text-brandRed"
-                                    : "border-b-4 border-transparent  hover:text-brandRed"
+                                ? "border-b-4 border-red-600 font-medium text-brandRed"
+                                : "border-b-4 border-transparent  hover:text-brandRed"
                                 }`}
                         >
                             {tab.charAt(0).toUpperCase() + tab.slice(1)}
@@ -41,7 +40,6 @@ const CourseSection = () => {
                 </div>
             </div>
 
-            {/* Courses Grid */}
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
                 {filteredCourses.map((course) => (
                     <CourseCard
@@ -55,7 +53,6 @@ const CourseSection = () => {
                 ))}
             </div>
 
-            {/* View All Right End */}
             <div className="flex justify-end mt-6 items-center space-x-2">
                 <Link href="/courses">
                     <span className="text-red-600 text-lg font-semibold hover:underline cursor-pointer flex items-center">

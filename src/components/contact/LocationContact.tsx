@@ -12,7 +12,6 @@ export default function LocationContact({ location, href, city, course }: locati
     <section className="w-full bg-[#f2f2f2] py-12">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 px-4 sm:px-10 md:px-25">
 
-        {/* Left Side - Iframe */}
         <div className="w-full h-64 sm:h-80 md:h-full">
           <iframe
             src={href}
@@ -21,11 +20,9 @@ export default function LocationContact({ location, href, city, course }: locati
           ></iframe>
         </div>
 
-
-        {/* Right Side - Contact Info */}
         <div className="flex flex-col justify-center space-y-6">
           <h2 className="text-xl sm:text-3xl font-medium">{`Ready to enquire about the ${course} course in ${city}? Contact us today.`}</h2>
-          {/* Address */}
+
           <div className="flex items-start space-x-4">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -52,7 +49,6 @@ export default function LocationContact({ location, href, city, course }: locati
             </div>
           </div>
 
-          {/* Phone */}
           <div className="flex items-start space-x-4">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -74,7 +70,6 @@ export default function LocationContact({ location, href, city, course }: locati
             </div>
           </div>
 
-          {/* Office Hours */}
           <div className="flex items-start space-x-4">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -96,7 +91,6 @@ export default function LocationContact({ location, href, city, course }: locati
             </div>
           </div>
 
-          {/* Email */}
           <div className="flex items-start space-x-4">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -118,7 +112,6 @@ export default function LocationContact({ location, href, city, course }: locati
             </div>
           </div>
 
-          {/* button */}
           <div className="flex items-start space-x-4">
             <Button href="/contact-us">
               Talk To Us

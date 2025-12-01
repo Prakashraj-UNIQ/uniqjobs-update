@@ -11,7 +11,6 @@ export default function GlobalContactTrigger() {
 
     const io = new IntersectionObserver(
       (entries) => {
-        // when hero is NOT visible (intersectionRatio === 0), show form
         const entry = entries[0];
         setVisible(entry.intersectionRatio === 0);
       },
@@ -22,7 +21,6 @@ export default function GlobalContactTrigger() {
     return () => io.disconnect();
   }, []);
 
-  // small UI: slide-in card bottom-right or center below hero
   return (
     <>
       {visible && (

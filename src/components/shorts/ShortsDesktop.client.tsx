@@ -75,7 +75,7 @@ export default function ShortsDesktop({
 
     return (
         <div className="relative mx-auto max-w-screen-2xl grid lg:grid-cols-8 gap-8 w-full px-6">
-            {/* Sticky Left Player */}
+            
             <aside className="sticky top-10 self-start hidden lg:flex col-span-2 pb-20">
                 <div className="h-[90vh] w-full rounded-2xl overflow-hidden glass-card border border-white/10">
                     <YouTubeEmbed id={active.id} title={active.title} />
@@ -86,7 +86,6 @@ export default function ShortsDesktop({
                 </div>
             </aside>
 
-            {/* Right: Centered Grid */}
             <div className="relative col-span-6">
                 <div className="mx-auto max-w-[1200px] grid gap-6 [grid-template-columns:repeat(auto-fit,minmax(220px,1fr))] justify-items-center">
                     {items.map((it) => (

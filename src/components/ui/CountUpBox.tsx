@@ -1,4 +1,3 @@
-// app/components/CountUpBox.tsx
 'use client';
 
 import { useState, useEffect } from 'react';
@@ -14,7 +13,7 @@ const CountUpBox: React.FC<CountUpBoxProps> = ({ value, label, textalign }) => {
 
   useEffect(() => {
     let start = 0;
-    const duration = 2000; // 2 seconds
+    const duration = 2000; 
     const increment = Math.ceil(value / (duration / 30));
 
     const interval = setInterval(() => {

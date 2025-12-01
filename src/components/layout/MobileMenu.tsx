@@ -76,7 +76,6 @@ export default function MobileMenu({
               return (
                 <div key={course} className="border-b border-white/10 pb-1">
                   <div className="flex justify-between items-center">
-                    {/* TAPPING COURSE GOES TO /courses/course */}
                     <Link
                       href={`/courses/${course}`}
                       onClick={handleLinkClick}
@@ -85,7 +84,6 @@ export default function MobileMenu({
                       {formatLabel(course)}
                     </Link>
 
-                    {/* OPEN LOCATIONS */}
                     <button
                       onClick={() =>
                         setExpandedCourse(isOpen ? null : course)
@@ -96,7 +94,6 @@ export default function MobileMenu({
                     </button>
                   </div>
 
-                  {/* LOCATIONS DROPDOWN */}
                   {isOpen && (
                     <div className="pl-4 mt-1 space-y-1">
                       {COURSE_LOCATIONS[course].map((location) => (

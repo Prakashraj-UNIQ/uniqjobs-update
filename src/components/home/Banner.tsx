@@ -5,9 +5,9 @@ import Link from 'next/link';
 
 export default function Banner() {
     return (
-        <div  id="hero"  >
+        <div id="hero"  >
             <main className="px-2 sm:px-0 pt-20 sm:pt-0 h-[calc(100vh-45px)] sm:h-[calc(100vh-212px)] overflow-hidden relative">
-                {/* Background image */}
+
                 <div className="absolute inset-0 -z-9">
                     <Image
                         src="/images/cta-cover.webp"
@@ -19,10 +19,8 @@ export default function Banner() {
                     />
                 </div>
 
-                {/* Gradient overlay */}
                 <div className="absolute inset-0 -z-9 bg-gradient-to-r from-black via-black/10 to-transparent opacity-90" />
 
-                {/* Content */}
                 <section className="h-full flex flex-col justify-center items-start px-2 sm:px-10 lg:px-24 text-white text-3xl">
                     <h1 className="relative z-10 font-primary tracking-wide sm:text-lg text-base m-0 mb-4">
                         Best Software Training with Placement Institute in Chennai.

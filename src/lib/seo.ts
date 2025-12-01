@@ -21,19 +21,34 @@ export function buildCourseMetadata(course: {
     title,
     description,
     alternates: { canonical: url },
-    openGraph: { title, description, url, siteName: SITE.name, images: [{ url: ogImage }] },
-    twitter: { card: "summary_large_image", title, description, images: [ogImage] },
+    openGraph: {
+      title,
+      description,
+      url,
+      siteName: SITE.name,
+      images: [{ url: ogImage }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: [ogImage],
+    },
   };
 }
 
-export function courseJsonLd(course: { slug: string; title: string; description?: string }) {
+export function courseJsonLd(course: {
+  slug: string;
+  title: string;
+  description?: string;
+}) {
   return {
     "@context": "https://schema.org",
     "@type": "Course",
-    "name": course.title,
-    "description": course.description ?? "",
-    "url": `${SITE.baseUrl}/courses/${course.slug}`,
-    "provider": { "@type": "Organization", "name": SITE.name, "url": SITE.baseUrl }
+    name: course.title,
+    description: course.description ?? "",
+    url: `${SITE.baseUrl}/courses/${course.slug}`,
+    provider: { "@type": "Organization", name: SITE.name, url: SITE.baseUrl },
   };
 }
 
@@ -41,11 +56,11 @@ export function courseListJsonLd(cards: { slug: string; title: string }[]) {
   return {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    "itemListElement": cards.map((c, i) => ({
+    itemListElement: cards.map((c, i) => ({
       "@type": "ListItem",
-      "position": i + 1,
-      "url": `${SITE.baseUrl}/courses/${c.slug}`,
-      "name": c.title
+      position: i + 1,
+      url: `${SITE.baseUrl}/courses/${c.slug}`,
+      name: c.title,
     })),
   };
 }

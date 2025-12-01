@@ -1,7 +1,6 @@
 "use server";
 import { z } from "zod";
 
-// zod schemas for the incoming JSON
 const IncomingShortZ = z.object({
   name: z.string(),
   company: z.string(),
@@ -12,7 +11,6 @@ const IncomingShortZ = z.object({
 });
 const IncomingRootZ = z.object({ placedCandidates: z.array(IncomingShortZ) });
 
-// local type you render with
 export type ShortItem = {
   id: string;
   title?: string;
@@ -23,7 +21,6 @@ export type ShortItem = {
   thumb: string;
 };
 
-// helper for typed JSON dynamic import
 type JsonModule<T> = { default: T };
 
 export async function getPlacedCandidates(): Promise<ShortItem[]> {
@@ -31,10 +28,9 @@ export async function getPlacedCandidates(): Promise<ShortItem[]> {
     "@/content/studentReview/placed-canditate.json"
   )) as JsonModule<unknown>;
 
-  // validate + narrow unknown → typed data
   const parsed = IncomingRootZ.parse(raw);
 
-  const base = "/images/shorts/"; // change if your images live elsewhere
+  const base = "/images/shorts/";
   return parsed.placedCandidates.map((p) => ({
     id: p.shortId,
     name: p.name,

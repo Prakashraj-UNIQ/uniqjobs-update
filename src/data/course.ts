@@ -1,6 +1,5 @@
 import { z } from "zod";
 
-// Card on index.json
 export const CourseCardZ = z.object({
   slug: z.string(),
   title: z.string(),
@@ -17,15 +16,13 @@ export const CourseIndexZ = z.object({
 });
 export type CourseIndex = z.infer<typeof CourseIndexZ>;
 
-// list
 export async function getCourseIndex() {
   const mod = await import("@/content/courses/index.json");
   return CourseIndexZ.parse(mod.default).courses;
 }
 
-// Single course detail
 export const CourseDetailZ = z.object({
-  courseTitle:z.string(),
+  courseTitle: z.string(),
   title: z.string(),
   subtitle: z.string(),
   banner: z
@@ -75,7 +72,6 @@ export const CourseDetailZ = z.object({
 });
 export type CourseDetailRaw = z.infer<typeof CourseDetailZ> & { slug: string };
 
-// One course detail by slug
 export async function getCourseDetail(slug: string) {
   try {
     const mod = await import(`@/content/courses/${slug}.json`); // ✅ fixed prefix
@@ -85,7 +81,7 @@ export async function getCourseDetail(slug: string) {
     return null;
   }
 }
-// All slugs for SSG paths
+
 export async function getAllSlugs(): Promise<string[]> {
   const list = await getCourseIndex();
   return list.map((c) => c.slug);

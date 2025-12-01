@@ -11,18 +11,16 @@ interface BlogPost {
 }
 
 export default function BlogList({ blogs, crumb }: { blogs: BlogPost[]; crumb: string }) {
-  
+
   const [visibleCount, setVisibleCount] = useState(4);
   const [searchTerm, setSearchTerm] = useState("");
 
-  // Filter blogs based on search term
   const filteredBlogs = useMemo(() => {
     if (!searchTerm.trim()) return blogs;
     const lower = searchTerm.toLowerCase();
     return blogs.filter((b) => b.title.toLowerCase().includes(lower));
   }, [blogs, searchTerm]);
 
-  // Slice for "Load More" functionality
   const visibleBlogs = filteredBlogs.slice(0, visibleCount);
 
   return (
@@ -35,13 +33,12 @@ export default function BlogList({ blogs, crumb }: { blogs: BlogPost[]; crumb: s
         ]}
       />
 
-      {/* Header */}
       <div className="flex-col lg:flex-row lg:flex  justify-between items-center pb-4">
         <h1 className="text-2xl font-medium pb-2 lg:pb-0 underline">
           IT Blogs & Technology
         </h1>
 
-        {/* Search Input */}
+
         <div className="relative w-full max-w-xs">
           <input
             type="text"
@@ -81,7 +78,6 @@ export default function BlogList({ blogs, crumb }: { blogs: BlogPost[]; crumb: s
         </div>
       </div>
 
-      {/* Blog List */}
       <div className="grid lg:grid-cols-2 gap-6 lg:gap-15">
         {visibleBlogs.map((p) => (
           <article key={p.slug}>
@@ -95,14 +91,12 @@ export default function BlogList({ blogs, crumb }: { blogs: BlogPost[]; crumb: s
         ))}
       </div>
 
-      {/* Empty State */}
       {filteredBlogs.length === 0 && (
         <p className="text-gray-600 italic mt-6 text-center">
           No blogs found matching your search.
         </p>
       )}
 
-      {/* Load More Button */}
       {visibleCount < filteredBlogs.length && (
         <button
           onClick={() => setVisibleCount((c) => c + 4)}

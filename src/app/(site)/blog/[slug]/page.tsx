@@ -86,23 +86,19 @@ export default async function BlogDetailsGrid({ params }: { params: { slug?: str
     );
     const categoryResult = await listBlogs(1, 10, `&category=${encodeURIComponent(category)}`);
 
-    // Flatten tag results into one array
     const fromTags = tagResults.flatMap((res) => res?.data ?? res?.posts ?? []);
 
-    // Take from category
     const fromCategory = categoryResult?.data ?? categoryResult?.posts ?? [];
 
-    // Merge everything
     const allCandidates = [...fromTags, ...fromCategory];
 
-    // Dedupe by slug + exclude current post
     const map = new Map<string, Partial<Blog>>();
 
     for (const item of allCandidates) {
         if (!item?.slug) continue;
         if (item.slug === currentSlug) continue;
 
-        // if already there, keep first or override (your choice)
+      
         if (!map.has(item.slug)) {
             map.set(item.slug, item as Partial<Blog>);
         }
@@ -111,8 +107,8 @@ export default async function BlogDetailsGrid({ params }: { params: { slug?: str
 
     const relatedSorted = uniqueCandidates
     const relatedClean = relatedSorted
-        .filter((p) => p.slug && p.title) // ensure not undefined
-        .slice(0, 6)                      // limit here
+        .filter((p) => p.slug && p.title) 
+        .slice(0, 6)                      
         .map((p) => ({
             slug: p.slug as string,
             title: p.title as string,
@@ -120,7 +116,7 @@ export default async function BlogDetailsGrid({ params }: { params: { slug?: str
             publishedAt: p.schedule_timer instanceof Date ? p.schedule_timer.toISOString() : (p.schedule_timer as string | undefined),
             category: p.category,
         }));
-    // final related list (max 6)
+ 
     const relatedPosts = relatedSorted.slice(0, 6);
 
     return (
