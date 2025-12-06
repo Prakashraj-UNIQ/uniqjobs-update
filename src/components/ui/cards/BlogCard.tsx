@@ -1,77 +1,85 @@
 import React from "react";
 import TimeAgo from "../../common/TimeAgo";
-import Image from "next/image";
 import Link from "next/link";
 
 interface BlogCardProps {
-    title?: string;
-    duration?: string | Date;
-    img?: string;
-    slug?: string;
+  title?: string;
+  duration?: string | Date;
+  img?: string;
+  slug?: string;
 }
 
 const IMG_BASE = "https://uniqjobs.co.in/blog_images";
 
-function BlogCard({ title, duration, img, slug }: BlogCardProps) {
+const BlogCard = ({ title, duration, img, slug }: BlogCardProps) => {
+  const src = img ? `${IMG_BASE}/${encodeURIComponent(img)}` : null;
 
-    const src = img ? `${IMG_BASE}/${encodeURIComponent(img)}` : "";
+  return (
+    <div className="flex flex-col md:flex-row rounded-xl overflow-hidden shadow-lg bg-white hover:shadow-2xl transition-shadow duration-300">
 
-    return (
-        <div className="rounded overflow-hidden shadow-lg flex flex-col">
-            <Link href={`/blog/${slug}`}>
-                <div className="relative">
-                    <Image
-                        className="w-full object-cover"
-                        height={70}
-                        width={70}
-                        src={src}
-                        alt={title || "Blog image"}
-                        unoptimized
-                    />
-                    <div className="transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-0" />
-                </div>
-                <div className="px-3 md:px-6 py-4 mb-auto">
-                    <h3 className="font-medium truncate-2-lines min-h-[3.5rem] text-lg inline-block hover:text-brandRed hover:underline mb-2">
-                        {title}
-                    </h3>
-                </div>
-            </Link>
-
-            <div className="px-3 md:px-6 py-2 flex flex-row items-center gap-3 bg-gray-100">
-                <div>
-                    <div className="w-14 h-14 bg-white border border-black rounded-full font-semibold text-lg flex items-center justify-center">
-                        U
-                    </div>
-                </div>
-                <div>
-                    <p className="text-sm font-normal text-gray-700">
-                        Published By{" "}
-                        <span className="coreGradient-text font-semibold">
-                            Uniq Official
-                        </span>
-                    </p>
-                    <span className="text-sm font-regular text-gray-700 flex flex-row items-center">
-                        <svg
-                            height="13px"
-                            width="13px"
-                            viewBox="0 0 512 512"
-                            xmlns="http://www.w3.org/2000/svg"
-                        >
-                            <path
-                                d="M256,0C114.837,0,0,114.837,0,256s114.837,256,256,256s256-114.837,256-256S397.163,0,256,0z M277.333,256 
-                c0,11.797-9.536,21.333-21.333,21.333h-85.333c-11.797,0-21.333-9.536-21.333-21.333s9.536-21.333,21.333-21.333h64v-128 
-                c0-11.797,9.536-21.333,21.333-21.333s21.333,9.536,21.333,21.333V256z"
-                                fill="currentColor"
-                            />
-                        </svg>
-                        <span className="ml-1">
-                            <TimeAgo date={duration} />
-                        </span>
-                    </span>
-                </div>
+      {/* Left Side Image */}
+      <Link href={`/blog/${slug}`} className="w-full md:w-2/5 h-48 md:h-auto">
+        <div className="relative  flex-shrink-0">
+          {src ? (
+            <img
+              src={src}
+              alt={title || "Blog image"}
+              className="w-full h-full object-cover object-center"
+            />
+          ) : (
+            <div className="w-full h-full flex items-center justify-center bg-gradient-to-r from-purple-400 via-pink-400 to-red-400">
+              <span className="text-white font-bold text-lg text-center px-2">
+                No Image
+              </span>
             </div>
+          )}
         </div>
-    );
+      </Link>
+
+      {/* Right Side Content */}
+      <div className="p-4 flex flex-col justify-between w-full md:w-3/5">
+        <Link href={`/blog/${slug}`}>
+          <h3 className="font-semibold text-gray-800 text-base md:text-lg mb-2 line-clamp-2 hover:text-brandRed hover:underline transition-colors">
+            {title || "Untitled Blog"}
+          </h3>
+
+        </Link>
+
+        <div className="flex flex-col md:flex-row items-start md:items-center justify-between mt-auto gap-2">
+          {/* Author & Time */}
+          <div className="flex items-center gap-2">
+            <div className="w-10 h-10 bg-white border border-gray-300 rounded-full font-semibold text-base flex items-center justify-center shadow-sm">
+              U
+            </div>
+            <div className="flex flex-col">
+              <p className="text-xs text-gray-600">
+                Published By{" "}
+                <span className="coreGradient-text font-semibold">Uniq Official</span>
+              </p>
+              <p className="text-xs text-gray-500 flex items-center  mt-1 md:mt-0">
+                <svg
+                  height="10px"
+                  width="10px"
+                  viewBox="0 0 512 512"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="mr-1"
+                >
+                  <path
+                    d="M256,0C114.837,0,0,114.837,0,256s114.837,256,256,256s256-114.837,256-256S397.163,0,256,0z M277.333,256 
+                      c0,11.797-9.536,21.333-21.333,21.333h-85.333c-11.797,0-21.333-9.536-21.333-21.333s9.536-21.333,21.333-21.333h64v-128 
+                      c0-11.797,9.536-21.333,21.333-21.333s21.333,9.536,21.333,21.333V256z"
+                    fill="currentColor"
+                  />
+                </svg>
+                <TimeAgo date={duration} />
+              </p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  );
 };
 
 export default BlogCard;

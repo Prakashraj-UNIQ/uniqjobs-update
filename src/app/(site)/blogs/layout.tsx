@@ -1,11 +1,11 @@
-import BlogAside from "@/components/blog/BlogAside";
+import BlogAsideWrapper from "@/components/blog/BlogAsideWrapper";
 
 export default function Layout({ children }: { children: React.ReactNode }) {
     return (
-        <div className="min-h-screen grid grid-cols-1 md:grid-cols-14 mt-20 md:mt-0">
-            {children}
-            <aside className="col-span-4 bg-[#f2f2f2] md:h-screen sticky top-0 overflow-y-auto">
-                <BlogAside />
+        <div className="min-h-screen  mt-20 md:mt-0">
+            <aside className=" overflow-y-auto bg-white z-1000 px-25">
+                <BlogAsideWrapper />
             </aside>
+            {children}
         </div>);
 }

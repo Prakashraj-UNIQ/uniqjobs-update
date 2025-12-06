@@ -221,3 +221,14 @@ html {
             transparent,
             rgba(255, 255, 255, 0.3));
 }
+
+.sidebar-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+.sidebar-scroll::-webkit-scrollbar-thumb {
+  background: #c2c2c2;
+  border-radius: 10px;
+}
+.sidebar-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
