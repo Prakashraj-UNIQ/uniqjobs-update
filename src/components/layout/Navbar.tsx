@@ -98,10 +98,12 @@ export default function Navbar() {
         <li>
           <Link
             href="/"
-            className={pathname === "/" ? "text-white font-semibold" : ""}
+            className={`${underlineTextClass} ${pathname === "/" ? "after:scale-x-100 text-white font-semibold" : ""
+              }`}
           >
             Home
           </Link>
+
         </li>
 
         <li className="relative z-50 py-2" ref={menuRef}>
@@ -113,7 +115,9 @@ export default function Navbar() {
             className={`flex items-center gap-2 leading-none ${isCourses ? "text-white font-semibold" : ""
               }`}
           >
-            <span className={underlineTextClass}>Courses</span>
+            <span className={`${underlineTextClass} ${isCourses ? "after:scale-x-100" : ""}`}>
+              Courses
+            </span>
             <svg
               className={`h-4 w-4 transition-transform ${open ? "rotate-180" : ""
                 }`}
@@ -141,12 +145,12 @@ export default function Navbar() {
                       >
                         <Link
                           href={`/courses/${key}`}
-                          className={`${underlineTextClass} hover:text-primary-400 focus:text-primary-400 transition-colors`}
+                          className={`${underlineTextClass} ${pathname.startsWith(`/courses/${key}`) ? "after:scale-x-100 text-primary-400" : ""
+                            }`}
                         >
-                          {key
-                            .replace(/-/g, " ")
-                            .replace(/\b\w/g, (m) => m.toUpperCase())}
+                          {key.replace(/-/g, " ").replace(/\b\w/g, (m) => m.toUpperCase())}
                         </Link>
+
                         <span className="text-gray-500 group-hover:text-primary-400">
                           ›
                         </span>
@@ -194,20 +198,32 @@ export default function Navbar() {
         <li>
           <Link
             href="/placements/students-review"
-            className={underlineTextClass}
+            className={`${underlineTextClass} ${pathname === "/placements/students-review" ? "after:scale-x-100 text-white" : ""
+              }`}
           >
             Students Review
           </Link>
+
         </li>
         <li>
-          <Link href="/blogs" className={underlineTextClass}>
+          <Link
+            href="/blogs"
+            className={`${underlineTextClass} ${pathname.startsWith("/blogs") ? "after:scale-x-100 text-white" : ""
+              }`}
+          >
             Blogs
           </Link>
+
         </li>
         <li>
-          <Link href="/contact-us" className={underlineTextClass}>
+          <Link
+            href="/contact-us"
+            className={`${underlineTextClass} ${pathname === "/contact-us" ? "after:scale-x-100 text-white" : ""
+              }`}
+          >
             Contact Us
           </Link>
+
         </li>
       </ul>
     </nav>
