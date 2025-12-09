@@ -1,0 +1,155 @@
+{
+  "slug": "production-support",
+  "courseTitle" :"Prodution Support",
+  "title": "Master Production Support with UNIQ Technologies",
+  "subtitle": "Become a job-ready Production Support Engineer with UNIQ Technologies. Learn real-time support operations, monitoring tools, incident management, SQL, UNIX, ticketing systems, log analysis, and automation skills used in top IT companies. Designed for freshers and IT job seekers aiming for stable, high-demand support roles.",
+  "banner": {
+    "bgImageUrl": "/images/clsBala.webp",
+    "youtubeId": "xZjnLNcNLzU",
+    "applyHref": "/contactus"
+  },
+  "afterCompleted": {
+    "title": "Job Opportunities after Production Support Course",
+    "description": "Production Support roles are among the most in-demand and easiest entry points for IT jobs. After completing our training, you can apply for roles such as:",
+    "position": [
+      "Application Support Engineer",
+      "Production Support Engineer",
+      "Technical Support Engineer (L1/L2)",
+      "Monitoring Engineer",
+      "SQL & UNIX Support Analyst",
+      "Site Reliability Support (Entry Level)",
+      "IT Operations Specialist"
+    ],
+    "companies": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Cognizant",
+      "HCL",
+      "Capgemini",
+      "Mindtree"
+    ]
+  },
+  "whychoose": [
+    {
+      "title": "Real-Time Support Scenario Training",
+      "description": "Learn actual production issues, RCA, logs, alerts, downtime management, and on-call responsibilities.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "SQL + UNIX Included",
+      "description": "Master essential SQL queries and UNIX commands used daily by support engineers.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Ticketing Tools Training",
+      "description": "Hands-on with ServiceNow/JIRA ticketing—incident, request, change, and problem management.",
+      "icon": "mock.svg"
+    },
+    {
+      "title": "Monitoring Tools",
+      "description": "Learn real-time monitoring tools such as Grafana, Kibana, CloudWatch basics, and alert handling.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "100% Placement Support",
+      "description": "Dedicated placement team, mock interviews, technical revision, and daily job openings until you get placed.",
+      "icon": "placement.svg"
+    },
+    {
+      "title": "Beginner-Friendly",
+      "description": "No coding or technical background needed—ideal for freshers and career switchers.",
+      "icon": "batch.svg"
+    },
+    {
+      "title": "Industry Expert Trainers",
+      "description": "Learn from real Production Support engineers working in top MNCs.",
+      "icon": "export.svg"
+    },
+    {
+      "title": "Internship Certification",
+      "description": "Receive a recognized Internship Certificate from UNIQ Technologies.",
+      "icon": "Certificate.svg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What does a Production Support Engineer do?",
+      "answer": "A Production Support Engineer manages applications in live environments, handles incidents, monitors systems, resolves issues, analyses logs, runs SQL queries, checks UNIX systems, and ensures smooth application performance."
+    },
+    {
+      "question": "Do I need coding knowledge?",
+      "answer": "No. Production Support mainly involves troubleshooting, SQL queries, UNIX commands, ticketing tools, and monitoring—not coding."
+    },
+    {
+      "question": "Is Production Support a good career for freshers?",
+      "answer": "Yes! It is one of the easiest entry points into the IT industry, with strong job demand across MNCs."
+    },
+    {
+      "question": "Do you teach tools like ServiceNow?",
+      "answer": "Yes. You will learn incident, request, change, and problem management using ServiceNow/JIRA."
+    },
+    {
+      "question": "What technologies do I learn?",
+      "answer": "You will learn SQL, UNIX, shell scripting basics, monitoring tools, log analysis, ITIL concepts, and cloud basics for support."
+    },
+    {
+      "question": "Do you provide placement support?",
+      "answer": "Yes, we provide 100% placement support until you get placed, including mock interviews and resume building."
+    },
+    {
+      "question": "Can I shift from online to offline?",
+      "answer": "Yes. You can switch anytime without additional charges."
+    },
+    {
+      "question": "Will I get certification?",
+      "answer": "Yes. You receive a Course Completion & Internship Certificate valid for IT job applications."
+    }
+  ],
+  "seo": {
+    "title": "Best Production Support Training institute in Chennai | Uniq Jobs",
+    "description": "Hands-on Production Support training with ticketing tools, SQL, UNIX, monitoring tools, and placement support.",
+    "keywords": [
+      "Production Support",
+      "Application Support",
+      "IT Support Course",
+      "SQL UNIX Support",
+      "ServiceNow Training"
+    ]
+  },
+  "locationsSEO": {
+    "chennai": {
+      "title": "Production Support Training with Placement in Chennai | Uniq Jobs",
+      "description": "Learn real-time application monitoring, incident management and L1/L2 support with job assistance in Chennai."
+    },
+    "madurai": {
+      "title": "Production Support Training in Madurai | Uniq Jobs",
+      "description": "Hands-on production support course with ticketing tools, troubleshooting and placement guidance in Madurai."
+    },
+    "trichy": {
+      "title": "Production Support Course in Trichy | Uniq Jobs",
+      "description": "Master L1/L2 support operations, monitoring tools and issue resolution with practical training in Trichy."
+    },
+    "coimbatore": {
+      "title": "Best Production Support Training with Placement in Coimbatore | Uniq Jobs",
+      "description": "Learn production support fundamentals, system analysis and incident handling with job support in Coimbatore."
+    },
+    "salem": {
+      "title": "Production Support Course in Salem | Uniq Jobs",
+      "description": "Job-oriented training in production monitoring, ticketing tools and support workflows in Salem."
+    },
+    "tirunelveli": {
+      "title": "Production Support Training in Thirunelveli | Uniq Jobs",
+      "description": "Practical production support training focused on alerts, incidents and job-ready skills in Thirunelveli."
+    },
+    "Puducherry": {
+      "title": "Production Support Course in Puducherry | Uniq Jobs",
+      "description": "Learn production support operations with hands-on monitoring and ticketing tool training in Puducherry."
+    },
+    "bangalore": {
+      "title": "Production Support Training with Placement in Bangalore | Uniq Jobs",
+      "description": "Industry-focused production support course with real-time tools and job assistance in Bangalore."
+    }
+  }
+}

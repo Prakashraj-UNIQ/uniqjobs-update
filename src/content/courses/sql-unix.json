@@ -1,0 +1,154 @@
+{
+  "slug": "sql-unix",
+  "courseTitle" :"SQL & UNIX",
+  "title": "Master SQL & UNIX with UNIQ Technologies",
+  "subtitle": "Become a job-ready SQL & UNIX professional with UNIQ Technologies. Learn database fundamentals, SQL queries, joins, stored procedures, shell scripting, UNIX commands, and real-time system operations. Ideal for freshers, testers, support engineers, and anyone entering IT roles.",
+  "banner": {
+    "bgImageUrl": "/images/clsBala.webp",
+    "youtubeId": "m_J0n0lyWL0",
+    "applyHref": "/contactus"
+  },
+  "afterCompleted": {
+    "title": "Job Opportunities after SQL & UNIX Course",
+    "description": "SQL and UNIX skills are mandatory for IT roles across development, testing, support, and data teams. After completing our training, you can apply for roles such as:",
+    "position": [
+      "SQL Developer (Junior)",
+      "Database Support Engineer",
+      "Production Support Engineer",
+      "UNIX/Linux Support Executive",
+      "Application Support Analyst",
+      "Technical Support Engineer"
+    ],
+    "companies": [
+      "TCS",
+      "Infosys",
+      "Accenture",
+      "Cognizant",
+      "Wipro",
+      "HCL",
+      "Capgemini",
+      "Oracle"
+    ]
+  },
+  "whychoose": [
+    {
+      "title": "Industry-Oriented SQL Training",
+      "description": "Learn SQL queries, joins, indexes, stored procedures, and performance tuning exactly as used in real projects.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Hands-On UNIX & Shell Scripting",
+      "description": "Master essential UNIX commands, file permissions, process management, and scripting for automation.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "Placement Support for IT Support Roles",
+      "description": "Daily job openings, mock interviews, and resume preparation until you get placed.",
+      "icon": "placement.svg"
+    },
+    {
+      "title": "Real-Time Scenario Coverage",
+      "description": "Includes log monitoring, server commands, cron jobs, SQL troubleshooting, and daily tasks of support engineers.",
+      "icon": "Practice.svg"
+    },
+    {
+      "title": "Expert Trainers from Leading MNCs",
+      "description": "Learn directly from SQL DBAs and UNIX System Administrators with 8+ years of experience.",
+      "icon": "export.svg"
+    },
+    {
+      "title": "Beginner-Friendly Training",
+      "description": "No prior coding or OS knowledge required. Perfect for IT freshers and career switchers.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Flexible Timing Options",
+      "description": "Choose from weekday or weekend batches based on your schedule.",
+      "icon": "batch.svg"
+    },
+    {
+      "title": "Recognized Internship Certificate",
+      "description": "Receive a certificate recognized by MNCs and top IT recruiters.",
+      "icon": "Certificate.svg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is covered in the SQL & UNIX Course?",
+      "answer": "The course covers SQL basics to advanced topics (queries, joins, indexes, stored procedures) along with UNIX commands, shell scripting, file handling, cron jobs, and real-time support tasks."
+    },
+    {
+      "question": "Is it required to have programming knowledge?",
+      "answer": "No. SQL & UNIX can be learned without prior programming experience. The course is beginner-friendly."
+    },
+    {
+      "question": "Do you provide real-time practicals?",
+      "answer": "Yes. You will practice SQL queries in real DB environments and execute UNIX commands on a live Linux terminal."
+    },
+    {
+      "question": "What job roles can I apply for after this course?",
+      "answer": "You can apply for SQL Developer, Support Engineer, Production Support, Linux/UNIX Associate, and Application Support roles."
+    },
+    {
+      "question": "Do you cover shell scripting?",
+      "answer": "Yes. Shell scripting, automation basics, variables, loops, and real-time scripts are included."
+    },
+    {
+      "question": "Will I get placement support?",
+      "answer": "Yes. You get 100% placement support until you get placed, with resume prep and mock interviews."
+    },
+    {
+      "question": "Can I shift from online to offline?",
+      "answer": "Yes. You can switch learning mode anytime with no extra charges."
+    },
+    {
+      "question": "Will I receive certification?",
+      "answer": "Yes. You’ll get a Course Completion & Internship Certificate recognized by IT recruiters."
+    }
+  ],
+  "seo": {
+    "title": "SQL & UNIX Training in Chennai | Uniq Jobs",
+    "description": "Hands-on SQL queries, UNIX commands, shell scripting with 100% placement support.",
+    "keywords": [
+      "SQL Training",
+      "UNIX Course",
+      "SQL Developer",
+      "Linux Fundamentals",
+      "Shell Scripting"
+    ]
+  },
+  "locationsSEO": {
+    "chennai": {
+      "title": "SQL & Unix Training with Placement in Chennai | Uniq Jobs",
+      "description": "Master SQL queries, Unix commands, shell scripting and database operations with job-focused training in Chennai."
+    },
+    "madurai": {
+      "title": "SQL & Unix Course in Madurai | Uniq Jobs",
+      "description": "Affordable SQL and Unix training with mentor-led sessions and placement guidance in Madurai."
+    },
+    "trichy": {
+      "title": "SQL & Unix Training in Trichy | Uniq Jobs",
+      "description": "Learn SQL fundamentals, Unix commands and real-time database operations with hands-on practice in Trichy."
+    },
+    "coimbatore": {
+      "title": "Best SQL & Unix Training With Placement in Coimbatore | Uniq Jobs",
+      "description": "Practical SQL and Unix training with real-time tasks and strong job assistance in Coimbatore."
+    },
+    "salem": {
+      "title": "SQL & Unix Course in Salem | Uniq Jobs",
+      "description": "Job-oriented SQL and Unix developer training with hands-on labs and career support in Salem."
+    },
+    "tirunelveli": {
+      "title": "SQL & Unix Training With Placement in Thirunelveli | Uniq Jobs",
+      "description": "Develop solid SQL and Unix skills with guided, placement-focused training in Thirunelveli."
+    },
+    "Puducherry": {
+      "title": "SQL & Unix Course in Puducherry | Uniq Jobs",
+      "description": "Hands-on SQL queries, Unix basics and shell scripting training with job guidance in Puducherry."
+    },
+    "bangalore": {
+      "title": "SQL & Unix Training With Placement in Bangalore | Uniq Jobs",
+      "description": "Industry-focused SQL & Unix program with practical tasks and career support in Bangalore."
+    }
+  }
+}

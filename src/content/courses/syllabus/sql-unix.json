@@ -1,0 +1,91 @@
+{
+  "syllabus": [
+    {
+      "id": "01",
+      "title": "Module 01",
+      "subtitle": "SQL Fundamentals",
+      "points": [
+        { "text": "Introduction to Databases" },
+        { "text": "RDBMS Concepts" },
+        { "text": "SQL Syntax and Data Types" },
+        { "text": "Basic Queries: SELECT, INSERT, UPDATE, DELETE" },
+        { "text": "Filtering Data using WHERE" },
+        { "text": "Sorting and Limiting Results" }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Module 02",
+      "subtitle": "Advanced SQL",
+      "points": [
+        { "text": "JOIN Operations: INNER, LEFT, RIGHT, FULL" },
+        { "text": "Subqueries and Nested Queries" },
+        { "text": "GROUP BY and HAVING" },
+        { "text": "Aggregate Functions: COUNT, SUM, AVG, MAX, MIN" },
+        { "text": "Views and Indexes" },
+        { "text": "Constraints: PK, FK, Unique, Check" }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Module 03",
+      "subtitle": "SQL Optimization & Transactions",
+      "points": [
+        { "text": "Transaction Control: COMMIT, ROLLBACK" },
+        { "text": "ACID Properties" },
+        { "text": "Query Optimization Basics" },
+        { "text": "Execution Plans" },
+        { "text": "Stored Procedures and Functions" },
+        { "text": "Triggers" }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Module 04",
+      "subtitle": "UNIX Fundamentals",
+      "points": [
+        { "text": "Introduction to UNIX Architecture" },
+        { "text": "Kernel, Shell, and File System Structure" },
+        { "text": "User and Permissions Management" },
+        { "text": "Environment Variables" },
+        { "text": "Basic UNIX Workflow" }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "Module 05",
+      "subtitle": "UNIX Commands",
+      "points": [
+        { "text": "File and Directory Commands: ls, cd, pwd, cp, mv, rm" },
+        { "text": "File Viewing Commands: cat, head, tail, more, less" },
+        { "text": "Searching Commands: grep, find" },
+        { "text": "Compression Commands: zip, tar, gzip" },
+        { "text": "Permissions: chmod, chown" }
+      ]
+    },
+    {
+      "id": "06",
+      "title": "Module 06",
+      "subtitle": "Shell Scripting",
+      "points": [
+        { "text": "Introduction to Shell Scripting" },
+        { "text": "Variables and Operators" },
+        { "text": "Conditional Statements" },
+        { "text": "Loops and Functions" },
+        { "text": "Automating Tasks with Scripts" }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "Module 07",
+      "subtitle": "SQL + UNIX Integration",
+      "points": [
+        { "text": "Connecting SQL from UNIX Shell" },
+        { "text": "Running SQL scripts using Shell" },
+        { "text": "Automating Database Backups" },
+        { "text": "Scheduling Tasks with Cron Jobs" },
+        { "text": "Log Monitoring and Error Handling" }
+      ]
+    }
+  ]
+}

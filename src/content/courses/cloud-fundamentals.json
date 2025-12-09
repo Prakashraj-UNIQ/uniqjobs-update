@@ -1,0 +1,149 @@
+{
+  "slug": "cloud-fundamentals",
+  "courseTitle" :"Cloud-fundamentals",
+  "title": "Master Cloud Fundamentals with UNIQ Technologies",
+  "subtitle": "Kickstart your cloud journey with UNIQ Technologies. Learn Cloud Computing essentials, AWS core services, IAM, storage, compute, networking, and real-time deployment practices. Designed for beginners, freshers, and job seekers aiming to build strong cloud skills with hands-on labs and project-based learning.",
+  "banner": {
+    "bgImageUrl": "/images/clsBala.webp",
+    "youtubeId": "m_J0n0lyWL0",
+    "applyHref": "/contactus"
+  },
+  "afterCompleted": {
+    "title": "Job Opportunities after Cloud Fundamentals Course",
+    "description": "Cloud adoption is rapidly growing, creating high demand for skilled cloud professionals across industries. After completing our Cloud Fundamentals course, you can apply for roles such as:",
+    "position": [
+      "Cloud Support Associate",
+      "AWS Cloud Engineer (Junior)",
+      "Cloud Operations Engineer",
+      "Technical Support Engineer – Cloud",
+      "DevOps / Cloud Trainee"
+    ],
+    "companies": [
+      "AWS",
+      "Accenture",
+      "Wipro",
+      "TCS",
+      "Cognizant",
+      "Infosys",
+      "Mahindra",
+      "HCL"
+    ]
+  },
+  "whychoose": [
+    {
+      "title": "Beginner-Friendly Training",
+      "description": "Designed for freshers with no prior cloud knowledge. Starts from basics with step-by-step guidance.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Hands-On AWS Labs",
+      "description": "Work with real AWS services like EC2, S3, IAM, VPC, Lambda, and more.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "Placement-Focused Curriculum",
+      "description": "Get interview questions, real-world scenarios, resume prep, and job support.",
+      "icon": "placement.svg"
+    },
+    {
+      "title": "Expert Cloud Engineers as Trainers",
+      "description": "Learn from AWS-certified professionals with 8+ years of industry experience.",
+      "icon": "export.svg"
+    },
+    {
+      "title": "Real-Time Projects",
+      "description": "Deploy applications on AWS using EC2, S3, CloudFront, Lambda, RDS, and more.",
+      "icon": "Practice.svg"
+    },
+    {
+      "title": "Flexible Batch Timings",
+      "description": "Choose weekday or weekend batches as per your schedule.",
+      "icon": "batch.svg"
+    },
+    {
+      "title": "Recognized Certification",
+      "description": "Receive a Cloud Fundamentals Internship Certificate recognized by recruiters.",
+      "icon": "Certificate.svg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is the Cloud Fundamentals course?",
+      "answer": "This course covers the basics of cloud computing, AWS platform, core services like EC2, S3, IAM, and teaches you how cloud infrastructure works in real-time environments."
+    },
+    {
+      "question": "Do I need coding experience?",
+      "answer": "No. This course is suitable for complete beginners and non-programmers. Everything is taught from scratch."
+    },
+    {
+      "question": "What jobs can I apply for after the course?",
+      "answer": "Cloud Support Engineer, Cloud Operations Associate, DevOps Trainee, AWS Support Associate, and more entry-level cloud roles."
+    },
+    {
+      "question": "Will I work on real-time AWS services?",
+      "answer": "Yes. You will work hands-on with EC2, S3, RDS, IAM, VPC, Lambda, CloudWatch, and more."
+    },
+    {
+      "question": "Is this course enough to clear AWS Cloud Practitioner?",
+      "answer": "Yes. The course covers all topics required for AWS CLF-C02 certification along with practice questions."
+    },
+    {
+      "question": "Do you provide placement support?",
+      "answer": "Yes! You will get 100% placement support including mock interviews and daily openings until you get placed."
+    },
+    {
+      "question": "Can I shift from online to offline classes?",
+      "answer": "Yes, you can switch anytime based on your convenience without any extra charges."
+    },
+    {
+      "question": "Will I get a certificate?",
+      "answer": "Yes. You will receive an Internship and Course Completion Certificate from UNIQ Technologies."
+    }
+  ],
+  "seo": {
+    "title": "Cloud Fundamentals Course Training in Chennai | Uniq Jobs",
+    "description": "Learn AWS Cloud, EC2, S3, IAM, VPC, Lambda with hands-on labs and 100% placement support.",
+    "keywords": [
+      "Cloud Fundamentals",
+      "AWS Training",
+      "Cloud Computing",
+      "AWS Course",
+      "Cloud Certification"
+    ]
+  },
+  "locationsSEO": {
+    "chennai": {
+      "title": "Cloud Fundamentals Course with Placement in Chennai | Uniq Jobs",
+      "description": "Learn core cloud concepts, virtualization, networking, and security with structured training and job support in Chennai."
+    },
+    "madurai": {
+      "title": "Cloud Fundamentals Training in Madurai | Uniq Jobs",
+      "description": "Beginner-friendly cloud computing course with mentor-led sessions and placement guidance in Madurai."
+    },
+    "trichy": {
+      "title": "Cloud Fundamentals Course in Trichy | Uniq Jobs",
+      "description": "Hands-on introduction to cloud platforms with real-time labs and placement support in Trichy."
+    },
+    "coimbatore": {
+      "title": "Best Cloud Fundamentals Training with Placement in Coimbatore | Uniq Jobs",
+      "description": "Learn essential cloud concepts with practical training and job support in Coimbatore."
+    },
+    "salem": {
+      "title": "Cloud Fundamentals Certification Course in Salem | Uniq Jobs",
+      "description": "Job-oriented cloud basics training with real-time practice environments and career support in Salem."
+    },
+    "tirunelveli": {
+      "title": "Cloud Fundamentals Course in Thirunelveli | Uniq Jobs",
+      "description": "Build a strong foundation in cloud computing with guided, placement-focused training in Thirunelveli."
+    },
+    "Puducherry": {
+      "title": "Cloud Fundamentals Course in Puducherry | Uniq Jobs",
+      "description": "Beginner cloud computing training with practical labs and placement guidance in Puducherry."
+    },
+    "bangalore": {
+      "title": "Cloud Fundamentals Course with Placement in Bangalore | Uniq Jobs",
+      "description": "Career-focused introduction to cloud technologies with hands-on labs and job support in Bangalore."
+    }
+  }
+
+}

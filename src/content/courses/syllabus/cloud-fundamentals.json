@@ -1,0 +1,118 @@
+{
+  "syllabus": [
+    {
+      "id": "1",
+      "title": "Module 01",
+      "subtitle": "Introduction to Cloud Computing",
+      "points": [
+        {
+          "text": "What is Cloud?"
+        },
+        {
+          "text": "Types of Cloud: Public, Private, Hybrid"
+        },
+        {
+          "text": "Service Models: IaaS, PaaS, SaaS"
+        },
+        {
+          "text": "Cloud Advantages & Use Cases"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "title": "Module 02",
+      "subtitle": "AWS Fundamentals",
+      "points": [
+        {
+          "text": "AWS Global Infrastructure"
+        },
+        {
+          "text": "Regions, AZs, Edge Locations"
+        },
+        {
+          "text": "IAM: Users, Roles, Policies"
+        },
+        {
+          "text": "Security Best Practices"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "title": "Module 03",
+      "subtitle": "Compute Services",
+      "points": [
+        {
+          "text": "EC2 Basics"
+        },
+        {
+          "text": "Instance Types & Pricing"
+        },
+        {
+          "text": "Key Pairs and Security Groups"
+        },
+        {
+          "text": "Auto Scaling Basics"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "title": "Module 04",
+      "subtitle": "Storage & Databases",
+      "points": [
+        {
+          "text": "S3 Buckets & Versioning"
+        },
+        {
+          "text": "Glacier & Lifecycle Policies"
+        },
+        {
+          "text": "RDS Basics"
+        },
+        {
+          "text": "DynamoDB Overview"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "title": "Module 05",
+      "subtitle": "Networking",
+      "points": [
+        {
+          "text": "VPC Basics"
+        },
+        {
+          "text": "Subnets & Routing"
+        },
+        {
+          "text": "Internet Gateways & NAT"
+        },
+        {
+          "text": "Load Balancers"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "title": "Module 06",
+      "subtitle": "Monitoring & Management",
+      "points": [
+        {
+          "text": "CloudWatch Monitoring"
+        },
+        {
+          "text": "CloudTrail Auditing"
+        },
+        {
+          "text": "Billing & Cost Management"
+        },
+        {
+          "text": "Tagging Strategies"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "syllabus" : [
+  {
+    "id": "01",
+    "title": "Module 01",
+    "subtitle": "HTML",
+    "points": [
+      { "text": "Basic structure of HTML document" },
+      { "text": "Headings, Paragraphs, Links, Images" },
+      { "text": "Ordered list, Unordered list" },
+      { "text": "Tables, Forms, Input types and attributes" },
+      { "text": "Semantic tags: <header>, <footer>, <nav>, <section>, <article>" },
+      { "text": "Media embedding: Videos, Audio, iframe" },
+      { "text": "HTML5 features: New tags, Improved semantics, Form enhancements" }
+    ]
+  },
+  {
+    "id": "02",
+    "title": "Module 02",
+    "subtitle": "CSS",
+    "points": [
+      { "text": "Syntax: selectors, properties, values" },
+      { "text": "Colors, Fonts, Borders, Background" },
+      { "text": "Box model, Display types (block, inline, none), Positioning (static, relative, absolute, fixed)" },
+      { "text": "Flexbox, Grid layout" },
+      { "text": "Pseudo-classes, Pseudo-elements" },
+      { "text": "Responsive design: Media queries" },
+      { "text": "Animations: Transitions, Basic animations" }
+    ]
+  },
+  {
+    "id": "03",
+    "title": "Module 03",
+    "subtitle": "Python",
+    "points": [
+      { "text": "Variables, Data types, Operators, Expressions" },
+      { "text": "Conditional statements, Loops (for, while)" },
+      { "text": "Function definitions, Scope" },
+      { "text": "Lists, Tuples, Dictionaries, Sets" },
+      { "text": "String methods, String formatting" },
+      { "text": "File handling: Read/write files" },
+      { "text": "Exception handling: try/except blocks" },
+      { "text": "Classes, Objects, Inheritance" },
+      { "text": "Virtual environments (venv)" }
+    ]
+  },
+  {
+    "id": "04",
+    "title": "Module 04",
+    "subtitle": "MySQL",
+    "points": [
+      { "text": "Database and table creation, Data types" },
+      { "text": "CRUD operations: SELECT, INSERT, UPDA  TE, DELETE" },
+      { "text": "Filtering with WHERE, Sorting with ORDER BY" },
+      { "text": "Aggregation: COUNT, SUM, AVG, MAX, MIN" },
+      { "text": "Grouping: GROUP BY, HAVING" },
+      { "text": "Relationships: One-to-one, One-to-many; INNER JOIN, LEFT JOIN, RIGHT JOIN" },
+      { "text": "Keys: Primary key, Foreign key" },
+      { "text": "Python integration: mysql-connector-python, SQLAlchemy" }
+    ]
+  },
+  {
+    "id": "05",
+    "title": "Module 05",
+    "subtitle": "Flask",
+    "points": [
+      { "text": "Installing Flask, Setting up Flask app" },
+      { "text": "Routing: @app.route" },
+      { "text": "Templates: Jinja2 syntax {{ }}, {% %}" },
+      { "text": "URL parameters, Query strings, Form handling (GET and POST)" }
+    ]
+  }
+]
+
+}

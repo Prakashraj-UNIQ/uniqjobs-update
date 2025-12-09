@@ -1,0 +1,164 @@
+{
+  "slug": "data-engineering-course",
+  "courseTitle": "Data Engineering",
+  "title": "Master Data Engineering with UNIQ Technologies",
+  "subtitle": "Become an industry-ready Data Engineer with UNIQ Technologies. This course covers Python, SQL, Big Data, Hadoop, Spark, Data Warehousing, ETL Pipelines, Cloud Data Engineering, and Real-Time Streaming Systems. Ideal for freshers, software developers, and professionals looking to transition into Data Engineering roles.",
+  "banner": {
+    "bgImageUrl": "/images/clsBala.webp",
+    "youtubeId": "aAp40dQXPSk",
+    "applyHref": "/contactus"
+  },
+  "afterCompleted": {
+    "title": "Job Opportunities After Data Engineering Course",
+    "description": "Data Engineering is one of the highest-demand careers globally. After completing this course, you can apply for roles such as:",
+    "position": [
+      "Data Engineer",
+      "Big Data Engineer",
+      "ETL Developer",
+      "Cloud Data Engineer (AWS/Azure/GCP)",
+      "Data Pipeline Engineer",
+      "Database Engineer",
+      "Business Intelligence Engineer",
+      "Analytics Engineer"
+    ],
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Deloitte",
+      "Accenture",
+      "Cognizant",
+      "TCS",
+      "Infosys"
+    ]
+  },
+  "whychoose": [
+    {
+      "title": "Complete Data Engineering Curriculum",
+      "description": "Covers Python, SQL, Hadoop, Spark, Kafka, Airflow, Data Pipelines, Cloud Data Engineering & more.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Real-Time Big Data Projects",
+      "description": "Work on Hadoop clusters, Spark transformations, Kafka streaming, and real ETL workflows.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "100% Placement Support",
+      "description": "Get interview leads, mock interviews, and resume support until you get placed.",
+      "icon": "placement.svg"
+    },
+    {
+      "title": "Industry Tools & Platforms",
+      "description": "Hands-on training with AWS S3, Glue, Lambda, Azure Data Factory, GCP BigQuery, Databricks, and Airflow.",
+      "icon": "mock.svg"
+    },
+    {
+      "title": "Hands-On Learning",
+      "description": "Every topic includes labs that simulate real industry data engineering environments.",
+      "icon": "Practice.svg"
+    },
+    {
+      "title": "Expert Mentors",
+      "description": "Learn from Senior Data Engineers working in top MNCs.",
+      "icon": "export.svg"
+    },
+    {
+      "title": "Flexible Schedules",
+      "description": "Weekend and weekday batches available for all learners.",
+      "icon": "batch.svg"
+    },
+    {
+      "title": "Recognized Certification",
+      "description": "Receive a Data Engineering Internship Certification accepted by major IT companies.",
+      "icon": "Certificate.svg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is a Data Engineering course?",
+      "answer": "The Data Engineering course teaches you to build large-scale data pipelines using Python, SQL, Hadoop, Spark, Kafka, and cloud platforms like AWS, Azure, and GCP."
+    },
+    {
+      "question": "Do I need coding experience?",
+      "answer": "Basic programming knowledge helps, but the course starts from scratch, covering Python and SQL fundamentals."
+    },
+    {
+      "question": "What tools will I learn?",
+      "answer": "Python, SQL, Hadoop, Spark, Kafka, Airflow, Databricks, AWS S3, Redshift, Glue, Lambda, Azure Data Factory, BigQuery, and ETL tools."
+    },
+    {
+      "question": "Is Data Engineering good for freshers?",
+      "answer": "Absolutely! Many companies hire freshers for junior Data Engineer and ETL Developer roles."
+    },
+    {
+      "question": "Do you provide placement support?",
+      "answer": "Yes! We provide 100% placement support with resume building, mock interviews, and daily job updates."
+    },
+    {
+      "question": "Is there a certificate after completion?",
+      "answer": "Yes, you receive both Course Completion and Internship Certificates recognized by IT companies."
+    },
+    {
+      "question": "Do you provide real-time projects?",
+      "answer": "Yes! You will work on Hadoop, Spark data processing, Kafka streaming, data warehousing, and cloud pipelines."
+    },
+    {
+      "question": "Can non-IT students join?",
+      "answer": "Yes! Even non-IT graduates can become Data Engineers with the right training."
+    },
+    {
+      "question": "Do you offer online and offline classes?",
+      "answer": "Yes, both modes are available and switching between them is free."
+    },
+    {
+      "question": "What is the course duration?",
+      "answer": "The duration is 4–6 months depending on weekday/weekend batches."
+    }
+  ],
+  "seo": {
+    "title": "Best Data Engineering Course Training Institute in Chennai | Uniq Jobs",
+    "description": "Learn Data Engineering with Python, Hadoop, Spark, Kafka, SQL, and Cloud platforms with real-time projects and placement support.",
+    "keywords": [
+      "Data Engineering Course",
+      "Big Data",
+      "Spark",
+      "Hadoop",
+      "AWS Data Engineering"
+    ]
+  },
+  "locationsSEO": {
+    "chennai": {
+      "title": "Data Engineering Course with Placement in Chennai | Uniq Jobs",
+      "description": "Master Hadoop, Spark, SQL, and Cloud Data Engineering with hands-on projects in Chennai."
+    },
+    "madurai": {
+      "title": "Data Engineering Course in Madurai | Uniq Jobs",
+      "description": "Learn Python, Big Data, SQL & cloud tools with real-time project training in Madurai."
+    },
+    "trichy": {
+      "title": "Data Engineering Training in Trichy | Uniq Jobs",
+      "description": "Become a Data Engineer with ETL, pipelines, and big data skills in Trichy."
+    },
+    "coimbatore": {
+      "title": "Best Data Engineering Training with Placement in Coimbatore | Uniq Jobs",
+      "description": "Comprehensive Data Engineering program with cloud and big data tools in Coimbatore."
+    },
+    "salem": {
+      "title": "Data Engineering Course in Salem | Uniq Jobs",
+      "description": "Job-focused Data Engineering training with hands-on practice in Salem."
+    },
+    "tirunelveli": {
+      "title": "Best Data Engineering Training with Placement in Tirunelveli | Uniq Jobs",
+      "description": "Learn Big Data, Python & ETL tools with practical training in Tirunelveli."
+    },
+    "Puducherry": {
+      "title": "Data Engineering Course in Puducherry | Uniq Jobs",
+      "description": "Hands-on Data Engineering & Big Data training with placement support in Puducherry."
+    },
+    "bangalore": {
+      "title": "Data Engineering Course with Placement in Bangalore | Uniq Jobs",
+      "description": "Industry-grade Data Engineering training with cloud, ETL & big data tools in Bangalore."
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "generative-ai",
+  "courseTitle" :"Generative AI",
+  "title": "Master Generative AI with UNIQ Technologies",
+  "subtitle": "Master Generative AI with UNIQ Technologies and build AI-powered applications using Large Language Models (LLMs), Prompt Engineering, Vector Databases, LangChain, OpenAI APIs, and AI Automation tools. Designed for students, freshers, working professionals, and career-switchers, this course prepares you for real-world AI development with hands-on projects and industry mentorship.",
+  "banner": {
+    "bgImageUrl": "/images/clsBala.webp",
+    "youtubeId": "rRpTf3763P0",
+    "applyHref": "/contactus"
+  },
+  "afterCompleted": {
+    "title": "Job Opportunities After Generative AI Course",
+    "description": "Generative AI is the fastest-growing tech skill globally. After completing our Generative AI Developer Course, you can apply for the following roles:",
+    "position": [
+      "Generative AI Engineer",
+      "AI Developer / AI Automation Engineer",
+      "Prompt Engineer",
+      "LLM App Developer",
+      "Machine Learning Engineer (GenAI)",
+      "AI Research Associate",
+      "AI Product Developer",
+      "AI Integration Specialist"
+    ],
+    "companies": [
+      "Google",
+      "Microsoft",
+      "TCS",
+      "Accenture",
+      "Infosys",
+      "Cognizant",
+      "IBM",
+      "Deloitte"
+    ]
+  },
+  "whychoose": [
+    {
+      "title": "Hands-On LLM Development",
+      "description": "Work directly with GPT, Claude, LLaMA, and open-source LLMs to build real-world applications.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Real-Time AI Projects",
+      "description": "Create Chatbots, AI Agents, RAG Applications, Generative Image/Video Systems, and AI Automation tools.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "Job & Internship Support",
+      "description": "Receive 100% placement assistance with continuous interview opportunities.",
+      "icon": "placement.svg"
+    },
+    {
+      "title": "Project-Based Learning",
+      "description": "Every module includes hands-on experiments, API projects, and AI workflows.",
+      "icon": "Practice.svg"
+    },
+    {
+      "title": "Mentors from Top AI Companies",
+      "description": "Learn from experts working in Generative AI and Machine Learning roles.",
+      "icon": "export.svg"
+    },
+    {
+      "title": "Future-Proof Career Skills",
+      "description": "Master the technologies companies are adopting for automation and AI product development.",
+      "icon": "batch.svg"
+    },
+    {
+      "title": "Flexible Batches Available",
+      "description": "Choose weekday, weekend, or online batches as per your schedule.",
+      "icon": "mock.svg"
+    },
+    {
+      "title": "Recognized Internship Certificate",
+      "description": "Receive a Generative AI internship certificate from UNIQ Technologies.",
+      "icon": "Certificate.svg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is the Generative AI course?",
+      "answer": "The Generative AI course trains you to build intelligent applications using LLMs, Prompt Engineering, LangChain, Vector Databases, and AI Automation tools. You will work on real-time AI projects and build deployable applications."
+    },
+    {
+      "question": "Who can join this course?",
+      "answer": "Anyone interested in AI can join — Engineering/Arts students, working professionals, freshers, non-programmers, and career switchers. No prior coding experience is required."
+    },
+    {
+      "question": "What are the job opportunities after this course?",
+      "answer": "You can apply for roles like Generative AI Engineer, Prompt Engineer, AI Developer, LLM Engineer, and Automation Specialist. Companies across the world are hiring for these roles."
+    },
+    {
+      "question": "What tools and technologies will I learn?",
+      "answer": "You will learn OpenAI APIs, LangChain, Python, Vector Databases (FAISS/Chroma), AI Agents, Hugging Face, and deployment tools like Streamlit, FastAPI, and cloud platforms."
+    },
+    {
+      "question": "How long is the course?",
+      "answer": "Typically 2–4 months depending on weekday/weekend options. Every module includes assignments and project work."
+    },
+    {
+      "question": "Does UNIQ Technologies provide placement support?",
+      "answer": "Yes! You get 100% placement assistance, resume building, mock interviews, and daily interview opportunities."
+    },
+    {
+      "question": "Can I rejoin classes if I miss topics?",
+      "answer": "Yes — unlimited repeat classes at no extra cost. You can rejoin anytime to revise topics."
+    },
+    {
+      "question": "Is this course available online?",
+      "answer": "Yes, both online and offline training modes are available with live instructor-led sessions."
+    },
+    {
+      "question": "Can I switch between online and offline modes?",
+      "answer": "Yes, you can switch anytime without extra charges."
+    },
+    {
+      "question": "Is Generative AI in demand in 2025 and beyond?",
+      "answer": "Absolutely! Generative AI is one of the fastest-growing fields with massive job openings across industries."
+    },
+    {
+      "question": "Will I receive a certificate?",
+      "answer": "Yes. You will receive a Course Completion & Internship Certificate recognized by top companies."
+    },
+    {
+      "question": "What makes UNIQ Technologies unique?",
+      "answer": "Hands-on project training, top mentors, job-oriented curriculum, lifetime learning access, and daily placement opportunities."
+    },
+    {
+      "question": "How can I enroll?",
+      "answer": "You can register via our website or visit our centers in Chennai or Bangalore. Our counselors will guide you through the batch options."
+    }
+  ],
+  "seo": {
+    "title": "Best Generative AI Training Institute in Chennai | UniqJobs",
+    "description": "Hands-on Generative AI training with LLMs, Prompt Engineering, OpenAI APIs, LangChain, and real-time AI projects.",
+    "keywords": [
+      "Generative AI",
+      "LLM Development",
+      "Prompt Engineering",
+      "LangChain Course"
+    ]
+  },
+  "locationsSEO": {
+    "chennai": {
+      "title": "Generative AI Course with Placement in Chennai | Uniq Jobs",
+      "description": "Master GenAI, LLMs, Prompt Engineering, and AI model deployment with expert-led training and placement support in Chennai."
+    },
+    "madurai": {
+      "title": "Generative AI Course in Madurai | Uniq Jobs",
+      "description": "Hands-on Generative AI training with real-time tools, LLMs, and placement guidance in Madurai."
+    },
+    "trichy ": {
+      "title": "Generative AI Training in Trichy | Uniq Jobs",
+      "description": "Learn advanced Generative AI, ChatGPT, and model fine-tuning with job-focused training in Trichy."
+    },
+    "coimbatore": {
+      "title": "Best Generative AI Training with Placement in Coimbatore | Uniq Jobs",
+      "description": "Gain practical skills in LLMs, GenAI tools, and AI automation with placement support in Coimbatore."
+    },
+    "salem": {
+      "title": "Generative AI Developer Course in Salem | Uniq Jobs",
+      "description": "Career-oriented Generative AI course with hands-on labs and expert mentoring in Salem."
+    },
+    "tirunelveli": {
+      "title": "Best Generative AI Course Training with Placement in Thirunelveli | Uniq Jobs",
+      "description": "Learn GenAI technologies, LLM workflows, and deployment strategies with placement-focused training in Thirunelveli."
+    },
+    "Puducherry": {
+      "title": "Generative AI Course in Puducherry | Uniq Jobs",
+      "description": "Practical Generative AI and LLM training with real-time examples and job support in Puducherry."
+    },
+    "bangalore": {
+      "title": "Generative AI Course with Placement in Bangalore | Uniq Jobs",
+      "description": "Industry-ready Generative AI training covering LLMs, AI tools, and real-world projects in Bangalore."
+    }
+  }
+}

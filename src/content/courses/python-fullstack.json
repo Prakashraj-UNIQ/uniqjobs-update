@@ -1,0 +1,174 @@
+{
+  "slug": "python-fullstack",
+  "courseTitle" :"Python Fullstack",
+  "title": "Master Python Full Stack Development with UNIQ Technologies",
+  "subtitle": "Become a highly skilled Python Full Stack Developer with UNIQ Technologies. Learn Python, Django, REST API, React, and SQL while building complete end-to-end web applications. With hands-on projects, experienced mentors, and 100% placement support, this course prepares you to become job-ready for top IT companies.",
+  "banner": {
+    "bgImageUrl": "/images/clsBala.webp",
+    "youtubeId": "eqTlFQWYzwY",
+    "applyHref": "/contactus"
+  },
+  "afterCompleted": {
+    "title": "Job Opportunities after Python Full Stack Course",
+    "description": "Python continues to dominate web development, automation, AI, and backend engineering roles. After completing this Python Full Stack Developer Course, you can apply for roles such as:",
+    "position": [
+      "Python Developer",
+      "Full Stack Developer (Python + React)",
+      "Backend Developer (Django/Flask)",
+      "Django Developer",
+      "REST API Developer",
+      "Software Engineer",
+      "Trainee Developer"
+    ],
+    "companies": [
+      "Google",
+      "TCS",
+      "Infosys",
+      "Accenture",
+      "Wipro",
+      "Cognizant",
+      "Deloitte",
+      "HCL"
+    ]
+  },
+  "whychoose": [
+    {
+      "title": "Complete Full Stack Coverage",
+      "description": "Master Python, Django, REST API, React, MySQL, Git, and Deployment.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Real-Time Project Experience",
+      "description": "Work on live full stack applications with industry mentors.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "Guaranteed Placement Support",
+      "description": "100% job support with daily interview opportunities until you get placed.",
+      "icon": "placement.svg"
+    },
+    {
+      "title": "Interview & Resume Training",
+      "description": "Mock interviews, HR rounds, and resume-building included.",
+      "icon": "mock.svg"
+    },
+    {
+      "title": "Hands-On Practical Labs",
+      "description": "Every module includes coding tasks, API building, and UI development.",
+      "icon": "Practice.svg"
+    },
+    {
+      "title": "Expert Mentors",
+      "description": "Learn directly from Python professionals with 8–12 years of experience.",
+      "icon": "export.svg"
+    },
+    {
+      "title": "Flexible Batches",
+      "description": "Choose weekday or weekend sessions based on your preference.",
+      "icon": "batch.svg"
+    },
+    {
+      "title": "Recognized Internship Certificate",
+      "description": "Earn an internship certificate valued by top recruiters.",
+      "icon": "Certificate.svg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is a Python Full Stack Developer course?",
+      "answer": "This course trains you in backend (Python, Django, REST API) and frontend (React JS) development so you can build complete web applications from scratch."
+    },
+    {
+      "question": "Who can join this course?",
+      "answer": "Any graduate, fresher, or working professional can join. We start from basics — no prior programming skills required."
+    },
+    {
+      "question": "What are the job opportunities after this course?",
+      "answer": "You can become a Python Developer, Django Developer, Full Stack Developer, Backend Developer, or REST API Engineer."
+    },
+    {
+      "question": "What tools will I learn?",
+      "answer": "Python, Django, REST Framework, React JS, HTML, CSS, JavaScript, MySQL, Git & GitHub, Postman."
+    },
+    {
+      "question": "How long is the course?",
+      "answer": "The duration is 4–6 months depending on your selected batch (weekday/weekend)."
+    },
+    {
+      "question": "Does UNIQ Technologies provide placement support?",
+      "answer": "Yes, we provide 100% placement support until you get placed — with daily interview opportunities."
+    },
+    {
+      "question": "Can I rejoin classes if I need revision?",
+      "answer": "Yes! You can rejoin any future batch for free — lifetime learning access is provided."
+    },
+    {
+      "question": "Is online training available?",
+      "answer": "Yes, both online and offline classes are available with flexible timings."
+    },
+    {
+      "question": "Can I switch from online to offline mode?",
+      "answer": "Yes, you can switch anytime without extra charges."
+    },
+    {
+      "question": "Is Python still in demand?",
+      "answer": "Absolutely! Python powers web development, AI, automation, data science, and backend engineering — making Python developers highly employable."
+    },
+    {
+      "question": "Will I receive a certificate?",
+      "answer": "You will receive a Course Completion Certificate and an Internship Certificate recognized by top companies."
+    },
+    {
+      "question": "Why should I choose UNIQ Technologies?",
+      "answer": "We offer real-time projects, top MNC trainers, lifetime learning access, and guaranteed placement support."
+    },
+    {
+      "question": "How can I enroll?",
+      "answer": "You can register through www.uniqjobs.co.in or visit our branches in Chennai or Bangalore."
+    }
+  ],
+  "seo": {
+    "title": "Best Python Full Stack Developer Course in Chennai | UniqJobs",
+    "description": "Learn Python, Django, REST API, React, and MySQL with hands-on training and 100% placement support.",
+    "keywords": [
+      "Python Full Stack",
+      "Django",
+      "React",
+      "REST API"
+    ]
+  },
+  "locationsSEO": {
+    "chennai": {
+      "title": "Python Full Stack Course with Placement in Chennai | Uniq Jobs",
+      "description": "Master Python, Django, React and MySQL with structured training and job support in Chennai."
+    },
+    "madurai": {
+      "title": "Python Full Stack Course in Madurai | Uniq Jobs",
+      "description": "Affordable Python full stack course with mentor-led sessions and placement guidance in Madurai."
+    },
+    "trichy": {
+      "title": "Python Full Stack Training in Trichy | Uniq Jobs",
+      "description": "Learn Python, Django & React with hands-on training and placement support in Trichy."
+    },
+    "coimbatore": {
+      "title": "Best Python Full Stack Training with Placement in Coimbatore | Uniq Jobs",
+      "description": "Master Python, Django & React with practical training and placement support in Coimbatore."
+    },
+    "salem": {
+      "title": "Python Full Stack Developer Course in Salem | Uniq Jobs",
+      "description": "Job-oriented Python full stack training with hands-on labs and career assistance in Salem."
+    },
+    "tirunelveli": {
+      "title": "Best Python Full Stack Training with Placement in Thirunelveli | Uniq Jobs",
+      "description": "Build strong Python development skills with guided, placement-focused training in Thirunelveli."
+    },
+    "Puducherry": {
+      "title": "Python Full Stack Course in Puducherry | Uniq Jobs",
+      "description": "Hands-on Python, Django & React training with placement guidance in Puducherry."
+    },
+    "bangalore": {
+      "title": "Python Full Stack Course with Placement in Bangalore | Uniq Jobs",
+      "description": "Career-focused Python full stack training with real-time skills and job support in Bangalore."
+    }
+  }
+}

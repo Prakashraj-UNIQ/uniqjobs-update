@@ -1,0 +1,162 @@
+{
+  "slug": "power-bi-course",
+  "courseTitle" :"Power BI",
+  "title": "Master Power BI with UNIQ Technologies",
+  "subtitle": "Become an expert in Business Intelligence and Data Visualization using Microsoft's Power BI. This course covers Data Modeling, DAX, Power Query, Dashboards, and Real-Time Project Implementations. Designed for freshers, analysts, and professionals who want to build a strong career in data-driven decision-making.",
+  "banner": {
+    "bgImageUrl": "/images/clsBala.webp",
+    "youtubeId": "m_J0n0lyWL0",
+    "applyHref": "/contactus"
+  },
+  "afterCompleted": {
+    "title": "Job Opportunities After Power BI Course",
+    "description": "Power BI professionals are in huge demand across industries like IT, finance, healthcare, and e-commerce. After completing this course, you can apply for:",
+    "position": [
+      "Power BI Developer",
+      "Business Intelligence Analyst",
+      "Data Analyst",
+      "Reporting Analyst",
+      "Dashboard Developer",
+      "Visualization Specialist",
+      "MIS Analyst"
+    ],
+    "companies": [
+      "Accenture",
+      "Cognizant",
+      "TCS",
+      "Deloitte",
+      "Infosys",
+      "HCL",
+      "Amazon",
+      "Kpmg"
+    ]
+  },
+  "whychoose": [
+    {
+      "title": "Complete Power BI Training",
+      "description": "Covers Power Query, DAX, Data Modeling, and Dashboard Design.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Real-Time Dashboard Projects",
+      "description": "Build dashboards for Sales, HR, Finance, Marketing, and Operations.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "100% Placement Assistance",
+      "description": "Dedicated placement support with mock interviews and resume building.",
+      "icon": "placement.svg"
+    },
+    {
+      "title": "Master Industry Tools",
+      "description": "Learn Power BI Desktop, Power BI Service, SQL basics, and Excel integration.",
+      "icon": "mock.svg"
+    },
+    {
+      "title": "Hands-On Learning",
+      "description": "Every module includes assignments, labs, and case studies.",
+      "icon": "Practice.svg"
+    },
+    {
+      "title": "Industry Expert Trainers",
+      "description": "Mentors with 8–12 years of BI and data analytics experience.",
+      "icon": "export.svg"
+    },
+    {
+      "title": "Flexible Training Options",
+      "description": "Weekend and weekday batches available for all learners.",
+      "icon": "batch.svg"
+    },
+    {
+      "title": "Recognized Certification",
+      "description": "Get a Power BI Certification and Internship Certificate from UNIQ Technologies.",
+      "icon": "Certificate.svg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Power BI?",
+      "answer": "Power BI is a business intelligence tool by Microsoft used for data visualization, reporting, and interactive dashboards."
+    },
+    {
+      "question": "Is this course suitable for beginners?",
+      "answer": "Yes. No prior experience is required. We start from basics of data handling and visualization."
+    },
+    {
+      "question": "What will I learn in this course?",
+      "answer": "You will learn Power Query, DAX formulas, Data Modeling, Dashboard Design, Power BI Service, and integrating Power BI with Excel and SQL."
+    },
+    {
+      "question": "Do I need programming knowledge?",
+      "answer": "No. Power BI requires logic and analytical thinking, not programming."
+    },
+    {
+      "question": "Do you provide placement assistance?",
+      "answer": "Yes! UNIQ Technologies offers 100% placement support until you get placed."
+    },
+    {
+      "question": "Will I work on real-time projects?",
+      "answer": "Yes. You will build dashboards for Sales, HR, Finance, and Marketing datasets."
+    },
+    {
+      "question": "Can I attend both online and offline?",
+      "answer": "Yes. You can switch between modes anytime without extra fees."
+    },
+    {
+      "question": "How long is the Power BI course?",
+      "answer": "The course duration is 1.5–2 months depending on batch type."
+    },
+    {
+      "question": "Do I receive certificates?",
+      "answer": "Yes, both Course Completion and Internship Certificates are provided."
+    },
+    {
+      "question": "Is Power BI in demand?",
+      "answer": "Yes! Power BI is one of the most in-demand BI tools used across industries."
+    }
+  ],
+  "seo": {
+    "title": "Best Power BI Training Institute in Chennai | UNIQ Technologies",
+    "description": "Master Power BI dashboards, DAX, Power Query, and real-time reporting with placement support.",
+    "keywords": [
+      "Power BI Course",
+      "DAX",
+      "Business Intelligence",
+      "Power Query"
+    ]
+  },
+  "locationsSEO": {
+    "chennai": {
+      "title": "Power BI Course with Placement in Chennai | Uniq Jobs",
+      "description": "Master Power BI dashboards, DAX, and data modeling with hands-on training and job support in Chennai."
+    },
+    "madurai": {
+      "title": "Power BI Training in Madurai | Uniq Jobs",
+      "description": "Affordable Power BI course with mentor-led sessions and placement guidance in Madurai."
+    },
+    "trichy": {
+      "title": "Power BI Course in Trichy | Uniq Jobs",
+      "description": "Learn Power BI, DAX formulas and visualization techniques with practical training in Trichy."
+    },
+    "coimbatore": {
+      "title": "Best Power BI Training with Placement in Coimbatore | Uniq Jobs",
+      "description": "Hands-on Power BI training with real-time business dashboards and placement support in Coimbatore."
+    },
+    "salem": {
+      "title": "Power BI Certification Course in Salem | Uniq Jobs",
+      "description": "Job-focused Power BI training with real-world projects and career assistance in Salem."
+    },
+    "tirunelveli": {
+      "title": "Best Power BI Training with Placement in Thirunelveli | Uniq Jobs",
+      "description": "Learn data visualization and analytics in Power BI with guided, job-oriented training in Thirunelveli."
+    },
+    "Puducherry": {
+      "title": "Power BI Course in Puducherry | Uniq Jobs",
+      "description": "Hands-on Power BI dashboard building and DAX training with placement guidance in Puducherry."
+    },
+    "bangalore": {
+      "title": "Power BI Training with Placement in Bangalore | Uniq Jobs",
+      "description": "Career-ready Power BI course with real-time analytics skills and job support in Bangalore."
+    }
+  }
+}

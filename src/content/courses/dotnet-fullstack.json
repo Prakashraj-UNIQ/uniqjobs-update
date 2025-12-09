@@ -1,0 +1,173 @@
+{
+  "slug": "dotnet-fullstack",
+ "courseTitle" :".NET",
+  "title": "Master .NET Full Stack Development with UNIQ Technologies",
+  "subtitle": "Become a professional .NET Full Stack Developer with UNIQ Technologies. Learn C#, .NET Core (ASP.NET Core), Entity Framework, SQL Server, REST APIs, and frontend development with React. This hands-on course prepares you to build scalable full-stack applications and become industry-ready with real-time project experience and placement support.",
+  "banner": {
+    "bgImageUrl": "/images/clsBala.webp",
+    "youtubeId": "QtMPg-LfIqM",
+    "applyHref": "/contactus"
+  },
+  "afterCompleted": {
+    "title": "Job Opportunities after .NET Full Stack Course",
+    "description": "After completing our .NET Full Stack Developer Course, learners can apply for multiple high-demand roles across IT service and product companies. .NET Core and Azure are rapidly growing, creating strong job openings for full-stack developers.",
+    "position": [
+      ".NET Developer / C# Developer",
+      "Full Stack Developer (.NET + React)",
+      "Backend Developer (.NET Core)",
+      "Software Engineer (Web Applications)",
+      "API Developer / Application Developer"
+    ],
+    "companies": [
+      "TCS",
+      "Infosys",
+      "HCL",
+      "Accenture",
+      "Cognizant",
+      "Capgemini",
+      "Wipro",
+      "Deloitte"
+    ]
+  },
+  "whychoose": [
+    {
+      "title": "Complete .NET Full Stack Coverage",
+      "description": "Learn C#, .NET Core, Entity Framework, SQL Server, REST API, React, Azure Fundamentals, and Git.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Real-Time Project Development",
+      "description": "Work on industry-based .NET Core projects including authentication systems, dashboards, and APIs.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "100% Placement Support",
+      "description": "Get continuous interview opportunities and guidance until you get placed.",
+      "icon": "placement.svg"
+    },
+    {
+      "title": "Mock Interviews & Resume Building",
+      "description": "Attend mock interview rounds, technical reviews, and get a professionally written resume.",
+      "icon": "mock.svg"
+    },
+    {
+      "title": "Hands-On Learning Approach",
+      "description": "Every module contains labs, coding tasks, and real-world use cases to build strong practical skills.",
+      "icon": "Practice.svg"
+    },
+    {
+      "title": "Expert Mentors from Top IT Companies",
+      "description": "Training delivered by certified .NET professionals with 10+ years of experience.",
+      "icon": "export.svg"
+    },
+    {
+      "title": "Flexible Timings",
+      "description": "Choose from weekday or weekend batches to match your convenience.",
+      "icon": "batch.svg"
+    },
+    {
+      "title": "Recognized Internship Certification",
+      "description": "Receive an internship certificate valued by top IT recruiters.",
+      "icon": "Certificate.svg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is the .NET Full Stack Developer course?",
+      "answer": "The .NET Full Stack Course trains you in both backend and frontend development. You will learn C#, ASP.NET Core, Entity Framework, SQL Server, REST APIs, and React. By the end of this training, you can build complete enterprise-level web applications."
+    },
+    {
+      "question": "Who can learn this course?",
+      "answer": "Engineering, Arts & Science graduates, diploma students, freshers, job seekers, and working professionals can join. No prior programming knowledge required."
+    },
+    {
+      "question": "What job roles can I apply for?",
+      "answer": "You can apply for .NET Developer, Full Stack Developer (.NET + React), C# Developer, Application Developer, Backend Developer (.NET Core), or Software Engineer."
+    },
+    {
+      "question": "What technologies will I learn?",
+      "answer": "C#, .NET Core, ASP.NET MVC, Entity Framework Core, SQL Server, LINQ, REST API, React JS, GitHub, Authentication, Authorization, and basic Azure deployment."
+    },
+    {
+      "question": "How long is the course?",
+      "answer": "The duration is 4–6 months depending on weekday/weekend batch selection. Every module includes hands-on practice."
+    },
+    {
+      "question": "Does this course include placement support?",
+      "answer": "Yes! UNIQ Technologies provides 100% placement support until you get placed with live interview calls every week."
+    },
+    {
+      "question": "Can I rejoin if I do not understand a topic?",
+      "answer": "Absolutely! You can rejoin any future batch at no additional cost. Lifetime learning access is included."
+    },
+    {
+      "question": "Is online training available?",
+      "answer": "Yes, we offer both online and offline training with live instructor-led classes."
+    },
+    {
+      "question": "Can I switch from online to offline later?",
+      "answer": "Yes. You can switch at any time without extra fees."
+    },
+    {
+      "question": "Is .NET still in demand?",
+      "answer": "Yes! .NET Core, Azure, and microservices are in high demand across enterprise companies and startups."
+    },
+    {
+      "question": "Will I get a certificate?",
+      "answer": "Yes, you will receive Course Completion and Internship Certificates recognized by top IT companies."
+    },
+    {
+      "question": "Why choose UNIQ Technologies?",
+      "answer": "Experienced mentors, real-time projects, lifetime access, continuous placement support, and thousands of successful students."
+    },
+    {
+      "question": "How can I enroll?",
+      "answer": "Visit www.uniqjobs.co.in or contact our Chennai/Bangalore branches to book a free demo session."
+    }
+  ],
+  "seo": {
+    "title": "Best .NET Full Stack Developer Course in Chennai | Uniq Jobs",
+    "description": "Learn C#, ASP.NET Core, React, SQL Server, and Full Stack Development with real-time projects and placement support.",
+    "keywords": [
+      ".NET Full Stack",
+      "ASP.NET Core",
+      "C# Developer",
+      "React JS",
+      "SQL Server"
+    ]
+  },
+  "locationsSEO": {
+    "chennai": {
+      "title": ".NET Full Stack Course with Placement in Chennai | Uniq Jobs",
+      "description": "Master C#, ASP.NET, SQL Server, and Angular with structured full stack training and job support in Chennai."
+    },
+    "madurai": {
+      "title": ".NET Full Stack Course in Madurai | Uniq Jobs",
+      "description": "Affordable .NET full stack course with mentor-led sessions and placement guidance in Madurai."
+    },
+    "trichy": {
+      "title": ".NET Full Stack Training in Trichy | Uniq Jobs",
+      "description": "Learn C#, ASP.NET Core & Angular with hands-on training and placement support in Trichy."
+    },
+    "coimbatore": {
+      "title": "Best .NET Full Stack Training with Placement in Coimbatore | Uniq Jobs",
+      "description": "Master .NET, ASP.NET Core & Angular with practical training and job support in Coimbatore."
+    },
+    "salem": {
+      "title": ".NET Full Stack Developer Course in Salem | Uniq Jobs",
+      "description": "Job-oriented .NET full stack training with real-time labs and career assistance in Salem."
+    },
+    "tirunelveli": {
+      "title": "Best .NET Full Stack Training with Placement in Thirunelveli | Uniq Jobs",
+      "description": "Build strong .NET development skills with guided, placement-focused training in Thirunelveli."
+    },
+    "Puducherry": {
+      "title": ".NET Full Stack Course in Puducherry | Uniq Jobs",
+      "description": "Hands-on .NET, ASP.NET Core & Angular training with placement guidance in Puducherry."
+    },
+    "bangalore": {
+      "title": ".NET Full Stack Course with Placement in Bangalore | Uniq Jobs",
+      "description": "Career-focused .NET full stack training with real-time skills and job support in Bangalore."
+    }
+  }
+}

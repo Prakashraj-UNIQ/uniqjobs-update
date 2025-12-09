@@ -1,0 +1,100 @@
+{
+  "syllabus": [
+    {
+      "id": "1",
+      "title": "Module 01",
+      "subtitle": "Introduction to Power BI",
+      "points": [
+        { "text": "What is Power BI?" },
+        { "text": "Power BI components: Desktop, Service, Mobile" },
+        { "text": "Power BI architecture" },
+        { "text": "Import vs DirectQuery" },
+        { "text": "Overview of Power BI workflow" }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Module 02",
+      "subtitle": "Power BI Desktop Essentials",
+      "points": [
+        { "text": "Power BI Desktop interface" },
+        { "text": "Connecting to different data sources" },
+        { "text": "Data types and formatting" },
+        { "text": "Basic transformation using Power Query" },
+        { "text": "Building first report" }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Module 03",
+      "subtitle": "Data Cleaning with Power Query",
+      "points": [
+        { "text": "Power Query Editor overview" },
+        { "text": "Merging, appending, and transforming datasets" },
+        { "text": "Handling null values, duplicates, and errors" },
+        { "text": "Column transformations and custom columns" },
+        { "text": "Understanding M language basics" }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Module 04",
+      "subtitle": "Data Modeling",
+      "points": [
+        { "text": "Star and Snowflake schema" },
+        { "text": "Building relationships between tables" },
+        { "text": "Cardinality and cross-filtering" },
+        { "text": "Hierarchies and grouping" },
+        { "text": "Optimizing data models" }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Module 05",
+      "subtitle": "DAX (Data Analysis Expressions)",
+      "points": [
+        { "text": "Calculated columns vs measures" },
+        { "text": "Aggregation functions: SUM, COUNT, AVERAGE" },
+        { "text": "Logical and text functions" },
+        { "text": "Time intelligence functions" },
+        { "text": "Advanced DAX: CALCULATE, FILTER, ALL" }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Module 06",
+      "subtitle": "Visualization and Reporting",
+      "points": [
+        { "text": "Choosing the right chart type" },
+        { "text": "Using slicers, filters, and bookmarks" },
+        { "text": "Drill-down and drill-through" },
+        { "text": "Custom visuals" },
+        { "text": "Design principles for dashboards" }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Module 07",
+      "subtitle": "Power BI Service & Deployment",
+      "points": [
+        { "text": "Publishing reports to Power BI Service" },
+        { "text": "Workspaces, apps, and dashboards" },
+        { "text": "Sharing and collaboration" },
+        { "text": "Scheduled refresh and gateway setup" },
+        { "text": "Row-level security (RLS)" }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Module 08",
+      "subtitle": "End-to-End Power BI Project",
+      "points": [
+        { "text": "Choosing a business dataset" },
+        { "text": "Data preparation and modeling" },
+        { "text": "Creating interactive dashboards" },
+        { "text": "Publishing and sharing deliverables" },
+        { "text": "Project documentation best practices" }
+      ]
+    }
+  ]
+}

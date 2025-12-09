@@ -1,0 +1,162 @@
+{
+  "slug": "data-analysis-course",
+  "courseTitle" :"Data Analysis",
+  "title": "Master Data Analysis with UNIQ Technologies",
+  "subtitle": "Become a job-ready Data Analyst with UNIQ Technologies. This course covers Excel, SQL, Power BI, Python for Data Analysis, Statistics, Data Cleaning, Dashboarding, and Real-Time Projects. Designed for freshers, graduates, and professionals looking for a high-demand career in data.",
+  "banner": {
+    "bgImageUrl": "/images/clsBala.webp",
+    "youtubeId": "EZiBpKbz5hw",
+    "applyHref": "/contactus"
+  },
+  "afterCompleted": {
+    "title": "Job Opportunities After Data Analysis Course",
+    "description": "Data Analysts are in high demand across IT companies, startups, finance, healthcare, and e-commerce. After completing this course, you can apply for:",
+    "position": [
+      "Data Analyst",
+      "Business Analyst",
+      "Reporting Analyst",
+      "Data Visualization Specialist",
+      "MIS Analyst",
+      "Power BI Developer",
+      "Research Analyst"
+    ],
+    "companies": [
+      "Accenture",
+      "Deloitte",
+      "Cognizant",
+      "Amazon",
+      "HCL",
+      "Infosys",
+      "TCS",
+      "Ey"
+    ]
+  },
+  "whychoose": [
+    {
+      "title": "Complete Data Analysis Curriculum",
+      "description": "Learn Excel, SQL, Power BI, Python, and Statistics from basics to advanced.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Real-Time Dashboards",
+      "description": "Build interactive dashboards and reports using Power BI and Excel.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "100% Placement Assistance",
+      "description": "Dedicated placement support with resume prep and interview training.",
+      "icon": "placement.svg"
+    },
+    {
+      "title": "Industry Tools Covered",
+      "description": "Work with Excel, MySQL, Power BI, Python, Pandas, and Tableau.",
+      "icon": "mock.svg"
+    },
+    {
+      "title": "Hands-On Learning",
+      "description": "Every topic includes assignments, case studies, and practical labs.",
+      "icon": "Practice.svg"
+    },
+    {
+      "title": "Expert Mentors",
+      "description": "Learn from experienced Data Analysts and BI professionals.",
+      "icon": "export.svg"
+    },
+    {
+      "title": "Flexible Batches",
+      "description": "Attend weekday or weekend classes based on your convenience.",
+      "icon": "batch.svg"
+    },
+    {
+      "title": "Recognized Certification",
+      "description": "Get an internship and course completion certificate recognized by leading MNCs.",
+      "icon": "Certificate.svg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is a Data Analysis course?",
+      "answer": "It is a job-oriented training program that teaches Excel, SQL, Power BI, Python, and Statistics to analyze and visualize data effectively."
+    },
+    {
+      "question": "Do I need technical experience?",
+      "answer": "No. This course starts from basics and is suitable for freshers and non-IT graduates."
+    },
+    {
+      "question": "Which tools will I learn?",
+      "answer": "Excel, SQL/MySQL, Power BI, Tableau (intro), Python, Pandas, and data visualization techniques."
+    },
+    {
+      "question": "Is this course good for beginners?",
+      "answer": "Yes! Many students from B.Com, BBA, Economics, and non-IT branches take this course successfully."
+    },
+    {
+      "question": "Do you provide placement support?",
+      "answer": "Yes, UNIQ Technologies offers 100% placement support until you get a job."
+    },
+    {
+      "question": "Do we get real-world projects?",
+      "answer": "Yes. You will work on dashboards, reports, and datasets from finance, sales, HR, and marketing."
+    },
+    {
+      "question": "Can I shift between online and offline classes?",
+      "answer": "Yes! You can switch anytime at no extra cost."
+    },
+    {
+      "question": "What is the duration of the course?",
+      "answer": "The course duration is 2–3 months depending on the batch."
+    },
+    {
+      "question": "Will I receive certificates?",
+      "answer": "Yes, both Course Completion and Internship Certificates are provided."
+    },
+    {
+      "question": "Is Data Analysis in demand?",
+      "answer": "Yes! Every company needs data-driven decision makers, making Data Analysts highly sought-after."
+    }
+  ],
+  "seo": {
+    "title": "Best Data Analysis Training Institute in Chennai | Uniq Jobs",
+    "description": "Learn Excel, SQL, Power BI, Python, and real-time data analysis with placement support.",
+    "keywords": [
+      "Data Analysis Course",
+      "Power BI",
+      "SQL",
+      "Excel"
+    ]
+  },
+  "locationsSEO": {
+    "chennai": {
+      "title": "Data Analysis Course with Placement in Chennai | Uniq Jobs",
+      "description": "Learn Excel, SQL, Power BI, and Python with hands-on data analysis training and job support in Chennai."
+    },
+    "madurai": {
+      "title": "Data Analysis Course in Madurai | Uniq Jobs",
+      "description": "Affordable data analysis training with real-time projects and placement assistance in Madurai."
+    },
+    "trichy": {
+      "title": "Data Analysis Training in Trichy | Uniq Jobs",
+      "description": "Master Excel, SQL, and Power BI with practical, job-focused data analysis training in Trichy."
+    },
+    "coimbatore": {
+      "title": "Best Data Analysis Course with Placement in Coimbatore | Uniq Jobs",
+      "description": "Hands-on data analysis program with industry tools and placement guidance in Coimbatore."
+    },
+    "salem": {
+      "title": "Data Analysis Certification Course in Salem | Uniq Jobs",
+      "description": "Job-oriented data analysis training with practical exercises and career assistance in Salem."
+    },
+    "tirunelveli": {
+      "title": "Best Data Analysis Training with Placement in Thirunelveli | Uniq Jobs",
+      "description": "Build strong data analysis skills with guided, placement-focused training in Thirunelveli."
+    },
+    "Puducherry": {
+      "title": "Data Analysis Course in Puducherry | Uniq Jobs",
+      "description": "Hands-on data analysis training with Excel, SQL, and Power BI at our Puducherry branch."
+    },
+    "bangalore": {
+      "title": "Data Analysis Course with Placement in Bangalore | Uniq Jobs",
+      "description": "Career-focused data analysis program with real-time datasets and job support in Bangalore."
+    }
+  }
+}

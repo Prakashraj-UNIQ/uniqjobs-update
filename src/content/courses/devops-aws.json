@@ -1,0 +1,160 @@
+{
+  "slug": "devops-aws",
+  "courseTitle" :"Devops",
+  "title": "DevOps Training by UNIQ Technologies",
+  "subtitle": "Become a job-ready DevOps Engineer with hands-on training in CI/CD, Docker, Kubernetes, Linux, Git, Jenkins, Ansible, Terraform, AWS Cloud, and Monitoring tools. Master real-time automation workflows and deployment pipelines used by top MNCs.",
+  "banner": {
+    "bgImageUrl": "/images/clsBala.webp",
+    "youtubeId": "KQGozanMRL0",
+    "applyHref": "/contactus"
+  },
+  "afterCompleted": {
+    "title": "Job Opportunities After DevOps Course",
+    "description": "DevOps Engineers are among the highest-paid and most in-demand IT professionals today. After completing the DevOps Course, you can apply for roles such as:",
+    "position": [
+      "DevOps Engineer",
+      "Cloud DevOps Engineer",
+      "Site Reliability Engineer (SRE)",
+      "Build & Release Engineer",
+      "CI/CD Pipeline Engineer",
+      "Automation Engineer",
+      "Infrastructure Engineer"
+    ],
+    "companies": [
+      "TCS",
+      "Infosys",
+      "Accenture",
+      "HCL",
+      "Cognizant",
+      "IBM",
+      "Amazon",
+      "Wipro",
+      "Mahindra"
+    ]
+  },
+  "whychoose": [
+    {
+      "title": "Complete DevOps Stack Coverage",
+      "description": "Learn Git, Linux, Jenkins, Docker, Kubernetes, Ansible, Terraform, AWS, and Monitoring tools.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Real-Time CI/CD Projects",
+      "description": "Hands-on experience with end-to-end build, deployment, and automation pipelines.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "100% Placement Assistance",
+      "description": "Daily job openings, resume preparation, mock interviews, and HR support.",
+      "icon": "placement.svg"
+    },
+    {
+      "title": "Master Industry Tools",
+      "description": "Gain expertise in GitHub, Docker Swarm, Helm, Prometheus, Grafana, and AWS Cloud.",
+      "icon": "mock.svg"
+    },
+    {
+      "title": "Hands-On Practical Approach",
+      "description": "Every module includes labs, assignments, and real-world deployment practice.",
+      "icon": "Practice.svg"
+    },
+    {
+      "title": "Experienced DevOps Mentors",
+      "description": "Learn from professionals with 8–12 years of DevOps and Cloud experience.",
+      "icon": "export.svg"
+    },
+    {
+      "title": "Flexible Schedules",
+      "description": "Attend online/offline classes with weekday or weekend batches.",
+      "icon": "batch.svg"
+    },
+    {
+      "title": "Certification Provided",
+      "description": "Receive DevOps Course Completion & Internship Certificates from UNIQ Technologies.",
+      "icon": "Certificate.svg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is DevOps?",
+      "answer": "DevOps is a combination of development and operations practices focused on automation, CI/CD, containerization, cloud technologies, and continuous monitoring."
+    },
+    {
+      "question": "Do I need coding knowledge?",
+      "answer": "No. Basic understanding of computers is enough. We teach everything from zero."
+    },
+    {
+      "question": "Which tools will I learn?",
+      "answer": "You will learn Git, Linux, Jenkins, Docker, Kubernetes, Ansible, Terraform, AWS, Prometheus, Grafana, and more."
+    },
+    {
+      "question": "Do you provide placement support?",
+      "answer": "Yes. UNIQ Technologies provides 100% placement support with mock interviews and job referrals."
+    },
+    {
+      "question": "Will I work on real-time projects?",
+      "answer": "Yes. You will work on CI/CD pipelines, Docker container deployment, and Kubernetes cluster setup."
+    },
+    {
+      "question": "Can I switch between offline and online mode?",
+      "answer": "Yes. You can attend in either mode anytime without extra charges."
+    },
+    {
+      "question": "What is the duration of the DevOps course?",
+      "answer": "The complete course duration is around 2–3 months depending on batch type."
+    },
+    {
+      "question": "Is DevOps a good career in 2025?",
+      "answer": "Absolutely! DevOps roles are among the highest-paying in the cloud & infrastructure domain."
+    },
+    {
+      "question": "Do I get certificates?",
+      "answer": "Yes. You will receive Course Completion and Internship Certificates."
+    }
+  ],
+  "seo": {
+    "title": "Best DevOps Training with placement in Chennai | Uniq Jobs",
+    "description": "Hands-on DevOps training with CI/CD, Docker, Kubernetes, AWS and full placement support.",
+    "keywords": [
+      "DevOps Training",
+      "CI/CD",
+      "Docker",
+      "Kubernetes",
+      "AWS DevOps"
+    ]
+  },
+  "locationsSEO": {
+    "chennai": {
+      "title": "DevOps Training with Placement in Chennai | Uniq Jobs",
+      "description": "Master Git, Docker, Kubernetes, Jenkins and CI/CD pipelines with hands-on DevOps training and placement support in Chennai."
+    },
+    "madurai": {
+      "title": "DevOps Course in Madurai | Uniq Jobs",
+      "description": "Learn DevOps tools like Git, Docker and Jenkins with mentor-led sessions and placement guidance in Madurai."
+    },
+    "trichy": {
+      "title": "DevOps Training in Trichy | Uniq Jobs",
+      "description": "Practical DevOps training covering Docker, Kubernetes & CI/CD pipelines with job support in Trichy."
+    },
+    "coimbatore": {
+      "title": "Best DevOps Training with Placement in Coimbatore | Uniq Jobs",
+      "description": "Hands-on DevOps training with real-time tools and placement-oriented support in Coimbatore."
+    },
+    "salem": {
+      "title": "DevOps Certification Course in Salem | Uniq Jobs",
+      "description": "Job-focused DevOps training covering automation tools and cloud deployment with career support in Salem."
+    },
+    "tirunelveli": {
+      "title": "Best DevOps Course Training with Placement in Thirunelveli | Uniq Jobs",
+      "description": "Learn DevOps automation, CI/CD and cloud workflows with guided, placement-focused training in Thirunelveli."
+    },
+    "Puducherry": {
+      "title": "DevOps Course in Puducherry | Uniq Jobs",
+      "description": "Hands-on DevOps training covering Docker, Git & Kubernetes with placement guidance in Puducherry."
+    },
+    "bangalore": {
+      "title": "DevOps Training with Placement in Bangalore | Uniq Jobs",
+      "description": "Industry-ready DevOps program with real-time tools, cloud integration and career support in Bangalore."
+    }
+  }
+}

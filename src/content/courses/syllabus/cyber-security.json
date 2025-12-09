@@ -1,0 +1,101 @@
+{
+  "syllabus" : [
+  {
+    "id": "1",
+    "title": "Module 01",
+    "subtitle": "Introduction to Cyber Security",
+    "points": [
+      { "text": "Understanding Cyber Security fundamentals" },
+      { "text": "Types of cyber threats" },
+      { "text": "Cyber attack lifecycle" },
+      { "text": "Basic security terminology" },
+      { "text": "Understanding vulnerabilities and exploits" }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Module 02",
+    "subtitle": "Networking & Security Essentials",
+    "points": [
+      { "text": "Networking basics: OSI & TCP/IP models" },
+      { "text": "Firewalls and intrusion detection systems" },
+      { "text": "Network protocols and packet analysis" },
+      { "text": "VPN, proxies, NAT" },
+      { "text": "Network scanning and monitoring tools" }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Module 03",
+    "subtitle": "Operating System Security",
+    "points": [
+      { "text": "Windows security fundamentals" },
+      { "text": "Linux administration and security" },
+      { "text": "User and access management" },
+      { "text": "System hardening techniques" },
+      { "text": "Log monitoring and auditing" }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Module 04",
+    "subtitle": "Ethical Hacking & Penetration Testing",
+    "points": [
+      { "text": "Reconnaissance and information gathering" },
+      { "text": "Scanning and enumeration" },
+      { "text": "Exploitation fundamentals" },
+      { "text": "Vulnerability assessment tools" },
+      { "text": "Reporting and documentation" }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Module 05",
+    "subtitle": "Web Application Security",
+    "points": [
+      { "text": "OWASP Top 10 vulnerabilities" },
+      { "text": "SQL injection, XSS, CSRF" },
+      { "text": "Session management attacks" },
+      { "text": "Secure coding practices" },
+      { "text": "Web application scanning tools" }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Module 06",
+    "subtitle": "Cloud & Network Security",
+    "points": [
+      { "text": "Cloud security fundamentals" },
+      { "text": "Identity & Access Management (IAM)" },
+      { "text": "Network segmentation" },
+      { "text": "SIEM tools and monitoring" },
+      { "text": "Zero Trust Architecture basics" }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Module 07",
+    "subtitle": "Cyber Laws, Compliance & Risk",
+    "points": [
+      { "text": "Risk management & assessment" },
+      { "text": "Security policies & frameworks (ISO, NIST)" },
+      { "text": "Data protection laws (GDPR, HIPAA basics)" },
+      { "text": "Incident response & recovery" },
+      { "text": "Business continuity planning" }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Module 08",
+    "subtitle": "Final Project & Practical Assignments",
+    "points": [
+      { "text": "Performing a full penetration test simulation" },
+      { "text": "Creating a vulnerability assessment report" },
+      { "text": "Implementing security on a Linux server" },
+      { "text": "Web app security analysis project" },
+      { "text": "Interview preparation & hands-on challenges" }
+    ]
+  }
+]
+
+}

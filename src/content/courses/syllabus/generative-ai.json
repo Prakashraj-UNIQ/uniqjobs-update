@@ -1,0 +1,100 @@
+{
+  "syllabus": [
+    {
+      "id": "1",
+      "title": "Module 01",
+      "subtitle": "Introduction to AI & Generative Models",
+      "points": [
+        { "text": "Overview of Artificial Intelligence" },
+        { "text": "Machine Learning vs Deep Learning vs Generative AI" },
+        { "text": "History and evolution of Generative Models" },
+        { "text": "Types of Generative Models" },
+        { "text": "Applications of Generative AI in real world" }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Module 02",
+      "subtitle": "Python & ML Essentials for GenAI",
+      "points": [
+        { "text": "Python refresher for AI" },
+        { "text": "NumPy, Pandas, Matplotlib basics" },
+        { "text": "Supervised vs Unsupervised Models" },
+        { "text": "Neural Networks basics" },
+        { "text": "Model training, evaluation & optimization" }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Module 03",
+      "subtitle": "Deep Learning Foundations",
+      "points": [
+        { "text": "Introduction to Deep Learning" },
+        { "text": "Understanding tensors and computational graphs" },
+        { "text": "ANN, CNN, RNN basics" },
+        { "text": "Activation functions & loss functions" },
+        { "text": "Training with TensorFlow / PyTorch" }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Module 04",
+      "subtitle": "Generative Models (GAN, VAE & Diffusion)",
+      "points": [
+        { "text": "Generative Adversarial Networks (GANs)" },
+        { "text": "Autoencoders (AE) & Variational Autoencoders (VAE)" },
+        { "text": "Diffusion Models overview (Stable Diffusion, DALL·E)" },
+        { "text": "Image generation fundamentals" },
+        { "text": "Text-to-Image workflows" }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Module 05",
+      "subtitle": "Large Language Models (LLMs)",
+      "points": [
+        { "text": "What are LLMs?" },
+        { "text": "Transformer architecture" },
+        { "text": "Embeddings & tokenization" },
+        { "text": "LLM inference pipelines" },
+        { "text": "Prompt engineering basics" }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Module 06",
+      "subtitle": "Building Real-World GenAI Apps",
+      "points": [
+        { "text": "Chatbot development using LLMs" },
+        { "text": "Text summarization, translation & Q/A apps" },
+        { "text": "Image generation apps using APIs" },
+        { "text": "Speech-to-text & text-to-speech models" },
+        { "text": "Deploying Generative AI apps" }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Module 07",
+      "subtitle": "Fine-Tuning & RAG (Retrieval-Augmented Generation)",
+      "points": [
+        { "text": "Fine-tuning LLMs on custom data" },
+        { "text": "LoRA, QLoRA concepts" },
+        { "text": "Vector databases & embeddings" },
+        { "text": "Building RAG pipelines" },
+        { "text": "Enterprise use-cases of RAG" }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Module 08",
+      "subtitle": "Responsible AI, Security & Final Project",
+      "points": [
+        { "text": "Bias, fairness & ethical considerations" },
+        { "text": "Security risks in GenAI" },
+        { "text": "Safe data handling & compliance" },
+        { "text": "End-to-end real project using LLM/GAN/Diffusion model" },
+        { "text": "Interview preparation & portfolio building" }
+      ]
+    }
+  ]
+}

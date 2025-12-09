@@ -1,0 +1,161 @@
+{
+  "slug": "software-testing",
+  "courseTitle" :"Software Testing",
+  "title": "Master Software Testing with UNIQ Technologies",
+  "subtitle": "Become a professional Software Tester with UNIQ Technologies. Learn Manual Testing, Automation Testing with Selenium, API Testing, Agile Testing, and Testing Tools. This hands-on course prepares you for quality assurance roles and provides real-time project experience with placement support.",
+  "banner": {
+    "bgImageUrl": "/images/clsBala.webp",
+    "youtubeId": "dQw4w9WgXcQ",
+    "applyHref": "/contactus"
+  },
+  "afterCompleted": {
+    "title": "Job Opportunities after Software Testing Course",
+    "description": "After completing our Software Testing course, learners can apply for QA and Testing roles in IT service and product companies. Manual and Automation testing skills are in high demand across multiple domains.",
+    "position": [
+      "QA Engineer / Software Tester",
+      "Automation Tester (Selenium / Cypress)",
+      "API Tester",
+      "Test Analyst / QA Analyst",
+      "Manual Tester / Junior QA Engineer"
+    ],
+    "companies": [
+      "TCS",
+      "Infosys",
+      "HCL",
+      "Accenture",
+      "Cognizant",
+      "Capgemini",
+      "Wipro",
+      "Deloitte"
+    ]
+  },
+  "whychoose": [
+    {
+      "title": "Comprehensive Testing Coverage",
+      "description": "Learn Manual Testing, Automation Testing with Selenium, API Testing, Agile Methodologies, and industry-standard testing tools.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Hands-On Projects",
+      "description": "Work on real-time projects including web app testing, automation scripts, and API testing scenarios.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "100% Placement Support",
+      "description": "Receive guidance and continuous interview opportunities until you get placed.",
+      "icon": "placement.svg"
+    },
+    {
+      "title": "Mock Interviews & Resume Assistance",
+      "description": "Attend mock interviews, technical reviews, and professional resume-building sessions.",
+      "icon": "mock.svg"
+    },
+    {
+      "title": "Practical Learning Approach",
+      "description": "All topics include labs, exercises, and real-world use cases to develop strong testing skills.",
+      "icon": "Practice.svg"
+    },
+    {
+      "title": "Expert Mentors",
+      "description": "Learn from certified QA professionals with 8+ years of industry experience.",
+      "icon": "export.svg"
+    },
+    {
+      "title": "Flexible Batch Timings",
+      "description": "Choose weekday or weekend batches to match your convenience.",
+      "icon": "batch.svg"
+    },
+    {
+      "title": "Recognized Certification",
+      "description": "Get a course completion certificate valued by top IT recruiters.",
+      "icon": "Certificate.svg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is the Software Testing course?",
+      "answer": "This course trains you in both manual and automation testing, covering Selenium, API testing, Agile practices, and QA processes. You'll gain practical experience to work as a professional tester."
+    },
+    {
+      "question": "Who can join this course?",
+      "answer": "Engineering graduates, freshers, diploma holders, and working professionals interested in QA can join. No prior experience is required."
+    },
+    {
+      "question": "What job roles are available after this course?",
+      "answer": "You can apply for QA Engineer, Automation Tester, API Tester, Manual Tester, or Test Analyst roles across IT companies."
+    },
+    {
+      "question": "What tools and technologies will I learn?",
+      "answer": "Selenium WebDriver, Cypress, Postman, JIRA, Agile Testing, TestNG, Automation Scripts, API Testing, and Manual Testing techniques."
+    },
+    {
+      "question": "How long is the course?",
+      "answer": "The course duration is 3–4 months depending on the batch, including hands-on practice and project work."
+    },
+    {
+      "question": "Does the course provide placement support?",
+      "answer": "Yes! UNIQ Technologies offers 100% placement support with continuous interview calls and guidance."
+    },
+    {
+      "question": "Can I rejoin the course if I miss any topic?",
+      "answer": "Absolutely! You can rejoin any future batch at no extra cost with lifetime learning access."
+    },
+    {
+      "question": "Is online training available?",
+      "answer": "Yes, we offer both online and offline live instructor-led sessions."
+    },
+    {
+      "question": "Can I switch between online and offline classes?",
+      "answer": "Yes, you can switch anytime without extra fees."
+    },
+    {
+      "question": "Will I get a certificate?",
+      "answer": "Yes, you will receive a Course Completion Certificate recognized by top IT recruiters."
+    }
+  ],
+  "seo": {
+    "title": "Software Testing Course in Chennai | UNIQ Technologies",
+    "description": "Learn Manual & Automation Testing, Selenium, API Testing, and QA methodologies with hands-on projects and placement support.",
+    "keywords": [
+      "Software Testing",
+      "QA Testing",
+      "Selenium",
+      "Automation Testing",
+      "Manual Testing"
+    ]
+  },
+  "locationsSEO": {
+    "chennai": {
+      "title": "Software Testing Course with Placement in Chennai | Uniq Jobs",
+      "description": "Learn Manual Testing, Automation, Selenium, and QA tools with real-time training and placement support in Chennai."
+    },
+    "madurai": {
+      "title": "Software Testing Course in Madurai | Uniq Jobs",
+      "description": "Affordable Manual & Automation Testing training with mentor-led sessions and placement guidance in Madurai."
+    },
+    "trichy": {
+      "title": "Software Testing Training in Trichy | Uniq Jobs",
+      "description": "Hands-on QA training covering Selenium, Automation, and Manual Testing with job support in Trichy."
+    },
+    "coimbatore": {
+      "title": "Best Software Testing Training with Placement in Coimbatore | Uniq Jobs",
+      "description": "Master QA Testing, Automation tools & Selenium with practical training and placement support in Coimbatore."
+    },
+    "salem": {
+      "title": "Software Testing Course in Salem | Uniq Jobs",
+      "description": "Job-oriented QA and Automation Testing training with hands-on labs and career assistance in Salem."
+    },
+    "tirunelveli": {
+      "title": "Best Software Testing Course with Placement in Thirunelveli | Uniq Jobs",
+      "description": "Build strong testing skills with Manual & Automation training and placement-focused guidance in Thirunelveli."
+    },
+    "Puducherry": {
+      "title": "Software Testing Course in Puducherry | Uniq Jobs",
+      "description": "Learn QA, Automation, and Selenium with hands-on testing practice and job support in Puducherry."
+    },
+    "bangalore": {
+      "title": "Software Testing Course with Placement in Bangalore | Uniq Jobs",
+      "description": "Career-focused Manual & Automation Testing training with real-time tools and job support in Bangalore."
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "syllabus": [
+    {
+      "id": "1",
+      "title": "Module 01",
+      "subtitle": "Introduction to MLOps",
+      "points": [
+        { "text": "Understanding ML lifecycle challenges" },
+        { "text": "What is MLOps and why it matters" },
+        { "text": "MLOps vs DevOps vs Data Engineering" },
+        { "text": "MLOps architecture and components" },
+        { "text": "Key tools used in MLOps" }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Module 02",
+      "subtitle": "Version Control and Experiment Tracking",
+      "points": [
+        { "text": "Git and GitHub basics for ML projects" },
+        { "text": "Data versioning with DVC and LakeFS" },
+        { "text": "Experiment tracking with MLflow" },
+        { "text": "Managing model metadata" },
+        { "text": "Reproducible ML pipelines" }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Module 03",
+      "subtitle": "Data Engineering for MLOps",
+      "points": [
+        { "text": "Data ingestion and preprocessing pipelines" },
+        { "text": "Feature engineering and feature stores" },
+        { "text": "Automating data pipelines with Airflow" },
+        { "text": "Working with unstructured and streaming data" },
+        { "text": "Handling data drift and quality checks" }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Module 04",
+      "subtitle": "Model Training and Automation",
+      "points": [
+        { "text": "Automated training workflows" },
+        { "text": "Hyperparameter tuning: Optuna, Ray Tune" },
+        { "text": "Distributed training techniques" },
+        { "text": "Using Kubeflow Pipelines for orchestration" },
+        { "text": "Resource management & compute optimization" }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Module 05",
+      "subtitle": "Model Deployment",
+      "points": [
+        { "text": "Deployment strategies: batch, real-time, streaming" },
+        { "text": "Deploying with Docker and Kubernetes" },
+        { "text": "Model serving with FastAPI and Flask" },
+        { "text": "Using TensorFlow Serving and TorchServe" },
+        { "text": "CI/CD integration for ML deployment" }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Module 06",
+      "subtitle": "Monitoring and Model Management",
+      "points": [
+        { "text": "Monitoring model accuracy and performance" },
+        { "text": "Model drift detection" },
+        { "text": "Logging and observability tools" },
+        { "text": "Retraining strategies and automation" },
+        { "text": "Model rollback and version management" }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Module 07",
+      "subtitle": "Cloud MLOps",
+      "points": [
+        { "text": "AWS MLOps services (SageMaker, S3, Lambda)" },
+        { "text": "Azure ML and GCP Vertex AI basics" },
+        { "text": "Managed pipelines and model registries" },
+        { "text": "Cloud-based CI/CD for ML" },
+        { "text": "Scaling ML workloads in cloud environments" }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Module 08",
+      "subtitle": "End-to-End MLOps Project",
+      "points": [
+        { "text": "Defining a complete ML business problem" },
+        { "text": "Building data pipelines and feature store" },
+        { "text": "Training, tuning, and tracking experiments" },
+        { "text": "Deploying to production (API or batch)" },
+        { "text": "Monitoring and improving the model continuously" }
+      ]
+    }
+  ]
+}

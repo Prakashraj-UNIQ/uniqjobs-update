@@ -1,0 +1,171 @@
+{
+  "slug": "java-fullstack",
+  "courseTitle" :"Advanced Java Fullstack",
+  "title": "Master Java Full Stack Development with UNIQ Technologies",
+  "subtitle": "Master Java Full Stack Development with UNIQ Technologies Learn how to build complete web applications from front-end to back-end using Java, Spring Boot, React, and SQL. Our hands-on training is designed for freshers and job seekers who aim to become industry-ready Full Stack Developers. With live projects, mentor guidance, and placement support, you’ll gain the exact skills top companies expect.",
+  "banner": {
+    "bgImageUrl": "/images/clsBala.webp",
+    "youtubeId": "m_J0n0lyWL0",
+    "applyHref": "/contactus"
+  },
+  "afterCompleted": {
+    "title": "Job Opportunities after Java Full Stack Course",
+    "description": "The demand for Java professionals continues to grow across product and service companies. After completing our Java Full Stack Developer Course, you can apply for roles such as:",
+    "position": [
+      "Java Developer / Backend Developer",
+      "Full Stack Developer (Java + React / Angular)",
+      "Software Engineer (Web Development)",
+      "Application Developer (Spring Boot + REST API)",
+      "Junior Developer / Trainee Engineer"
+    ],
+    "companies": [
+      "TCS",
+      "Infosys",
+      "HCL",
+      "Accenture",
+      "Cognizant",
+      "Capgemini",
+      "Deloitte",
+      "Mahindra"
+    ]
+  },
+  "whychoose": [
+    {
+      "title": "Full Stack Technology Coverage",
+      "description": "Covers Core Java, Advanced Java, JDBC, Hibernate, Spring Boot, React, SQL.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Real-Time Project Experience",
+      "description": "Gain real-time project experience under industry mentors and work on live applications.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "Guaranteed Placement Support",
+      "description": "Get daily interview opportunities with full placement support until you get placed.",
+      "icon": "placement.svg"
+    },
+    {
+      "title": "Interview & Resume Preparation",
+      "description": "Prepare for interviews with mock sessions and professional resume-building guidance.",
+      "icon": "mock.svg"
+    },
+    {
+      "title": "Hands-On Learning Approach",
+      "description": "Learn by doing — every topic includes coding labs and practical exercises.",
+      "icon": "Practice.svg"
+    },
+    {
+      "title": "Expert Mentors from Top MNCs",
+      "description": "Learn directly from trainers with 10+ years of experience in leading MNCs.",
+      "icon": "export.svg"
+    },
+    {
+      "title": "Flexible Batch Options",
+      "description": "Choose between weekend and weekday batches to match your schedule.",
+      "icon": "batch.svg"
+    },
+    {
+      "title": "Recognized Internship Certification",
+      "description": "Receive an internship certificate from UNIQ Technologies recognized by top recruiters.",
+      "icon": "Certificate.svg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is a Java Full Stack Developer course?",
+      "answer": "A Java Full Stack Developer course trains you to develop complete web applications using both front-end and back-end technologies. At UNIQ Technologies, you’ll learn Core Java, Advanced Java, Spring Boot, React JS, and SQL, preparing you to build real-time, industry-ready applications."
+    },
+    {
+      "question": "Who can join this course?",
+      "answer": "This course is ideal for Engineering and Arts & Science graduates (any stream), freshers who want to start a career in IT, and non-IT graduates who want to switch to software. No prior coding experience is required — we start from scratch."
+    },
+    {
+      "question": "What are the job opportunities after completing this course?",
+      "answer": "You can apply for roles such as Java Developer, Backend Developer, Full Stack Developer (Java + React), Software Engineer, or Application Developer. Our placement cell provides 100% job support with daily interview opportunities until you get placed."
+    },
+    {
+      "question": "What tools and technologies will I learn?",
+      "answer": "You’ll get hands-on experience in Core & Advanced Java, JDBC, Hibernate, Spring Boot, React JS (Frontend), SQL/MySQL (Database), REST API, Git & GitHub."
+    },
+    {
+      "question": "How long is the Java Full Stack course?",
+      "answer": "The duration is around 4–6 months, based on your selected batch (weekday/weekend). Every module includes practical sessions and project work."
+    },
+    {
+      "question": "Does UNIQ Technologies provide placement support?",
+      "answer": "Yes! We provide 100% placement support until you get a job. Our team will help you with mock interviews, resume building, and daily company drives."
+    },
+    {
+      "question": "Can I learn again if I’m not clear about any topic?",
+      "answer": "Absolutely! If you feel unclear about any topic — during or after completing your course, you can rejoin the next batch and learn again. No additional fee will be charged for this — lifetime learning access is included."
+    },
+    {
+      "question": "Can I learn the Java course online?",
+      "answer": "Yes, we provide both Online and Offline training modes. You can attend live interactive online sessions with our trainers from anywhere."
+    },
+    {
+      "question": "After learning online, can I attend offline classes again?",
+      "answer": "Of course! You can shift from online to offline anytime. We’ll schedule your classes in a convenient batch, and no extra fee will be collected for this mode change."
+    },
+    {
+      "question": "Is Java still in demand in 2026?",
+      "answer": "Definitely yes! Java continues to be one of the most in-demand technologies for enterprise and product development. Companies hire Java Full Stack Developers for secure, large-scale web applications."
+    },
+    {
+      "question": "Will I receive a certificate after completing the course?",
+      "answer": "Yes. You’ll receive a Course Completion & Internship Certificate from UNIQ Technologies, recognized by leading IT recruiters."
+    },
+    {
+      "question": "What makes UNIQ Technologies different from other institutes?",
+      "answer": "100% Job-Oriented Curriculum, Trainers from Top MNCs, Real-Time Projects, Lifetime Learning Access (No Extra Fees), Daily Placement Opportunities, and Trusted by 10,000+ Placed Students."
+    },
+    {
+      "question": "How can I enroll for the Java Full Stack Course?",
+      "answer": "You can register online at www.uniqjobs.co.in or visit our branches in Chennai or Bangalore. Call or WhatsApp our counselor to book your free demo session today!"
+    }
+  ],
+  "seo": {
+    "title": "Advanced Java Full Stack Course with Placement in Chennai | Uniq Jobs",
+    "description": "Advanced Java, Spring Boot, React & MySQL training with placement guidance. Let build your career with Us.",
+    "keywords": [
+      "Java Full Stack",
+      "Spring Boot",
+      "React"
+    ]
+  },
+    "locationsSEO": {
+      "chennai": {
+        "title": "Full Stack Java Course with Placement in Chennai | Uniq Jobs",
+        "description": "Build strong Java development skills with structured training and job support in Chennai."
+      },
+      "madurai": {
+        "title": "Java Full Stack Course in Madurai | Uniq Jobs",
+        "description": "Affordable full stack Java course with mentor-led sessions and placement guidance in Madurai."
+      },
+      "trichy": {
+        "title": "Java Full Stack Course in Trichy | Uniq Jobs",
+        "description": "Learn Java, Spring Boot & React with hands-on training and placement support in Trichy"
+      },
+      "coimbatore": {
+        "title": "Best Java Full Stack Course training with placement in coimbatore | Uniq Jobs",
+        "description": "Learn Java, Spring Boot & React with hands-on training and placement support in coimbatore"
+      },
+      "salem": {
+        "title": "Java Full Stack Developer Course in salem | Uniq Jobs",
+        "description": "Job-oriented Java full stack training with hands-on labs and career assistance in Salem."
+      },
+      "tirunelveli": {
+        "title": "Best Java Full Stack Course training with placement in Thirunelveli | uniq jobs",
+        "description": "Build strong Java development skills with guided, placement-oriented training in Thirunelveli."
+      },
+      "Puducherry": {
+        "title": "Java Full Stack Course in Puducherry | uniq jobs",
+        "description": "Hands-on Java, Spring Boot & React training with placement guidance in Puducherry."
+      },
+      "bangalore": {
+        "title": "Java Full Stack Course with placement in Bangalore | Uniq Jobs",
+        "description": "Career-focused Java full stack training with real-time skills and job support in Bangalore."
+      }
+  }
+}

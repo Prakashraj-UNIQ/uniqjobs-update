@@ -1,0 +1,159 @@
+{
+  "slug": "digital-marketing-course",
+  "courseTitle" :"Digital Marketing",
+  "title": "Digital Marketing Course by UNIQ Technologies",
+  "subtitle": "Become an expert in SEO, Social Media Marketing, Google Ads, Content Strategy, Email Marketing, and Analytics. Learn hands-on digital marketing tools with real-time campaign practice and placement support.",
+  "banner": {
+    "bgImageUrl": "/images/clsBala.webp",
+    "youtubeId": "m_J0n0lyWL0",
+    "applyHref": "/contactus"
+  },
+  "afterCompleted": {
+    "title": "Job Opportunities After Digital Marketing Course",
+    "description": "Digital Marketing professionals are in high demand across IT, startups, e-commerce, education, and branding agencies. After completing this course, you can apply for:",
+    "position": [
+      "Digital Marketing Executive",
+      "SEO Analyst",
+      "Social Media Marketing Specialist",
+      "Google Ads Expert",
+      "Content Strategist",
+      "Email Marketing Specialist",
+      "Performance Marketing Analyst",
+      "Digital Campaign Manager"
+    ],
+    "companies": [
+      "Accenture",
+      "TCS",
+      "Infosys",
+      "Zoho",
+      "HCL",
+      "Wipro",
+      "Amazon",
+      "Flipkart"
+    ]
+  },
+  "whychoose": [
+    {
+      "title": "Complete Marketing Curriculum",
+      "description": "Covers SEO, SEM, SMM, Google Ads, YouTube, Email Marketing, Content Strategy, and Analytics.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Live Campaign Practice",
+      "description": "Work on Google Ads, Facebook Ads, Instagram promotions, and real-time SEO projects.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "100% Placement Support",
+      "description": "Dedicated job assistance with resume prep, mock interviews, and portfolio building.",
+      "icon": "placement.svg"
+    },
+    {
+      "title": "Industry Tools Mastery",
+      "description": "Hands-on learning with Google Analytics, Search Console, Canva, SEMrush, Mailchimp, and more.",
+      "icon": "mock.svg"
+    },
+    {
+      "title": "Hands-On Assignments",
+      "description": "Weekly tasks, case studies, and practice datasets to strengthen your marketing skills.",
+      "icon": "Practice.svg"
+    },
+    {
+      "title": "Expert Digital Marketers",
+      "description": "Learn from industry professionals with 8+ years of experience.",
+      "icon": "export.svg"
+    },
+    {
+      "title": "Flexible Learning Modes",
+      "description": "Online and offline training with weekday & weekend batch options.",
+      "icon": "batch.svg"
+    },
+    {
+      "title": "Certification Included",
+      "description": "Receive Course Completion & Internship Certificates from UNIQ Technologies.",
+      "icon": "Certificate.svg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Digital Marketing?",
+      "answer": "Digital Marketing refers to promoting products and services online using SEO, social media, ads, content, and email marketing strategies."
+    },
+    {
+      "question": "Is this course suitable for beginners?",
+      "answer": "Yes. No prior experience is needed. We start from the fundamentals of marketing and digital platforms."
+    },
+    {
+      "question": "What tools will I learn?",
+      "answer": "You will learn Google Analytics, Search Console, Google Ads, Canva, Keyword Planner, SEMrush, Facebook Ads Manager, and more."
+    },
+    {
+      "question": "Do you provide job assistance?",
+      "answer": "Yes! UNIQ Technologies provides 100% placement support with interview preparation."
+    },
+    {
+      "question": "Will I work on live projects?",
+      "answer": "Yes. You will run real Google Ads and Social Media campaigns under trainer guidance."
+    },
+    {
+      "question": "Can I switch between online and offline?",
+      "answer": "Yes, you can attend in any mode anytime."
+    },
+    {
+      "question": "How long is the course?",
+      "answer": "The course duration is 1 to 1.5 months depending on batch type."
+    },
+    {
+      "question": "Do I get certificates?",
+      "answer": "Yes. You will receive both Course Completion and Internship Certificates."
+    },
+    {
+      "question": "Is Digital Marketing in demand?",
+      "answer": "Yes! Every company requires digital marketers, making it one of the fastest-growing career fields."
+    }
+  ],
+  "seo": {
+    "title": "Best Digital Marketing Course in Chennai | Uniq Jobs",
+    "description": "Learn SEO, Google Ads, Social Media Marketing, and Content Strategy with real-time practical training and placement support.",
+    "keywords": [
+      "Digital Marketing",
+      "SEO Course",
+      "Google Ads",
+      "Social Media Marketing"
+    ]
+  },
+  "locationsSEO": {
+    "chennai": {
+      "title": "Digital Marketing Course with Placement in Chennai | Uniq Jobs",
+      "description": "Master SEO, SEM, Social Media, and Google Ads with hands-on digital marketing training and job support in Chennai."
+    },
+    "madurai": {
+      "title": "Digital Marketing Course in Madurai | Uniq Jobs",
+      "description": "Affordable digital marketing course with mentor-led sessions and placement guidance in Madurai."
+    },
+    "trichy": {
+      "title": "Digital Marketing Training in Trichy | Uniq Jobs",
+      "description": "Learn SEO, Analytics & Social Media Marketing with practical training and job assistance in Trichy."
+    },
+    "coimbatore": {
+      "title": "Best Digital Marketing Training with Placement in Coimbatore | Uniq Jobs",
+      "description": "Hands-on digital marketing course with real-time tools and placement support in Coimbatore."
+    },
+    "salem": {
+      "title": "Digital Marketing Certification Course in Salem | Uniq Jobs",
+      "description": "Job-oriented digital marketing training with live projects and career assistance in Salem."
+    },
+    "tirunelveli": {
+      "title": "Best Digital Marketing Training with Placement in Thirunelveli | Uniq Jobs",
+      "description": "Learn SEO, Google Ads, and Social Media Marketing with guided, placement-focused training in Thirunelveli."
+    },
+    "Puducherry": {
+      "title": "Digital Marketing Course in Puducherry | Uniq Jobs",
+      "description": "Hands-on digital marketing training with SEO, SEM, and SMM modules and job guidance in Puducherry."
+    },
+    "bangalore": {
+      "title": "Digital Marketing Course with Placement in Bangalore | Uniq Jobs",
+      "description": "Career-focused digital marketing training with real-time projects and job support in Bangalore."
+    }
+  }
+}

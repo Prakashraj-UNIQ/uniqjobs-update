@@ -1,0 +1,175 @@
+{
+  "slug": "cyber-security",
+  "courseTitle" :"Cyber Security",
+  "title": "Master Cyber Security with UNIQ Technologies",
+  "subtitle": "Become an in-demand Cyber Security Professional with UNIQ Technologies. Learn Ethical Hacking, Network Security, Vulnerability Assessment, Penetration Testing, Cloud Security, and SOC operations. With hands-on labs, real-world attack simulations, and placement support, this course prepares you for high-paying cybersecurity careers.",
+  "banner": {
+    "bgImageUrl": "/images/clsBala.webp",
+    "youtubeId": "m_J0n0lyWL0",
+    "applyHref": "/contactus"
+  },
+  "afterCompleted": {
+    "title": "Job Opportunities after Cyber Security Course",
+    "description": "Cyber Security is one of the fastest-growing high-salary fields. After completing the Cyber Security Course, you can apply for roles such as:",
+    "position": [
+      "Cyber Security Analyst",
+      "Ethical Hacker",
+      "SOC Analyst (Level 1/2)",
+      "Penetration Tester",
+      "Network Security Engineer",
+      "Information Security Analyst",
+      "Security Operations Engineer",
+      "Vulnerability Assessment Engineer"
+    ],
+    "companies": [
+      "K7",
+      "Infosys",
+      "Accenture",
+      "Ey",
+      "Deloitte",
+      "Cognizant",
+      "TCS",
+      "IBM"
+    ]
+  },
+  "whychoose": [
+    {
+      "title": "Industry-Level Cybersecurity Tools",
+      "description": "Learn Nmap, Burp Suite, Wireshark, Metasploit, Nessus, Kali Linux tools, and more.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Hands-On Real-World Attacks",
+      "description": "Perform real-time hacking labs and security testing like industry professionals.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "100% Placement Assistance",
+      "description": "Get continuous job support with daily interview opportunities.",
+      "icon": "placement.svg"
+    },
+    {
+      "title": "Interview & Resume Training",
+      "description": "Mock interviews, resume building, and HR preparation.",
+      "icon": "mock.svg"
+    },
+    {
+      "title": "Practical SOC Training",
+      "description": "Hands-on SOC operations, SIEM tools, log analysis, threat monitoring.",
+      "icon": "Practice.svg"
+    },
+    {
+      "title": "Expert Security Mentors",
+      "description": "Learn from Security Engineers and Ethical Hackers with 10+ years of experience.",
+      "icon": "export.svg"
+    },
+    {
+      "title": "Flexible Learning Options",
+      "description": "Weekend and weekday batches available for students & working professionals.",
+      "icon": "batch.svg"
+    },
+    {
+      "title": "Recognized Internship Certificate",
+      "description": "Earn an internship certificate valued by cybersecurity recruiters.",
+      "icon": "Certificate.svg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is the Cyber Security course?",
+      "answer": "This course trains you in ethical hacking, network security, penetration testing, cloud security, and SOC operations to prepare you for cybersecurity roles."
+    },
+    {
+      "question": "Who can join this course?",
+      "answer": "Anyone can join — students, freshers, and working professionals. No prior technical or coding knowledge required."
+    },
+    {
+      "question": "What job roles can I apply for after this course?",
+      "answer": "You can apply for Cyber Security Analyst, SOC Analyst, Ethical Hacker, Security Engineer, and Penetration Tester roles."
+    },
+    {
+      "question": "What tools will I learn?",
+      "answer": "Kali Linux, Nmap, Burp Suite, Metasploit, Wireshark, Nessus, SIEM tools, and more."
+    },
+    {
+      "question": "Is this course beginner-friendly?",
+      "answer": "Yes, we start from fundamentals and gradually move to advanced security concepts and hands-on hacking labs."
+    },
+    {
+      "question": "How long is the course?",
+      "answer": "The duration is 3–5 months depending on your batch schedule."
+    },
+    {
+      "question": "Does UNIQ Technologies provide placement support?",
+      "answer": "Yes, we provide complete placement assistance until you get placed in a good cybersecurity job."
+    },
+    {
+      "question": "Is online training available?",
+      "answer": "Yes, the course is available in both online and offline modes."
+    },
+    {
+      "question": "Can I switch between online and offline classes?",
+      "answer": "Yes, you can switch anytime — no extra fees required."
+    },
+    {
+      "question": "Is Cyber Security in demand in 2026?",
+      "answer": "Absolutely! Cybercrime is increasing, and companies are hiring cybersecurity engineers aggressively."
+    },
+    {
+      "question": "Will I receive a certificate?",
+      "answer": "Yes. You will receive a Course Completion Certificate and an Internship Certificate recognized by companies."
+    },
+    {
+      "question": "Why choose UNIQ Technologies for Cyber Security training?",
+      "answer": "Real-time labs, expert trainers, lifetime learning access, and strong placement support make UNIQ Technologies the top choice."
+    },
+    {
+      "question": "How do I enroll?",
+      "answer": "You can enroll through www.uniqjobs.co.in or visit our branches in Chennai or Bangalore for a free demo session."
+    }
+  ],
+  "seo": {
+    "title": "Best Cyber Security Course in Chennai | UniqJobs",
+    "description": "Learn Ethical Hacking, Network Security, SOC, and Penetration Testing with hands-on labs and placement support.",
+    "keywords": [
+      "Cyber Security",
+      "Ethical Hacking",
+      "SOC Analyst",
+      "Network Security"
+    ]
+  },
+  "locationsSEO": {
+    "chennai": {
+      "title": "Cyber Security Course with Placement in Chennai | Uniq Jobs",
+      "description": "Learn ethical hacking, network security, and SOC operations with hands-on training and job support in Chennai."
+    },
+    "madurai": {
+      "title": "Cyber Security Course in Madurai | Uniq Jobs",
+      "description": "Affordable cyber security training with real-time labs and placement guidance in Madurai."
+    },
+    "trichy": {
+      "title": "Cyber Security Training in Trichy | Uniq Jobs",
+      "description": "Master ethical hacking, security tools, and incident response with practical sessions in Trichy."
+    },
+    "coimbatore": {
+      "title": "Best Cyber Security Training with Placement in Coimbatore | Uniq Jobs",
+      "description": "Hands-on cyber security program with industry-grade labs and job support in Coimbatore."
+    },
+    "salem": {
+      "title": "Cyber Security Certification Course in Salem | Uniq Jobs",
+      "description": "Job-focused cyber security training with live attack simulations and career assistance in Salem."
+    },
+    "tirunelveli": {
+      "title": "Cyber Security Training with Placement in Thirunelveli | Uniq Jobs",
+      "description": "Develop strong cyber defense skills with guided, placement-oriented training in Thirunelveli."
+    },
+    "Puducherry": {
+      "title": "Cyber Security Course in Puducherry | Uniq Jobs",
+      "description": "Practical cyber security training with hands-on tools and placement guidance in Puducherry."
+    },
+    "bangalore": {
+      "title": "Cyber Security Course with Placement in Bangalore | Uniq Jobs",
+      "description": "Industry-driven cyber security training with SOC, SIEM, and job support in Bangalore."
+    }
+  }
+}

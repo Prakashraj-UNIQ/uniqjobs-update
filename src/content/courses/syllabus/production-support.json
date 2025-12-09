@@ -1,0 +1,72 @@
+{
+  "syllabus": [
+    {
+      "id": "01",
+      "title": "Module 01",
+      "subtitle": "Python Programming",
+      "points": [
+        { "text": "Introduction to Python programming basics" },
+        { "text": "Variables and Data types" },
+        { "text": "Operators" },
+        { "text": "Control flow: if statements and loops" },
+        { "text": "Functions and modules in Python" },
+        { "text": "String manipulation and list comprehension in Python" },
+        { "text": "File handling: reading from and writing to files" },
+        { "text": "Exception handling and debugging techniques" },
+        { "text": "Object-oriented programming concepts" },
+        { "text": "Classes and Objects" },
+        { "text": "Inheritance" },
+        { "text": "Libraries and package management using pip and virtual environments" },
+        { "text": "Working with data structures: dictionaries, sets, tuples" },
+        { "text": "Functional programming concepts: lambda functions, map, filter, reduce" },
+        { "text": "Regular expressions: pattern matching" },
+        { "text": "Python's standard library modules: os, datetime" }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Module 02",
+      "subtitle": "SQL and Databases",
+      "points": [
+        { "text": "Basic SQL queries: SELECT, INSERT, UPDATE, DELETE" },
+        { "text": "Advanced SQL queries: JOINs, Subqueries" },
+        { "text": "Database design principles and normalization" },
+        { "text": "Introduction to Snowflake platform and architecture" },
+        { "text": "Basics of ETL (Extract, Transform, Load) processes" }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Module 03",
+      "subtitle": "Data Manipulation and Analysis",
+      "points": [
+        { "text": "Advanced Pandas techniques: grouping, pivoting, merging" },
+        { "text": "Data cleaning and preprocessing techniques" },
+        { "text": "Working with unstructured data: JSON, XML using Python and Pandas" }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Module 04",
+      "subtitle": "REST API Development",
+      "points": [
+        { "text": "Understanding REST architecture and principles" },
+        { "text": "Building RESTful APIs using Flask framework in Python" },
+        { "text": "Consuming and integrating REST APIs into ETL pipelines" }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "Module 05",
+      "subtitle": "Advanced Topics and Cloud",
+      "points": [
+        { "text": "Advanced SQL concepts: window functions, indexes" },
+        { "text": "Advanced Python topics: decorators, generators, concurrency" },
+        { "text": "Cloud concepts: Cloud, SaaS, AWS" },
+        { "text": "IAM, S3, EC2" },
+        { "text": "Comprehensive review and Q&A sessions" },
+        { "text": "Preparation for certification or advanced projects" }
+      ]
+    }
+  ]
+}

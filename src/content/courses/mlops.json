@@ -1,0 +1,155 @@
+{
+  "slug": "production-support",
+  "courseTitle" :"Production Support",
+  "title": "Master Production Support with UNIQ Technologies",
+  "subtitle": "Become a job-ready Production Support Engineer with UNIQ Technologies. Learn real-time support operations, monitoring tools, incident management, SQL, UNIX, ticketing systems, log analysis, and automation skills used in top IT companies. Designed for freshers and IT job seekers aiming for stable, high-demand support roles.",
+  "banner": {
+    "bgImageUrl": "/images/clsBala.webp",
+    "youtubeId": "m_J0n0lyWL0",
+    "applyHref": "/contactus"
+  },
+  "afterCompleted": {
+    "title": "Job Opportunities after Production Support Course",
+    "description": "Production Support roles are among the most in-demand and easiest entry points for IT jobs. After completing our training, you can apply for roles such as:",
+    "position": [
+      "Application Support Engineer",
+      "Production Support Engineer",
+      "Technical Support Engineer (L1/L2)",
+      "Monitoring Engineer",
+      "SQL & UNIX Support Analyst",
+      "Site Reliability Support (Entry Level)",
+      "IT Operations Specialist"
+    ],
+    "companies": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Cognizant",
+      "HCL",
+      "Capgemini",
+      "Mindtree"
+    ]
+  },
+  "whychoose": [
+    {
+      "title": "Real-Time Support Scenario Training",
+      "description": "Learn actual production issues, RCA, logs, alerts, downtime management, and on-call responsibilities.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "SQL + UNIX Included",
+      "description": "Master essential SQL queries and UNIX commands used daily by support engineers.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Ticketing Tools Training",
+      "description": "Hands-on with ServiceNow/JIRA ticketing—incident, request, change, and problem management.",
+      "icon": "mock.svg"
+    },
+    {
+      "title": "Monitoring Tools",
+      "description": "Learn real-time monitoring tools such as Grafana, Kibana, CloudWatch basics, and alert handling.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "100% Placement Support",
+      "description": "Dedicated placement team, mock interviews, technical revision, and daily job openings until you get placed.",
+      "icon": "placement.svg"
+    },
+    {
+      "title": "Beginner-Friendly",
+      "description": "No coding or technical background needed—ideal for freshers and career switchers.",
+      "icon": "batch.svg"
+    },
+    {
+      "title": "Industry Expert Trainers",
+      "description": "Learn from real Production Support engineers working in top MNCs.",
+      "icon": "export.svg"
+    },
+    {
+      "title": "Internship Certification",
+      "description": "Receive a recognized Internship Certificate from UNIQ Technologies.",
+      "icon": "Certificate.svg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What does a Production Support Engineer do?",
+      "answer": "A Production Support Engineer manages applications in live environments, handles incidents, monitors systems, resolves issues, analyses logs, runs SQL queries, checks UNIX systems, and ensures smooth application performance."
+    },
+    {
+      "question": "Do I need coding knowledge?",
+      "answer": "No. Production Support mainly involves troubleshooting, SQL queries, UNIX commands, ticketing tools, and monitoring—not coding."
+    },
+    {
+      "question": "Is Production Support a good career for freshers?",
+      "answer": "Yes! It is one of the easiest entry points into the IT industry, with strong job demand across MNCs."
+    },
+    {
+      "question": "Do you teach tools like ServiceNow?",
+      "answer": "Yes. You will learn incident, request, change, and problem management using ServiceNow/JIRA."
+    },
+    {
+      "question": "What technologies do I learn?",
+      "answer": "You will learn SQL, UNIX, shell scripting basics, monitoring tools, log analysis, ITIL concepts, and cloud basics for support."
+    },
+    {
+      "question": "Do you provide placement support?",
+      "answer": "Yes, we provide 100% placement support until you get placed, including mock interviews and resume building."
+    },
+    {
+      "question": "Can I shift from online to offline?",
+      "answer": "Yes. You can switch anytime without additional charges."
+    },
+    {
+      "question": "Will I get certification?",
+      "answer": "Yes. You receive a Course Completion & Internship Certificate valid for IT job applications."
+    }
+  ],
+  "seo": {
+    "title": "Production Support Training in Chennai | Uniq Jobs",
+    "description": "Hands-on Production Support training with ticketing tools, SQL, UNIX, monitoring tools, and placement support.",
+    "keywords": [
+      "Production Support",
+      "Application Support",
+      "IT Support Course",
+      "SQL UNIX Support",
+      "ServiceNow Training"
+    ]
+  },
+  "locationsSEO": {
+    "chennai": {
+      "title": "MLOps Training with Placement in Chennai | Uniq Jobs",
+      "description": "Learn CI/CD for ML, ML pipelines, Docker, Kubernetes, and Model Deployment with job-focused MLOps training in Chennai."
+    },
+    "madurai": {
+      "title": "MLOps Course in Madurai | Uniq Jobs",
+      "description": "Hands-on MLOps training with real-time ML pipeline building and placement guidance in Madurai."
+    },
+    "trichy": {
+      "title": "MLOps Training in Trichy | Uniq Jobs",
+      "description": "Master MLOps, model deployment, and automation workflows with practical labs and job support in Trichy."
+    },
+    "coimbatore": {
+      "title": "Best MLOps Training with Placement in Coimbatore | Uniq Jobs",
+      "description": "Learn ML lifecycle automation, CI/CD, Docker & Kubernetes with career support in Coimbatore."
+    },
+    "salem": {
+      "title": "MLOps Certification Course in Salem | Uniq Jobs",
+      "description": "Job-oriented MLOps training with hands-on tools and model deployment practice in Salem."
+    },
+    "tirunelveli": {
+      "title": "MLOps Course with Placement in Thirunelveli | Uniq Jobs",
+      "description": "Gain practical skills in MLOps automation, monitoring, and deployment with expert guidance in Thirunelveli."
+    },
+    "Puducherry": {
+      "title": "MLOps Training in Puducherry | Uniq Jobs",
+      "description": "Work on real-time MLOps projects including ML pipelines and cloud deployment with placement support in Puducherry."
+    },
+    "bangalore": {
+      "title": "MLOps Training with Placement in Bangalore | Uniq Jobs",
+      "description": "Industry-focused MLOps course covering Docker, Kubernetes, MLflow & CI/CD with job assistance in Bangalore."
+    }
+  }
+}

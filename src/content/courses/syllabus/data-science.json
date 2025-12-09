@@ -1,0 +1,101 @@
+{
+  "syllabus" : [
+  {
+    "id": "1",
+    "title": "Module 01",
+    "subtitle": "Introduction to Data Science",
+    "points": [
+      { "text": "What is Data Science and its lifecycle" },
+      { "text": "Roles: Data Scientist, Analyst, Engineer" },
+      { "text": "Applications of Data Science" },
+      { "text": "Overview of tools: Python, Jupyter, Git" },
+      { "text": "Problem-solving using data" }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Module 02",
+    "subtitle": "Python for Data Science",
+    "points": [
+      { "text": "NumPy for numerical computation" },
+      { "text": "Pandas for data manipulation" },
+      { "text": "Matplotlib & Seaborn for visualization" },
+      { "text": "Data cleaning and preprocessing techniques" },
+      { "text": "Working with large datasets" }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Module 03",
+    "subtitle": "Statistics & Probability",
+    "points": [
+      { "text": "Descriptive and inferential statistics" },
+      { "text": "Probability distributions" },
+      { "text": "Hypothesis testing and p-values" },
+      { "text": "Correlation vs causation" },
+      { "text": "Statistical significance in Data Science" }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Module 04",
+    "subtitle": "Machine Learning Fundamentals",
+    "points": [
+      { "text": "Supervised vs unsupervised learning" },
+      { "text": "Regression and classification algorithms" },
+      { "text": "Clustering: K-Means, Hierarchical" },
+      { "text": "Feature engineering and selection" },
+      { "text": "Overfitting, underfitting, regularization" }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Module 5: Advanced Machine Learning",
+    "subtitle": "Data Science",
+    "points": [
+      { "text": "Decision trees, Random Forest, XGBoost" },
+      { "text": "Support Vector Machines (SVM)" },
+      { "text": "Ensemble methods and boosting" },
+      { "text": "Model evaluation metrics" },
+      { "text": "Cross-validation and tuning hyperparameters" }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Module 6: Deep Learning & Neural Networks",
+    "subtitle": "Data Science",
+    "points": [
+      { "text": "Introduction to neural networks" },
+      { "text": "Activation functions, loss functions" },
+      { "text": "Training deep learning models" },
+      { "text": "Intro to TensorFlow and PyTorch" },
+      { "text": "Use cases: NLP, Computer Vision, Speech" }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Module 7: Data Visualization & Storytelling",
+    "subtitle": "Data Science",
+    "points": [
+      { "text": "Principles of effective visualization" },
+      { "text": "Dashboards using Power BI and Tableau" },
+      { "text": "Building interactive visualizations" },
+      { "text": "Storytelling with data" },
+      { "text": "Creating reports for business stakeholders" }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Module 8: End-to-End Data Science Project",
+    "subtitle": "Data Science",
+    "points": [
+      { "text": "Defining a real-world business problem" },
+      { "text": "Collecting and cleaning raw data" },
+      { "text": "Building ML models and evaluating performance" },
+      { "text": "Deploying the model (Flask/Streamlit)" },
+      { "text": "Presenting results and insights" }
+    ]
+  }
+]
+
+}

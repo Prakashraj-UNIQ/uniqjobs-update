@@ -1,0 +1,184 @@
+{
+    "courses": [
+        {
+            "slug": "java-fullstack",
+            "title": "Java Full Stack Developer",
+            "description": "Massive job openings in MNCs. Get placed with in-demand skills",
+            "avgSalary": "₹6L - ₹15L PA",
+            "icon": "/svg/courses/java.svg",
+            "cta": {
+                "label": "Learn More",
+                "href": "/courses/java-fullstack"
+            },
+            "category": "popular"
+        },
+        {
+            "slug": "python-fullstack",
+            "title": "Python Full Stack Developer",
+            "description": "Huge demand in startups & AI-driven companies worldwide and growing.",
+            "avgSalary": "₹5L – ₹12L PA",
+            "icon": "/svg/courses/python.svg",
+            "cta": {
+                "label": "Learn More",
+                "href": "/courses/python-fullstack"
+            },
+            "category": "popular"
+        },
+        {
+            "slug": "dotnet-fullstack",
+            "title": "Dotnet Fullstack Development",
+            "description": "Strong demand in banking, healthcare, and ERP sectors",
+            "avgSalary": "₹6L – ₹14L PA",
+            "icon": "/svg/courses/dotnet.svg",
+            "cta": {
+                "label": "Learn More",
+                "href": "/courses/dotnet-fullstack"
+            },
+            "category": "popular"
+        },
+        {
+            "slug": "data-engineering",
+            "title": "Data Engineering",
+            "description": "Moderate job openings across MNCs and product teams",
+            "avgSalary": "₹5L – ₹12L PA",
+            "icon": "/svg/courses/dataEngineering.svg",
+            "cta": {
+                "label": "Learn More",
+                "href": "/courses/data-engineering"
+            },
+            "category": "popular"
+        },
+        {
+            "slug": "production-support",
+            "title": "IT Production Support",
+            "description": "Great for those looking to build stability before switching roles",
+            "avgSalary": "₹4L – ₹10L PA",
+            "icon": "/svg/courses/production.svg",
+            "cta": {
+                "label": "Learn More",
+                "href": "/courses/production-support"
+            },
+            "category": "popular"
+        },
+        {
+            "slug": "devops-aws",
+            "title": "DevOps/Amazon Web Services",
+            "description": "Excellent for candidates with gaps or domain switchers seeking growth",
+            "avgSalary": "₹4L – ₹10L PA",
+            "icon": "/svg/courses/devops.svg",
+            "cta": {
+                "label": "Learn More",
+                "href": "/courses/devops-aws"
+            },
+            "category": "popular"
+        },
+        {
+            "slug": "cyber-security",
+            "title": "Cyber Security",
+            "description": "High demand for security analysts and ethical hackers across enterprises",
+            "avgSalary": "₹5L – ₹12L PA",
+            "icon": "/svg/courses/cyber.svg",
+            "cta": {
+                "label": "Learn More",
+                "href": "/courses/cyber-security"
+            },
+            "category": "trending"
+        },
+        {
+            "slug": "generative-ai",
+            "title": "Generative AI",
+            "description": "Learn AI models, prompt engineering, and build AI-powered applications",
+            "avgSalary": "₹6L – ₹15L PA",
+            "icon": "/svg/courses/ai.svg",
+            "cta": {
+                "label": "Learn More",
+                "href": "/courses/generative-ai"
+            },
+            "category": "trending"
+        },
+        {
+            "slug": "mlops",
+            "title": "MLOps",
+            "description": "Deploy and manage machine learning models in production efficiently",
+            "avgSalary": "₹6L – ₹14L PA",
+            "icon": "/svg/courses/mlops.svg",
+            "cta": {
+                "label": "Learn More",
+                "href": "/courses/mlops"
+            },
+            "category": "trending"
+        },
+        {
+            "slug": "data-science",
+            "title": "Data Science",
+            "description": "Become a data scientist by mastering statistics, ML, and data visualization",
+            "avgSalary": "₹5L – ₹12L PA",
+            "icon": "/svg/courses/dataScience.svg",
+            "cta": {
+                "label": "Learn More",
+                "href": "/courses/data-science"
+            },
+            "category": "trending"
+        },
+        {
+            "slug": "data-analysis",
+            "title": "Data Analysis",
+            "description": "Learn data manipulation, reporting, and insights using Python & Excel",
+            "avgSalary": "₹4L – ₹10L PA",
+            "icon": "/svg/courses/dataAnalysis.svg",
+            "cta": {
+                "label": "Learn More",
+                "href": "/courses/data-analysis"
+            },
+            "category": "trending"
+        },
+        {
+            "slug": "power-bi",
+            "title": "Power BI",
+            "description": "Business intelligence and visualization using Microsoft Power BI",
+            "avgSalary": "₹4L – ₹11L PA",
+            "icon": "/svg/courses/powerbi.svg",
+            "cta": {
+                "label": "Learn More",
+                "href": "/courses/power-bi"
+            },
+            "category": "trending"
+        },
+        {
+            "slug": "digital-marketing",
+            "title": "Digital Marketing",
+            "description": "Master SEO, SEM, social media marketing, and online campaigns",
+            "avgSalary": "₹3L – ₹8L PA",
+            "icon": "/svg/courses/marketing.svg",
+            "cta": {
+                "label": "Learn More",
+                "href": "/courses/digital-marketing"
+            },
+            "category": "new"
+        },
+        {
+            "slug": "cloud-fundamentals",
+            "title": "Cloud Fundamentals",
+            "description": "Learn cloud computing concepts and deploy applications using AWS/Azure",
+            "avgSalary": "₹4L – ₹10L PA",
+            "icon": "/svg/courses/cloud.svg",
+            "cta": {
+                "label": "Learn More",
+                "href": "/courses/cloud-fundamentals"
+            },
+            "category": "new"
+        },
+        {
+            "slug": "sql-unix",
+            "title": "SQL & UNIX",
+            "description": "Master database management, queries, and UNIX shell scripting",
+            "avgSalary": "₹4L – ₹10L PA",
+            "icon": "/svg/courses/sqlunix.svg",
+            "cta": {
+                "label": "Learn More",
+                "href": "/courses/sql-unix"
+            },
+            "category": "new"
+        }
+    ]
+}

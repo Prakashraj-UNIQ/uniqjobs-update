@@ -1,0 +1,499 @@
+{
+  "syllabus" : [
+  {
+    "id": "01",
+    "title": "Module 01",
+    "subtitle": "Introduction to Java",
+    "points": [
+      {
+        "text": "Overview of Java: Definition and purpose, History and evolution"
+      },
+      {
+        "text": "Java’s Platform Independence: Write Once Run Anywhere (WORA), Bytecode, JVM"
+      },
+      {
+        "text": "Java Editions: Java SE, Java EE, Java ME"
+      },
+      {
+        "text": "Object-Oriented Features: Encapsulation, Inheritance, Polymorphism, Abstraction"
+      },
+      {
+        "text": "Platform-Independent Nature: JVM architecture"
+      },
+      {
+        "text": "Simple and Secure Design: Simplified syntax, Security features"
+      },
+      {
+        "text": "Robust and Multithreaded: Memory management, Multithreading support"
+      },
+      {
+        "text": "High Performance: Just-In-Time (JIT) Compiler"
+      },
+      {
+        "text": "Distributed Computing: Networking capabilities"
+      },
+      {
+        "text": "Comparison of C, C++ and Java: Memory management, Object-oriented features, Platform dependency, Use cases"
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "title": "Module 02",
+    "subtitle": "Java Development Environment",
+    "points": [
+      {
+        "text": "JDK (Java Development Kit): Tools such as compiler and debugger"
+      },
+      {
+        "text": "JRE (Java Runtime Environment): Components and role"
+      },
+      {
+        "text": "JVM (Java Virtual Machine): Architecture and bytecode execution"
+      },
+      {
+        "text": "Installing Java: Downloading and setting up JDK"
+      },
+      {
+        "text": "Integrated Development Environments: Eclipse, IntelliJ IDEA, NetBeans"
+      },
+      {
+        "text": "Configuring IDEs: Setting up JDK and basic navigation"
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "title": "Module 03",
+    "subtitle": "Core Java Concepts",
+    "points": [
+      {
+        "text": "Classes and Objects: Defining classes, fields, methods, constructors"
+      },
+      {
+        "text": "Creating Objects: Instantiation using new keyword"
+      },
+      {
+        "text": "Object Lifecycle: Creation, usage, garbage collection"
+      },
+      {
+        "text": "Variables: Primitive (byte, short, int, long, float, double, char, boolean) and Reference (objects, arrays)"
+      },
+      {
+        "text": "Variable Scope and Lifetime: Local, instance, static"
+      },
+      {
+        "text": "Methods: Declaration, syntax, return types, parameters"
+      },
+      {
+        "text": "Parameter Passing: Pass-by-value"
+      },
+      {
+        "text": "Method Overloading and Overriding: Compile-time and runtime polymorphism"
+      },
+      {
+        "text": "Packages: Declaration, directory structure, importing, access specifiers (public, private, protected, default)"
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "title": "Module 04",
+    "subtitle": "Object-Oriented Programming (OOP) Concepts",
+    "points": [
+      {
+        "text": "Inheritance: Single, Multilevel, Hierarchical, Hybrid"
+      },
+      {
+        "text": "Superclass and Subclass: Extending classes, super keyword usage"
+      },
+      {
+        "text": "Polymorphism: Compile-time (overloading) and Runtime (overriding, dynamic dispatch)"
+      },
+      {
+        "text": "Encapsulation: Private fields, getters, setters, benefits"
+      },
+      {
+        "text": "Abstraction: Abstract classes, interfaces, key differences"
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "title": "Module 05",
+    "subtitle": "Control Flow in Java",
+    "points": [
+      {
+        "text": "Conditional Statements: if-else, nested if-else"
+      },
+      {
+        "text": "Switch Statements: Syntax, use cases, enhanced switch (Java 14+)"
+      },
+      {
+        "text": "Ternary Operator: Syntax and examples"
+      },
+      {
+        "text": "Loops: for, enhanced for-each, while, do-while"
+      },
+      {
+        "text": "Break and Continue Statements: Exiting and skipping iterations"
+      },
+      {
+        "text": "Nested Loops: Multi-level iteration"
+      },
+      {
+        "text": "Best Practices for Loops and Conditionals: Efficiency, readability, avoiding pitfalls"
+      }
+    ]
+  },
+  {
+    "id": "06",
+    "title": "Module 06",
+    "subtitle": "Advanced Java Concepts",
+    "points": [
+      {
+        "text": "Object Class: Root of class hierarchy, common methods (toString, equals, hashCode, clone, finalize)"
+      },
+      {
+        "text": "String Handling: String class methods, immutability, StringBuilder, StringBuffer"
+      },
+      {
+        "text": "Exception Handling: try-catch, throw, throws, custom exceptions"
+      },
+      {
+        "text": "File Handling: FileReader, FileWriter, BufferedReader, BufferedWriter, I/O streams"
+      },
+      {
+        "text": "Multithreading: Creating threads (Thread, Runnable), lifecycle, priority, synchronization, locks, concurrency"
+      },
+      {
+        "text": "Collection Framework: List, Set, Map, Collections and Arrays utility classes, Comparable, Comparator, Marker interfaces"
+      }
+    ]
+  },
+  {
+    "id": "07",
+    "title": "Module 07",
+    "subtitle": "Generics and Streams",
+    "points": [
+      {
+        "text": "Generics in Java: Type safety, parameterized classes, methods, and interfaces"
+      },
+      {
+        "text": "Generic Methods and Classes: Syntax and use cases"
+      },
+      {
+        "text": "Bounded Type Parameters: Extends and super keywords"
+      },
+      {
+        "text": "Wildcard Usage: ?, ? extends, ? super"
+      },
+      {
+        "text": "Stream API: Introduction and purpose"
+      },
+      {
+        "text": "Stream Operations: filter, map, reduce, collect"
+      },
+      {
+        "text": "Lambda Expressions: Functional approach to collections"
+      },
+      {
+        "text": "Functional Interfaces: Predicate, Function, Consumer, Supplier"
+      },
+      {
+        "text": "Method References and Optional Class"
+      }
+    ]
+  },
+  {
+    "id": "08",
+    "title": "Module 08",
+    "subtitle": "Java Database Connectivity (JDBC)",
+    "points": [
+      {
+        "text": "Introduction to JDBC: Purpose and architecture"
+      },
+      {
+        "text": "JDBC Drivers: Types (Type 1 to Type 4) and differences"
+      },
+      {
+        "text": "JDBC API Components: DriverManager, Connection, Statement, PreparedStatement, ResultSet"
+      },
+      {
+        "text": "Establishing Database Connections: Using MySQL with Java"
+      },
+      {
+        "text": "Executing SQL Statements: Queries, updates, batch processing"
+      },
+      {
+        "text": "Handling Transactions: Commit, rollback, savepoints"
+      },
+      {
+        "text": "Error Handling in JDBC: SQL exceptions and best practices"
+      }
+    ]
+  },
+  {
+    "id": "09",
+    "title": "Module 09",
+    "subtitle": "JavaFX and GUI Programming",
+    "points": [
+      {
+        "text": "Introduction to GUI Development in Java"
+      },
+      {
+        "text": "JavaFX Overview: Components, architecture, FXML"
+      },
+      {
+        "text": "JavaFX Controls: Buttons, TextFields, Labels, Layouts"
+      },
+      {
+        "text": "Event Handling in JavaFX: Event listeners, lambda integration"
+      },
+      {
+        "text": "Styling with CSS and Scene Builder Integration"
+      },
+      {
+        "text": "MVC Design Pattern in JavaFX Applications"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Module 10",
+    "subtitle": "Advanced Java Features",
+    "points": [
+      {
+        "text": "Annotations: Definition, built-in annotations, custom annotations"
+      },
+      {
+        "text": "Reflection API: Accessing class information at runtime"
+      },
+      {
+        "text": "Serialization and Deserialization: ObjectInputStream, ObjectOutputStream"
+      },
+      {
+        "text": "Networking in Java: Sockets, ServerSocket, DatagramSocket"
+      },
+      {
+        "text": "Java NIO (New I/O): Channels, Buffers, Selectors"
+      },
+      {
+        "text": "Regular Expressions: Pattern, Matcher classes"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Module 11",
+    "subtitle": "Spring Framework",
+    "points": [
+      {
+        "text": "Introduction to Spring: Framework overview, benefits, architecture"
+      },
+      {
+        "text": "Spring Core Concepts: Beans, Dependency Injection (DI), Inversion of Control (IoC)"
+      },
+      {
+        "text": "Spring Configuration: XML-based, Annotation-based, Java-based"
+      },
+      {
+        "text": "Spring Boot: Simplified configuration and auto-configuration features"
+      },
+      {
+        "text": "Creating REST APIs using Spring Boot"
+      },
+      {
+        "text": "Spring Data JPA and Hibernate Integration"
+      },
+      {
+        "text": "Spring Validation and Exception Handling"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Module 12",
+    "subtitle": "Spring MVC and RESTful Services",
+    "points": [
+      {
+        "text": "Model-View-Controller (MVC) Pattern: Overview and workflow"
+      },
+      {
+        "text": "Spring MVC Components: DispatcherServlet, Controllers, ViewResolvers"
+      },
+      {
+        "text": "Building RESTful APIs with Spring MVC and Spring Boot"
+      },
+      {
+        "text": "HTTP Methods: GET, POST, PUT, DELETE"
+      },
+      {
+        "text": "JSON and XML Data Handling with Jackson"
+      },
+      {
+        "text": "Request Validation and Exception Handling in REST"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Module 13",
+    "subtitle": "Spring Security and Authentication",
+    "points": [
+      {
+        "text": "Introduction to Spring Security: Features and architecture"
+      },
+      {
+        "text": "Authentication and Authorization: Basic, Form-based, Token-based"
+      },
+      {
+        "text": "UserDetailsService and PasswordEncoder implementations"
+      },
+      {
+        "text": "Role-based Access Control (RBAC)"
+      },
+      {
+        "text": "JWT Authentication: Token generation and validation"
+      },
+      {
+        "text": "CORS and CSRF protection mechanisms"
+      },
+      {
+        "text": "Integrating Spring Security with RESTful APIs"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Module 14",
+    "subtitle": "Microservices with Spring Boot",
+    "points": [
+      {
+        "text": "Introduction to Microservices Architecture"
+      },
+      {
+        "text": "Spring Boot Microservices: Structure and design"
+      },
+      {
+        "text": "Service Discovery using Eureka"
+      },
+      {
+        "text": "API Gateway using Spring Cloud Gateway"
+      },
+      {
+        "text": "Inter-service Communication using Feign Client"
+      },
+      {
+        "text": "Configuration Management using Spring Cloud Config"
+      },
+      {
+        "text": "Circuit Breakers and Resilience4j Integration"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Module 15",
+    "subtitle": "Testing and Debugging in Java",
+    "points": [
+      {
+        "text": "Unit Testing with JUnit: Test lifecycle, assertions, annotations"
+      },
+      {
+        "text": "Mocking with Mockito Framework"
+      },
+      {
+        "text": "Integration Testing with Spring Boot Test"
+      },
+      {
+        "text": "Test Data Management and Configuration"
+      },
+      {
+        "text": "Debugging Techniques in IDEs (Eclipse, IntelliJ)"
+      },
+      {
+        "text": "Logging Frameworks: Log4j, SLF4J, Lombok @Slf4j"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Module 16",
+    "subtitle": "Database Design and SQL",
+    "points": [
+      {
+        "text": "Introduction to Databases: Relational concepts and normalization"
+      },
+      {
+        "text": "SQL Basics: SELECT, INSERT, UPDATE, DELETE"
+      },
+      {
+        "text": "Joins: INNER, LEFT, RIGHT, FULL, CROSS"
+      },
+      {
+        "text": "Indexes and Transactions: ACID properties"
+      },
+      {
+        "text": "Database Design Principles and ER Diagrams"
+      },
+      {
+        "text": "Integrating SQL with Java Applications using JDBC and JPA"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Module 17",
+    "subtitle": "Deployment and CI/CD",
+    "points": [
+      {
+        "text": "Introduction to Software Deployment"
+      },
+      {
+        "text": "Build Tools: Maven, Gradle"
+      },
+      {
+        "text": "CI/CD Concepts: Continuous Integration, Continuous Deployment"
+      },
+      {
+        "text": "Jenkins Pipeline: Configuration and automation"
+      },
+      {
+        "text": "Containerization with Docker"
+      },
+      {
+        "text": "Hosting Java Applications on AWS, Azure, or Heroku"
+      },
+      {
+        "text": "Environment Management: Dev, QA, Prod"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Module 18",
+    "subtitle": "Capstone Project & Best Practices",
+    "points": [
+      {
+        "text": "Capstone Project Development using Full Stack Java"
+      },
+      {
+        "text": "Frontend Integration with React or Angular"
+      },
+      {
+        "text": "Backend Integration using Spring Boot and JPA"
+      },
+      {
+        "text": "Authentication using JWT and Security Best Practices"
+      },
+      {
+        "text": "Deployment and Version Control with Git and CI/CD"
+      },
+      {
+        "text": "Code Quality, Documentation, and Presentation"
+      }
+    ]
+  }
+]
+}

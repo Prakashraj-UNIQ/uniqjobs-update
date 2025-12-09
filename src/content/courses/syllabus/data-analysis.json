@@ -1,0 +1,100 @@
+{
+  "syllabus": [
+    {
+      "id": "1",
+      "title": "Module 01",
+      "subtitle": "Introduction to Data Analysis",
+      "points": [
+        { "text": "What is Data Analysis?" },
+        { "text": "Types of Data Analysis: Descriptive, Diagnostic, Predictive" },
+        { "text": "Understanding data types and structures" },
+        { "text": "Role of a Data Analyst" },
+        { "text": "Tools used: Excel, SQL, Python, Power BI" }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Module 02",
+      "subtitle": "Excel for Data Analysis",
+      "points": [
+        { "text": "Excel formulas and functions" },
+        { "text": "Data cleaning in Excel" },
+        { "text": "Pivot tables and charts" },
+        { "text": "Lookup functions: VLOOKUP, HLOOKUP, XLOOKUP" },
+        { "text": "Excel dashboards and reporting" }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Module 03",
+      "subtitle": "SQL for Data Analysis",
+      "points": [
+        { "text": "SQL basics: SELECT, WHERE, ORDER BY" },
+        { "text": "Aggregations: COUNT, SUM, AVG, GROUP BY" },
+        { "text": "Joins and subqueries" },
+        { "text": "Window functions" },
+        { "text": "Analyzing datasets using SQL" }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Module 04",
+      "subtitle": "Python for Data Analysis",
+      "points": [
+        { "text": "Using Python with Pandas and NumPy" },
+        { "text": "Data cleaning and transformation" },
+        { "text": "Exploratory Data Analysis (EDA)" },
+        { "text": "Working with CSV, JSON, Excel" },
+        { "text": "Basic data visualization with Matplotlib & Seaborn" }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Module 05",
+      "subtitle": "Data Visualization",
+      "points": [
+        { "text": "Principles of effective visualization" },
+        { "text": "Types of charts and when to use them" },
+        { "text": "Creating visualizations using Python" },
+        { "text": "Interactive dashboards basics" },
+        { "text": "Making insights understandable" }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Module 06",
+      "subtitle": "Power BI for Data Analysis",
+      "points": [
+        { "text": "Power BI interface and workspace" },
+        { "text": "Connecting to data sources" },
+        { "text": "Transforming data using Power Query" },
+        { "text": "Data modeling and relationships" },
+        { "text": "Building dashboards and publishing reports" }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Module 07",
+      "subtitle": "Data Cleaning & Preprocessing",
+      "points": [
+        { "text": "Identifying missing, duplicate, or incorrect data" },
+        { "text": "Data standardization & normalization" },
+        { "text": "Handling outliers" },
+        { "text": "Feature extraction for analysis" },
+        { "text": "Documentation and versioning of datasets" }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Module 08",
+      "subtitle": "End-to-End Data Analysis Project",
+      "points": [
+        { "text": "Choosing a dataset and defining a business problem" },
+        { "text": "Data cleaning and transformation" },
+        { "text": "Performing EDA and extracting insights" },
+        { "text": "Building dashboards and visual reports" },
+        { "text": "Presenting findings to stakeholders" }
+      ]
+    }
+  ]
+}

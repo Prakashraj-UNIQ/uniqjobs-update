@@ -1,0 +1,100 @@
+{
+    "placedCandidates": [
+        {
+            "name": "Swathi",
+            "company": "Tech Solutions",
+            "position": "Software Engineer",
+            "package": "8 LPA",
+            "photo": "person1.webp",
+            "shortId": "s0hun1-ZmBQ"
+        },
+        {
+            "name": "Thamim Ansar",
+            "company": "Innovatech",
+            "position": "Data Analyst",
+            "package": "8 LPA",
+            "photo": "person2.webp",
+            "shortId": "g_th93dXdVw"
+        },
+        {
+            "name": "Jeya Bharathi",
+            "company": "Creative Minds",
+            "position": "Graphic Designer",
+            "package": "8 LPA",
+            "photo": "person3.webp",
+            "shortId": "Rdxvlg3UYFE"
+        },
+        {
+            "name": "Sangeetha",
+            "company": "FinTech Corp",
+            "position": "Financial Analyst",
+            "package": "8 LPA",
+            "photo": "person4.webp",
+            "shortId": "DOX-zabbgto"
+        },
+        {
+            "name": "Raja",
+            "company": "HealthPlus",
+            "position": "Frotend Developer",
+            "package": "8 LPA",
+            "photo": "person5.webp",
+            "shortId": "WSZTX3lXs_k"
+        },
+        {
+            "name": "Ramu",
+            "company": "EduWorld",
+            "position": "QA tester",
+            "package": "8 LPA",
+            "photo": "person6.webp",
+            "shortId": "qnqED4LHjmQ"
+        },
+        {
+            "name": "Kabil",
+            "company": "GreenTech",
+            "position": "Environmental Engineer",
+            "package": "8 LPA",
+            "photo": "person7.webp",
+            "shortId": "4YP39T-i_Vc"
+        },
+        {
+            "name": "Ravi",
+            "company": "AutoDrive",
+            "position": "Software Engineer",
+            "package": "8 LPA",
+            "photo": "person8.webp",
+            "shortId": "yC8eOkzTlXQ"
+        },
+        {
+            "name": "Ragu",
+            "company": "FinTech Corp",
+            "position": "Software Engineer",
+            "package": "8 LPA",
+            "photo": "person9.webp",
+            "shortId": "LMHKiO6v2J0"
+        },
+        {
+            "name": "Charles David",
+            "company": "GreenTech",
+            "position": "Software Engineer",
+            "package": "8 LPA",
+            "photo": "person10.webp",
+            "shortId": "ssaKNGlbHt4"
+        },
+        {
+            "name": "Dinakaran",
+            "company": "UNIQ Technologies",
+            "position": "Software Engineer",
+            "package": "8 LPA",
+            "photo": "person11.webp",
+            "shortId": "utbj-2IqWvg"
+        },
+        {
+            "name": "Saravanan",
+            "company": "Tech Solutions",
+            "position": "Software Engineer",
+            "package": "4 LPA",
+            "photo": "person12.webp",
+            "shortId": "RhFwoq-_SCk"
+        }
+    ]
+}

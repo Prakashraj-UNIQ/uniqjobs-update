@@ -1,0 +1,96 @@
+{
+  "syllabus" : [
+  {
+    "id": "01",
+    "title": "Module 01",
+    "subtitle": "HTML and CSS",
+    "points": [
+      { "text": "Intro about HTML and basic tags" },
+      { "text": "Formatting elements, Three types of HTML list" },
+      { "text": "Hyperlink and Image" },
+      { "text": "Audio, video, Embed YouTube video and Map" },
+      { "text": "HTML Table" },
+      { "text": "HTML Forms" },
+      { "text": "Full revision and HTML overall task" },
+      { "text": "Intro to CSS, Types of CSS, DIV, SPAN, ID, CLASS concept" },
+      { "text": "Types of selectors, CSS background properties" },
+      { "text": "CSS borders, CSS box model (margin, padding)" },
+      { "text": "CSS text, Font properties, Display (inline, block)" },
+      { "text": "CSS Icons and Links" },
+      { "text": "CSS List and Tables" },
+      { "text": "CSS Float and clear, Combinators, Opacity/Transparency" },
+      { "text": "CSS Positioning, CSS Flex box" },
+      { "text": "Overall Task for HTML and CSS" }
+    ]
+  },
+  {
+    "id": "02",
+    "title": "Module 02",
+    "subtitle": "JavaScript",
+    "points": [
+      { "text": "Introduction to JavaScript, Variables, Data types" },
+      { "text": "Operators" },
+      { "text": "Conditional Statement" },
+      { "text": "Loops" },
+      { "text": "Functions, Types of Function" },
+      { "text": "Var, Let, Const, Hoisting, Strings, String Methods, Math Methods" },
+      { "text": "DOM, Final Project" }
+    ]
+  },
+  {
+    "id": "03",
+    "title": "Module 03",
+    "subtitle": "MsSQL",
+    "points": [
+      { "text": "Intro, Software installation" },
+      { "text": "DDL: Create, Drop, Truncate; DML: Insert; DQL: Select" },
+      { "text": "DDL: Alter; DML: Update, Delete" },
+      { "text": "Constraints" },
+      { "text": "Operators, Top" },
+      { "text": "Wildcards, Group By, Order By" },
+      { "text": "Aggregate Functions, Having" },
+      { "text": "Sub Query, Any, All" },
+      { "text": "Joins, Union, Intersect, Distinct" },
+      { "text": "Temp table, Views" },
+      { "text": "Triggers, Functions" },
+      { "text": "Stored Procedures" },
+      { "text": "Index, String, Date, Math, Analytical Functions" }
+    ]
+  },
+  {
+    "id": "04",
+    "title": "Module 04",
+    "subtitle": "C# (C-Sharp)",
+    "points": [
+      { "text": "Intro, Sample Program, Variables, Data types, Type casting and Conversion, Operators, Control Statements, continue, break, return, goto" },
+      { "text": "Function, class, object, Call by Value, Call by Ref, Constructor and types, OOP’s Intro, Inheritance" },
+      { "text": "Polymorphism, Abstraction, Interface, Encapsulation, Arrays" },
+      { "text": "Multi-Dimensional, Jagged Array, String, String vs StringBuilder, Struct, Exception Handling" },
+      { "text": "Application Exception, Delegate, Multicasting, Anonymous Function, Lambda, Threading, File Handling, Generic vs Non-Generic, Collection, Access Specifiers, Class Types, Enumeration" }
+    ]
+  },
+  {
+    "id": "05",
+    "title": "Module 05",
+    "subtitle": ".NET Core & .NET Framework",
+    "points": [
+      { "text": "Intro to .NET Framework & .NET Core, VS/VS Code setup, Project creation" },
+      { "text": "ASP.NET Core MVC Basics, Layout pages" },
+      { "text": "Servers & Protocols, Routing" },
+      { "text": "CRUD in MVC" },
+      { "text": "EF Core Basics" },
+      { "text": "Repository Pattern in MVC" },
+      { "text": "ASP.NET Core Web API Basics" },
+      { "text": "Web API with Repository Pattern" },
+      { "text": "MVC and API Integration" },
+      { "text": "Advanced CRUD with API Integration" },
+      { "text": "ADO.NET Basics" },
+      { "text": "File Handling in ASP.NET" },
+      { "text": "Session & Authentication" },
+      { "text": "Recap & Deployment" },
+      { "text": "Caching, Middleware & Filters, Security best practices (CORS, CSRF, XSS), Unit testing Controllers and Repositories" }
+    ]
+  }
+]
+
+}

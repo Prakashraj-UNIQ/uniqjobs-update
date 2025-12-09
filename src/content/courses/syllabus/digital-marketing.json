@@ -1,0 +1,84 @@
+{
+  "syllabus" : [
+    {
+  "id": "1",
+  "title": "Module 1: Introduction to Digital Marketing",
+  "subtitle": "Digital Marketing",
+  "points": [
+    { "text": "Evolution of Digital Marketing" },
+    { "text": "Digital vs Traditional Marketing" },
+    { "text": "Marketing Funnel and Customer Journey" },
+    { "text": "Digital Marketing Channels Overview" }
+  ]
+},
+{
+  "id": "1",
+  "title": "Module 2: Search Engine Optimization (SEO)",
+  "subtitle": "Digital Marketing",
+  "points": [
+    { "text": "On-Page SEO Techniques" },
+    { "text": "Off-Page SEO and Backlinking" },
+    { "text": "Technical SEO" },
+    { "text": "Keyword Research Tools" },
+    { "text": "SEO Audits and Optimization" }
+  ]
+},
+{
+  "id": "1",
+  "title": "Module 3: Search Engine Marketing (SEM)",
+  "subtitle": "Digital Marketing",
+  "points": [
+    { "text": "Google Ads Overview" },
+    { "text": "Campaign Types" },
+    { "text": "Bidding Strategies" },
+    { "text": "Ad Copywriting" },
+    { "text": "Conversion Tracking" }
+  ]
+},
+{
+  "id": "1",
+  "title": "Module 4: Social Media Marketing",
+  "subtitle": "Digital Marketing",
+  "points": [
+    { "text": "Facebook & Instagram Marketing" },
+    { "text": "LinkedIn Marketing" },
+    { "text": "YouTube & Video Marketing" },
+    { "text": "Social Media Calendar & Strategy" }
+  ]
+},
+{
+  "id": "1",
+  "title": "Module 5: Content Marketing",
+  "subtitle": "Digital Marketing",
+  "points": [
+    { "text": "Content Strategy & Planning" },
+    { "text": "Copywriting Basics" },
+    { "text": "Blogging & SEO Content" },
+    { "text": "Content Distribution Channels" }
+  ]
+},
+{
+  "id": "1",
+  "title": "Module 6: Email & Automation",
+  "subtitle": "Digital Marketing",
+  "points": [
+    { "text": "Email Marketing Fundamentals" },
+    { "text": "Automation and Segmentation" },
+    { "text": "A/B Testing" },
+    { "text": "Retargeting Campaigns" }
+  ]
+},
+{
+  "id": "1",
+  "title": "Module 7: Analytics & Reporting",
+  "subtitle": "Digital Marketing",
+  "points": [
+    { "text": "Google Analytics Basics" },
+    { "text": "Measuring KPIs" },
+    { "text": "Traffic & Conversion Analysis" },
+    { "text": "Marketing Performance Reports" }
+  ]
+}
+
+  ]
+}

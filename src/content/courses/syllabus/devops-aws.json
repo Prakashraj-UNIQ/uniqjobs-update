@@ -1,0 +1,159 @@
+{
+  "syllabus" : [
+  {
+    "id": "01",
+    "title": "Module 01",
+    "subtitle": "Introduction to DevOps",
+    "points": [
+      { "text": "People, Process, Tools" },
+      { "text": "Traditional, Agile, DevOps" },
+      { "text": "Improved collaboration" },
+      { "text": "Faster delivery" },
+      { "text": "Automation" },
+      { "text": "CI/CD" },
+      { "text": "Infrastructure as Code (IAC)" },
+      { "text": "Monitoring" }
+    ]
+  },
+  {
+    "id": "02",
+    "title": "Module 02",
+    "subtitle": "DevOps with Docker",
+    "points": [
+      { "text": "Installation steps" },
+      { "text": "Initial configuration" },
+      { "text": "Docker Engine" },
+      { "text": "Images" },
+      { "text": "Containers" },
+      { "text": "Docker CLI" },
+      { "text": "Python sample application" },
+      { "text": "JavaScript sample application" },
+      { "text": "Java sample application" },
+      { "text": "Currency Exchange microservice" },
+      { "text": "Currency Conversion microservice" },
+      { "text": "Custom networks" },
+      { "text": "Volume mounts" },
+      { "text": "Docker Compose files" },
+      { "text": "Optimizing Dockerfiles" },
+      { "text": "Layer caching techniques" },
+      { "text": "Pushing/pulling images" },
+      { "text": "Tagging" },
+      { "text": "Versioning" }
+    ]
+  },
+  {
+    "id": "03",
+    "title": "Module 03",
+    "subtitle": "DevOps with Kubernetes (AWS EKS)",
+    "points": [
+      { "text": "Container orchestration" },
+      { "text": "Why Kubernetes?" },
+      { "text": "Automated EKS provisioning with Terraform" },
+      { "text": "Pods" },
+      { "text": "ReplicaSets" },
+      { "text": "Deployments" },
+      { "text": "Services" },
+      { "text": "Dockerized services on EKS" },
+      { "text": "Ingress" },
+      { "text": "ConfigMaps" },
+      { "text": "Secrets" },
+      { "text": "Load Balancing" },
+      { "text": "Service Discovery" },
+      { "text": "Rolling Updates" }
+    ]
+  },
+  {
+    "id": "04",
+    "title": "Module 04",
+    "subtitle": "Infrastructure as Code with Terraform",
+    "points": [
+      { "text": "Declarative syntax" },
+      { "text": "Reproducibility" },
+      { "text": "Version control" },
+      { "text": "Installation steps" },
+      { "text": "Configuration" },
+      { "text": "EC2" },
+      { "text": "VPC" },
+      { "text": "Subnets" },
+      { "text": "Load Balancers" },
+      { "text": "IAM Users" },
+      { "text": "S3 Buckets" },
+      { "text": "Terraform Variables" },
+      { "text": "State Management" },
+      { "text": "Remote Backend" },
+      { "text": "Workspaces" },
+      { "text": "Modules" },
+      { "text": "Environments" },
+      { "text": "EKS provisioning via modules" }
+    ]
+  },
+  {
+    "id": "05",
+    "title": "Module 05",
+    "subtitle": "Configuration Management with Ansible",
+    "points": [
+      { "text": "Use cases" },
+      { "text": "Agentless architecture" },
+      { "text": "Control Node" },
+      { "text": "Inventory" },
+      { "text": "Playbooks" },
+      { "text": "ansible" },
+      { "text": "ansible-playbook" },
+      { "text": "Modules overview" },
+      { "text": "Managing EC2" },
+      { "text": "Apache Installation" },
+      { "text": "Shell Scripts" },
+      { "text": "Variables" },
+      { "text": "Loops" },
+      { "text": "Conditionals" },
+      { "text": "EC2 Dynamic Inventory" },
+      { "text": "Declarative Configuration" }
+    ]
+  },
+  {
+    "id": "06",
+    "title": "Module 06",
+    "subtitle": "CI/CD with Jenkins",
+    "points": [
+      { "text": "Overview and use cases" },
+      { "text": "Using Docker for Jenkins" },
+      { "text": "Scripted pipelines" },
+      { "text": "Declarative pipelines" },
+      { "text": "Stages" },
+      { "text": "Agents" },
+      { "text": "Variables" },
+      { "text": "Docker integration" },
+      { "text": "Maven integration" },
+      { "text": "Building Docker Images" },
+      { "text": "Testing" },
+      { "text": "Pushing to Registry" }
+    ]
+  },
+  {
+    "id": "07",
+    "title": "Module 07",
+    "subtitle": "CI/CD with Azure DevOps (for AWS)",
+    "points": [
+      { "text": "Pipeline usage for AWS" },
+      { "text": "Terraform apply/destroy" },
+      { "text": "Docker build and push" },
+      { "text": "Deploying to EKS" }
+    ]
+  },
+  {
+    "id": "08",
+    "title": "Module 08",
+    "subtitle": "Capstone Projects",
+    "points": [
+      { "text": "Jenkins" },
+      { "text": "Terraform" },
+      { "text": "Ansible" },
+      { "text": "Docker" },
+      { "text": "Kubernetes (EKS)" },
+      { "text": "Provisioning Infrastructure" },
+      { "text": "Microservice Deployment" },
+      { "text": "Monitoring and Logging" }
+    ]
+  }
+]
+}

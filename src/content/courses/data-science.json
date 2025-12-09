@@ -1,0 +1,162 @@
+{
+  "slug": "data-science-course",
+  "courseTitle" :"Data Science",
+  "title": "Master Data Science with UNIQ Technologies",
+  "subtitle": "Become an industry-ready Data Scientist with UNIQ Technologies. This course covers Python, Statistics, Machine Learning, Deep Learning, Data Visualization, and Real-Time Projects designed to make you job-ready. Ideal for freshers, IT/non-IT graduates, and professionals looking to transition into Data Science.",
+  "banner": {
+    "bgImageUrl": "/images/clsBala.webp",
+    "youtubeId": "aAp40dQXPSk",
+    "applyHref": "/contactus"
+  },
+  "afterCompleted": {
+    "title": "Job Opportunities After Data Science Course",
+    "description": "Data Science is one of the fastest-growing careers globally. After completing this course, you can apply for roles such as:",
+    "position": [
+      "Data Scientist",
+      "Machine Learning Engineer",
+      "AI Engineer",
+      "Data Analyst",
+      "Business Intelligence Analyst",
+      "Statistical Modeler",
+      "Research Analyst"
+    ],
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Deloitte",
+      "Accenture",
+      "Cognizant",
+      "TCS",
+      "Infosys"
+    ]
+  },
+  "whychoose": [
+    {
+      "title": "Complete Data Science Curriculum",
+      "description": "Covers Python, Statistics, ML, DL, NLP, Power BI, SQL & end-to-end projects.",
+      "icon": "learn.svg"
+    },
+    {
+      "title": "Real-Time Projects",
+      "description": "Work on real datasets involving prediction, classification, NLP, and deep learning.",
+      "icon": "realtime.svg"
+    },
+    {
+      "title": "100% Placement Support",
+      "description": "Get full placement assistance with daily interview leads until you get placed.",
+      "icon": "placement.svg"
+    },
+    {
+      "title": "Industry Tools & Libraries",
+      "description": "Learn TensorFlow, Sklearn, Pandas, NumPy, Seaborn, SciPy, and more.",
+      "icon": "mock.svg"
+    },
+    {
+      "title": "Hands-On Learning",
+      "description": "Every topic includes coding labs and real-world dataset analysis.",
+      "icon": "Practice.svg"
+    },
+    {
+      "title": "Expert Mentors",
+      "description": "Learn from senior Data Scientists and ML Engineers from top MNCs.",
+      "icon": "export.svg"
+    },
+    {
+      "title": "Flexible Schedules",
+      "description": "Weekend and weekday classes available for all learners.",
+      "icon": "batch.svg"
+    },
+    {
+      "title": "Recognized Certification",
+      "description": "Get an internship certificate that is accepted by leading companies.",
+      "icon": "Certificate.svg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is a Data Science course?",
+      "answer": "A Data Science course teaches you to extract insights from data using Python, statistics, machine learning, deep learning, and visualization tools."
+    },
+    {
+      "question": "Do I need coding experience?",
+      "answer": "No! We start from the basics. You will learn Python programming as part of the course."
+    },
+    {
+      "question": "What tools will I learn?",
+      "answer": "Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Keras, SQL, Power BI, Tableau and NLP tools."
+    },
+    {
+      "question": "Is Data Science good for freshers?",
+      "answer": "Yes! Companies hire freshers for Data Scientist, ML Engineer, and Analyst positions."
+    },
+    {
+      "question": "Do you provide placement support?",
+      "answer": "Yes. We provide 100% placement support with resume prep, mock interviews, and daily job openings."
+    },
+    {
+      "question": "Is there a certificate after completion?",
+      "answer": "Yes, you will receive Course Completion and Internship Certificates recognized by IT companies."
+    },
+    {
+      "question": "Do you provide real-time projects?",
+      "answer": "Absolutely! You will complete projects in ML, DL, forecasting, NLP, and visualization."
+    },
+    {
+      "question": "Can non-IT students join?",
+      "answer": "Yes! Many students from B.Com, BBA, Civil, Mechanical, ECE, and others have successfully transitioned into Data Science."
+    },
+    {
+      "question": "Do you offer online and offline classes?",
+      "answer": "Yes, both modes are available and switching between them is free."
+    },
+    {
+      "question": "What is the course duration?",
+      "answer": "The duration is around 4–6 months depending on your batch schedule."
+    }
+  ],
+  "seo": {
+    "title": "Best Data Science Course Training Institute in Chennai | Uniq Jobs",
+    "description": "Learn Data Science with Python, Machine Learning, Deep Learning, and real-time projects with placement support.",
+    "keywords": [
+      "Data Science Course",
+      "Machine Learning",
+      "Python",
+      "Deep Learning"
+    ]
+  },
+  "locationsSEO": {
+    "chennai": {
+      "title": "Data Science Course with Placement in Chennai | Uniq Jobs",
+      "description": "Master Python, Machine Learning, SQL, and AI tools with structured Data Science training and job support in Chennai."
+    },
+    "madurai": {
+      "title": "Data Science Course in Madurai | Uniq Jobs",
+      "description": "Affordable Data Science training with real-time projects and placement guidance in Madurai."
+    },
+    "trichy": {
+      "title": "Data Science Training in Trichy | Uniq Jobs",
+      "description": "Learn Python, ML, Statistics & Data Visualization with hands-on training and placement support in Trichy."
+    },
+    "coimbatore": {
+      "title": "Best Data Science Training with Placement in Coimbatore | Uniq Jobs",
+      "description": "Industry-grade Data Science course with ML, AI tools, and strong placement support in Coimbatore."
+    },
+    "salem": {
+      "title": "Data Science Course in Salem | Uniq Jobs",
+      "description": "Job-oriented Data Science training with practical labs and career assistance in Salem."
+    },
+    "tirunelveli": {
+      "title": "Best Data Science Training with Placement in Thirunelveli | Uniq Jobs",
+      "description": "Build strong Data Science and ML skills with guided, placement-focused training in Thirunelveli."
+    },
+    "Puducherry": {
+      "title": "Data Science Course in Puducherry | Uniq Jobs",
+      "description": "Hands-on Data Science & Machine Learning training with placement guidance in Puducherry."
+    },
+    "bangalore": {
+      "title": "Data Science Course with Placement in Bangalore | Uniq Jobs",
+      "description": "Career-focused Data Science program with ML, Python, and job support in Bangalore."
+    }
+  }
+}

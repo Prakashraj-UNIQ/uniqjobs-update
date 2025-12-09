@@ -1,0 +1,100 @@
+{
+  "syllabus": [
+    {
+      "id": "01",
+      "title": "Module 01",
+      "subtitle": "Introduction to Software Testing",
+      "points": [
+        { "text": "What is software testing?" },
+        { "text": "Importance and objectives of testing" },
+        { "text": "Quality assurance vs quality control" },
+        { "text": "Software development life cycles (SDLC)" },
+        { "text": "Role of a software tester" }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Module 02",
+      "subtitle": "Testing Fundamentals",
+      "points": [
+        { "text": "Types of testing: Functional vs Non-functional" },
+        { "text": "Static vs dynamic testing" },
+        { "text": "Verification and validation" },
+        { "text": "Test levels: Unit, Integration, System, UAT" },
+        { "text": "Test design techniques: Black-box, white-box" }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Module 03",
+      "subtitle": "Manual Testing Process",
+      "points": [
+        { "text": "Requirement analysis and test planning" },
+        { "text": "Test case design and writing" },
+        { "text": "Test execution and reporting" },
+        { "text": "Defect life cycle and bug reporting" },
+        { "text": "Test summary and closure activities" }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Module 04",
+      "subtitle": "Test Management Tools",
+      "points": [
+        { "text": "Introduction to test management tools" },
+        { "text": "JIRA for issue tracking" },
+        { "text": "TestRail / Zephyr for test case management" },
+        { "text": "Traceability matrix" },
+        { "text": "Agile testing and Scrum ceremonies" }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "Module 05",
+      "subtitle": "Automation Testing with Selenium",
+      "points": [
+        { "text": "Introduction to automation testing" },
+        { "text": "Selenium WebDriver basics" },
+        { "text": "Locators and XPath" },
+        { "text": "Writing test scripts in Python or Java" },
+        { "text": "Test execution and reporting" }
+      ]
+    },
+    {
+      "id": "06",
+      "title": "Module 06",
+      "subtitle": "Frameworks & CI Integration",
+      "points": [
+        { "text": "TestNG / PyTest frameworks" },
+        { "text": "Page Object Model (POM)" },
+        { "text": "Data-driven and keyword-driven frameworks" },
+        { "text": "Continuous testing with Jenkins" },
+        { "text": "Version control with Git" }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "Module 07",
+      "subtitle": "API & Performance Testing",
+      "points": [
+        { "text": "API testing fundamentals" },
+        { "text": "Postman and REST API validation" },
+        { "text": "Automation with Newman or Python requests" },
+        { "text": "Performance testing using JMeter" },
+        { "text": "Load, stress, and endurance tests" }
+      ]
+    },
+    {
+      "id": "08",
+      "title": "Module 08",
+      "subtitle": "End-to-End Testing Project",
+      "points": [
+        { "text": "Selecting a web application for testing" },
+        { "text": "Preparing test plan and scenarios" },
+        { "text": "Manual and automation execution" },
+        { "text": "Bug reporting and documentation" },
+        { "text": "Project presentation and review" }
+      ]
+    }
+  ]
+}
